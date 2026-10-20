@@ -143,7 +143,7 @@ def harvest_links(html: str, base_url: str, source: str, must_contain: str = "")
 class GenericTableSource(Source):
     """Header-mapped table scraper for portals without a dedicated adapter.
 
-    Config: urls (list), kind (tender|award), max_pages (follows ?page=N), contains
+    Config: urls (list), kind (tender|award), max_pages (follows ?page=N; page_base 0 when page 2 is ?page=1), contains
     (keep only rows whose text contains this, e.g. 'Pakistan'), harvest_links (fallback).
     """
 
@@ -158,7 +158,7 @@ class GenericTableSource(Source):
         for url in urls:
             known: set[str] = set()
             for p in range(1, max_pages + 1):
-                params = {"page": p} if p > 1 else None
+                params = {"page": p - 1 + int(self.cfg.get("page_base", 1))} if p > 1 else None
                 r = self.http.get(url, params=params, source=self.name, tag=f"{url.rsplit('/', 1)[-1]}_p{p}")
                 batch = parse_table(r.text, url, self.name, kind)
                 if not batch and self.cfg.get("harvest_links", True):

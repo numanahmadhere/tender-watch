@@ -55,6 +55,31 @@ def run_pipeline(cfg: dict, results: list[Result], state: State, now, today: str
     return relevant, diff, soon, tenders, awards, awards_new
 
 
+def write_diagnostics(results, relevant, now, folder: Path, snapshots: Path | None) -> None:
+    """Committed to the repo so a failing source can be diagnosed without downloading artifacts:
+    per source status, how many records were fetched vs relevant, a few sample titles,
+    and (discover mode only) trimmed raw page snapshots."""
+    kept: dict[str, int] = {}
+    for t in relevant:
+        kept[t.source] = kept.get(t.source, 0) + 1
+    report = {
+        "run_at": now.isoformat(timespec="minutes"),
+        "sources": {
+            r.name: {"status": r.status, "message": r.message, "fetched": r.count,
+                     "relevant": kept.get(r.name, 0), "sample_titles": [t.title[:100] for t in r.tenders[:4]]}
+            for r in results
+        },
+    }
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / "last_run.json").write_text(json.dumps(report, indent=1, ensure_ascii=False), "utf-8")
+    if snapshots and snapshots.exists():
+        dest = folder / "snapshots"
+        for f in snapshots.rglob("*.txt"):
+            target = dest / f.relative_to(snapshots)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(f.read_text("utf-8", errors="replace")[:60_000], "utf-8")
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="TenderWatch daily run")
     ap.add_argument("--config", default="config.yaml")
@@ -87,6 +112,7 @@ def main(argv: list[str] | None = None) -> int:
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
+    write_diagnostics(results, relevant, now, Path("data/diagnostics"), Path(args.out) / "snapshots" if discover else None)
     (out / "digest.html").write_text(email["html"], "utf-8")
     (out / "summary.json").write_text(json.dumps({"counts": counts, "subject": email["subject"]}, indent=1), "utf-8")
     print(email["subject"])

@@ -155,3 +155,13 @@ def test_award_rows_get_clean_ids_and_titles():
     assert t.source_id == "EVL00000004120"
     assert "Bids" not in t.title and "EVL" not in t.title and "&#" not in t.title
     assert t.description == ""
+
+
+def test_pitb_style_table_and_page_base():
+    from tenderwatch.sources.generic import parse_table
+    html = ("<table><tr><th>Title</th><th>File</th><th>Release Date</th><th>Closing Date</th></tr>"
+            "<tr><td>HR outsourcing, scanning, and data entry (EGOV-21)</td>"
+            "<td><a href='/system/files/BD_EGOV_21.pdf'>pdf</a></td><td>Oct 15, 2026</td><td>Oct 30, 2026</td></tr></table>")
+    t = parse_table(html, "https://pitb.gov.pk/tendernotices", "pitb")[0]
+    assert t.published == "2026-10-15" and t.deadline == "2026-10-30"
+    assert t.url == "https://pitb.gov.pk/system/files/BD_EGOV_21.pdf"

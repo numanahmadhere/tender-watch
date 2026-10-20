@@ -117,3 +117,18 @@ def test_robots_rules():
     assert robots_http(404).allowed("https://b.example/anything")      # no robots.txt: allowed
     assert not robots_http(503).allowed("https://c.example/anything")  # server error: conservative
     assert not robots_http(200, "User-agent: *\nDisallow: /\n").allowed("https://d.example/x")
+
+
+def test_diagnostics_written(tmp_path):
+    from datetime import datetime
+    from tenderwatch.dates import PKT
+    from tenderwatch.models import Tender
+    from tenderwatch.run import write_diagnostics
+    from tenderwatch.sources.base import Result
+    t = Tender(source="a", source_id="1", title="x" * 5)
+    write_diagnostics([Result("a", "ok", "", [t]), Result("b", "error", "boom")], [t],
+                      datetime(2026, 10, 20, tzinfo=PKT), tmp_path / "d", None)
+    import json
+    rep = json.loads((tmp_path / "d" / "last_run.json").read_text())
+    assert rep["sources"]["a"]["fetched"] == 1 and rep["sources"]["a"]["relevant"] == 1
+    assert rep["sources"]["b"]["status"] == "error"

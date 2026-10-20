@@ -66,18 +66,21 @@ sources:
   # Section 1: international and donor sources reachable from GitHub (no keys needed).
   - {name: ted, type: ted, lookback_days: 30, max_pages: 5, experimental: true}
   - {name: contracts_finder, type: contracts_finder, lookback_days: 14, max_pages: 8, contains: pakistan, experimental: true}
-  - {name: undp, type: generic_table, url: "https://procurement-notices.undp.org/", contains: "UNDP-PAK", experimental: true}
+  # undp disabled: its robots.txt forbids automated access.
+  - {name: undp, enabled: false, type: generic_table, url: "https://procurement-notices.undp.org/", contains: "UNDP-PAK", experimental: true}
 
   # Section 2: early signals, before a tender exists. World Bank pipeline projects for Pakistan.
   - {name: wb_pipeline, type: wb_pipeline, statuses: [Pipeline]}
 
+  # Disabled after run 2: pseb and ignite URLs gave 404 (Ignite posts on EPMS, already covered);
+  # nitb, nadra and secp return 403 to automated clients.
   # Section 4: buyers that publish their own tenders. URLs are best guesses: check the Source
   # health table after the first run and fix or disable any that error.
   - {name: sbp, type: generic_table, url: "https://www.sbp.org.pk/online-tenders", experimental: true}
-  - {name: pitb, type: generic_table, url: "https://pitb.gov.pk/tenders", experimental: true}
-  - {name: pseb, type: generic_table, url: "https://pseb.org.pk/tenders", experimental: true}
-  - {name: nitb, type: generic_table, url: "https://nitb.gov.pk/tenders", experimental: true}
-  - {name: ignite, type: generic_table, url: "https://ignite.org.pk/tenders/", experimental: true}
-  - {name: nadra, type: generic_table, url: "https://www.nadra.gov.pk/tenders/", experimental: true}
+  - {name: pitb, type: generic_table, url: "https://pitb.gov.pk/tendernotices", max_pages: 3, page_base: 0}
+  - {name: pseb, enabled: false, type: generic_table, url: "https://pseb.org.pk/tenders", experimental: true}
+  - {name: nitb, enabled: false, type: generic_table, url: "https://nitb.gov.pk/tenders", experimental: true}
+  - {name: ignite, enabled: false, type: generic_table, url: "https://ignite.org.pk/tenders/", experimental: true}
+  - {name: nadra, enabled: false, type: generic_table, url: "https://www.nadra.gov.pk/tenders/", experimental: true}
   - {name: fbr, type: generic_table, url: "https://www.fbr.gov.pk/tenders", experimental: true}
-  - {name: secp, type: generic_table, url: "https://www.secp.gov.pk/tenders/", experimental: true}
+  - {name: secp, enabled: false, type: generic_table, url: "https://www.secp.gov.pk/tenders/", experimental: true}
