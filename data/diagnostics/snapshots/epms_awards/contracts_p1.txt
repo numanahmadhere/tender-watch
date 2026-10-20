@@ -1,0 +1,650 @@
+URL: https://epms.ppra.gov.pk/public/contracts
+HTTP: 200
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procurement Contracts - PPRA</title>
+    <meta name="description" content="View published procurement contracts and awarded tenders">
+    <link rel="icon" type="image/png" href="/public/assets/images/favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/public/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/assets/css/all.css">
+    <link rel="stylesheet" href="/assets/fonts/remixicon/remixicon.css" />
+    <link rel="stylesheet" href="/assets/libs/select2/select2.css" />
+    <link rel="stylesheet" href="/public/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/custom.css" />
+    <style>
+        .download-buttons {
+            margin-top: 30px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .btn-download {
+            display: inline-block;
+            padding: 12px 30px;
+            margin: 0 10px;
+            background: white;
+            color: #1e3c72;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-download:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            color: #1e3c72;
+        }
+
+        .btn-download i {
+            margin-right: 8px;
+        }
+    </style> 
+</head>
+
+<body class="light-style light-style-bg">
+
+    <div class="box-layout">
+
+        <!-- Header -->
+
+                <!-- start header -->
+        <header class="position-sticky top-0 bg-white z-3">
+            <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+                <div class="container container-wide">
+                    <a class="navbar-brand d-flex align-items-center gap-2" href="https://ppra.gov.pk/">
+                        <img src="/public/assets/images/ppra-logo.png" alt="PPRA Logo"
+                            style="width: 80px;height: auto !important;max-height: 80px;">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item"><a class="nav-link" href="https://ppra.gov.pk/">Home</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Tenders 
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item"><a class="nav-link" href="/public/tenders/active-tenders">Active Tenders</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/public/tenders/tenders-history">Tenders History</a></li>
+                                </ul>
+                            </li>
+                            <!-- <li class="nav-item"><a class="nav-link" href="/public/tenders/active-tenders">Active Tenders</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/public/tenders/tenders-history">Tenders History</a></li> -->
+                            <li class="nav-item"><a class="nav-link" href="/public/evaluations">Evaluation Results</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/public/contracts">Contracts</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/public/grievances">Grievances</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/public/jobs/job-advertisements">job Advertisements</a></li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Blacklisted Firms
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item"><a class="nav-link" href="/public/active-blacklisted-firms">Active Black Listed Firms</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/public/active-de-listed-black-listed-firms">De-Listed Black Listed Firms</a></li>
+                                </ul>
+                            </li>
+                            <!-- <li class="nav-item"><a class="nav-link" href="/public/active-blacklisted-firms">Active Black Listed Firms</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/public/active-de-listed-black-listed-firms">De-Listed Black Listed Firms</a></li> -->
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!-- end header -->
+        <!-- Page Title -->
+        <div class="container container-wide py-3">
+            <div class="hero">
+                <h1>Procurement Contracts</h1>
+                <p> Public Contracts of Works, Services & Goods (Public Procurement Rule-47, 2004 and Public Procurement Regulations, 2009)</p>
+            </div>
+            <div class="row mb-4">
+                <div class="col-12 no-print">
+                    <div class="d-flex gap-2 flex-wrap justify-content-end">
+                        <a href="/pdf?file=cGRmL3BlcmZvcm1hLXBwLXJlZ3VsYXRpb24tMjAwOS5wZGY=" class="btn btn-primary btn-sm d-inline-flex" download="PPRA Rules 2004 PDF" target="_blank">
+                            <i class="ri-file-pdf-line text-danger"></i>Download PDF - Click to download Performa (PP Regulation-2009) <i class="ri-download-2-line ms-1"></i>
+                        </a>
+                        <a href="/pdf?file=cGRmL3BlcmZvcm1hLXBwLXJ1bGUtNDcucGRm" class="btn btn-primary btn-sm d-inline-flex" download="PPRA Rules Notification PDF" target="_blank">
+                            <i class="ri-file-pdf-line text-danger"></i>Download PDF - Click to download Performa (PP Rule-47) <i class="ri-download-2-line ms-1"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <main class="main pt-70px pb-70px">
+            <section class="p-0">
+                <div class="container container-wide">
+
+                    <!-- Active Filters Display -->
+                    
+                    <!-- Filter Card -->
+                    <div class="filter-card">
+                        <button class="btn btn-link text-decoration-none filter-header w-100 p-3" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#filterCollapse">
+                            <h2 class="filter-title"><i class="fas fa-sliders-h me-2"></i>Filters</h2>
+                            <i class="fas fa-chevron-down text-primary"></i>
+                        </button>
+                        <div class="collapse show" id="filterCollapse">
+                            <div class="p-3">
+                                <form method="GET" action="" id="filterForm">
+                                    <div class="row g-3">
+                                        <!-- Keyword Search -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Keyword Search</label>
+                                            <input type="text" name="keyword" class="form-control form-control-sm bg-body-secondary"
+                                                placeholder="Search by title, bidder, or description"
+                                                value="">
+                                        </div>
+
+                                        <!-- PPRA Contract Number (CRITICAL FILTER) -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">PPRA Contract No <span class="text-danger">*</span></label>
+                                            <input type="text" name="contract_no" class="form-control form-control-sm bg-body-secondary"
+                                                placeholder="e.g., PCN-12345678"
+                                                value="">
+                                            <!-- <small class="text-muted">System generated number</small> -->
+                                        </div>
+
+                                        <!-- Reference Contract Number -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Reference Contract No</label>
+                                            <input type="text" name="ref_contract_no" class="form-control form-control-sm bg-body-secondary"
+                                                placeholder="Agency reference number"
+                                                value="">
+                                        </div>
+
+                                        <!-- Tender Number -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Tender Number</label>
+                                            <input type="text" name="tender_no" class="form-control form-control-sm bg-body-secondary"
+                                                placeholder="e.g., TND00000000001"
+                                                value="">
+                                        </div>
+
+                                        <!-- Advertise Date -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Advertise Date</label>
+                                            <input type="date" name="advertise_date" class="form-control form-control-sm bg-body-secondary"
+                                                value="">
+                                        </div>
+
+                                        <!-- Date Range From -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Date From</label>
+                                            <input type="date" name="advertise_date_from" class="form-control form-control-sm bg-body-secondary"
+                                                value="">
+                                        </div>
+
+                                        <!-- Date Range To -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Date To</label>
+                                            <input type="date" name="advertise_date_to" class="form-control form-control-sm bg-body-secondary"
+                                                value="">
+                                        </div>
+
+                                        <!-- Nature of Purchase -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Nature of Purchase</label>
+                                            <select name="nature_of_purchase" class="form-select form-select-sm bg-body-secondary">
+                                                <option value="">All Types</option>
+                                                                                                    <option value="goods" >
+                                                        Goods                                                    </option>
+                                                                                                    <option value="works" >
+                                                        Works                                                    </option>
+                                                                                                    <option value="services" >
+                                                        Services                                                    </option>
+                                                                                                    <option value="consultancy" >
+                                                        Consultancy                                                    </option>
+                                                                                            </select>
+                                        </div>
+
+                                        <!-- Organization -->
+                                        <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                            <label class="form-label">Organization</label>
+                                            <select name="organization" class="form-select form-select-sm bg-body-secondary text-truncate select2">
+                                                <option value="">All Organizations</option>
+                                                                                                    <option value="621"
+                                                        >
+                                                        1 Engineer Battalion                                                    </option>
+                                                                                                    <option value="732"
+                                                        >
+                                                        1 Mountain Medical Battalion                                                    </option>
+                                                                                                    <option value="684"
+                                                        >
+                                                        100 Engineer Battalion                                                    </option>
+                                                                                                    <option value="407"
+                                                        >
+                                                        102 Lt  AD (SAM) Regiment                                                    </option>
+                                                                                                    <option value="608"
+                                                        >
+                                                        102 Ordnance Unit                                                    </option>
+                                                                                                    <option value="622"
+                                                        >
+                                                        103 Engineer Battalion                                                    </option>
+                                                                                                    <option value="762"
+                                                        >
+                                                        103 Lt  AD (GM) Regiment                                                    </option>
+                                                                                                    <option value="405"
+                                                        >
+                                                        103 Ordnance Unit                                                    </option>
+                                                                                                    <option value="370"
+                                                        >
+                                                        104 Engineer Battalion                                                    </option>
+                                                                                                    <option value="649"
+                                                        >
+                                                        105 Engineer Battalion                                                    </option>
+                                                                                                    <option value="572"
+                                                        >
+                                                        106 Engineer Battalion                                                    </option>
+                                                                                                    <option value="664"
+                                                        >
+                                                        106 Ordnance Unit                                                    </option>
+                                                                                                    <option value="754"
+                                                        >
+                                                        107 Engineer Battalion                                                    </option>
+                                                                                                    <option value="727"
+                                                        >
+                                                        108 Engineer Battalion                                                    </option>
+                                                                                                    <option value="790"
+                                                        >
+                                                        109  Engineer Battalion                                                    </option>
+                                                                                                    <option value="630"
+                                                        >
+                                                        11 Engineer Battalion                                                    </option>
+                                                                                                    <option value="399"
+                                                        >
+                                                        11 Signal Battalion                                                    </option>
+                                                                                                    <option value="753"
+                                                        >
+                                                        11 Sindh Regiment                                                    </option>
+                                                                                                    <option value="759"
+                                                        >
+                                                        12 Engineer Battalion                                                    </option>
+                                                                                                    <option value="529"
+                                                        >
+                                                        12 Sindh Regiment                                                    </option>
+                                                                                                    <option value="636"
+                                                        >
+                                                        123 Medical Battalion                                                    </option>
+                                                                                                    <option value="497"
+                                                        >
+                                                        13 Sindh Regiment                                                    </option>
+                                                                                                    <option value="366"
+                                                        >
+                                                        130 Medical Battalion                                                    </option>
+                                                                                                    <option value="517"
+                                                        >
+                                                        134 Medical Battalion                                                    </option>
+                                                                                                    <option value="676"
+                                                        >
+                                                        136 Medical Battalion                                                    </option>
+                                                                                                    <option value="1207"
+                                                        >
+                                                        1391&#9;Engineering Task Force 12 Corps Quetta                                                    </option>
+                                                                                                    <option value="713"
+                                                        >
+                                                        14 Engineer Battalion                                                    </option>
+                                                                                                    <option value="392"
+                                                        >
+                                                        142 Medical Battalion                                                    </option>
+                                                                                                    <option value="580"
+                                                        >
+                                                        144 Medical Battalion                                                    </option>
+                                                                                                    <option value="628"
+                                                        >
+                                                        15 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="504"
+                                                        >
+                                                        15 Signal Battalion                                                    </option>
+                                                                                                    <option value="516"
+                                                        >
+                                                        154 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="618"
+                                                        >
+                                                        16 Engineer Battalion                                                    </option>
+                                                                                                    <option value="675"
+                                                        >
+                                                        16 Horse Battalion                                                    </option>
+                                                                                                    <option value="695"
+                                                        >
+                                                        160 RCG AD Regt                                                    </option>
+                                                                                                    <option value="394"
+                                                        >
+                                                        17 Engineer Battalion                                                    </option>
+                                                                                                    <option value="613"
+                                                        >
+                                                        17 Signal Battalion                                                    </option>
+                                                                                                    <option value="637"
+                                                        >
+                                                        173 Engineer Battalion                                                    </option>
+                                                                                                    <option value="538"
+                                                        >
+                                                        173 Medical Battalion                                                    </option>
+                                                                                                    <option value="677"
+                                                        >
+                                                        174 Engineer Battalion                                                    </option>
+                                                                                                    <option value="444"
+                                                        >
+                                                        18 Engineer Battalion                                                    </option>
+                                                                                                    <option value="656"
+                                                        >
+                                                        18 Horse Battalion                                                    </option>
+                                                                                                    <option value="591"
+                                                        >
+                                                        19 Baloch (SSG)                                                    </option>
+                                                                                                    <option value="737"
+                                                        >
+                                                        19 Engineer Battalion                                                    </option>
+                                                                                                    <option value="566"
+                                                        >
+                                                        19 Signal Battalion                                                    </option>
+                                                                                                    <option value="559"
+                                                        >
+                                                        2 Engineer Battalion                                                    </option>
+                                                                                                    <option value="588"
+                                                        >
+                                                        2 Lt Cammando Battalion (Baloch)                                                    </option>
+                                                                                                    <option value="706"
+                                                        >
+                                                        2 Mountain Medical Battalion Care of Pak-A Code 13                                                    </option>
+                                                                                                    <option value="617"
+                                                        >
+                                                        21 Artillery Division Battle School                                                    </option>
+                                                                                                    <option value="612"
+                                                        >
+                                                        21 Engineer Battalion                                                    </option>
+                                                                                                    <option value="680"
+                                                        >
+                                                        21 Horse Battalion                                                    </option>
+                                                                                                    <option value="362"
+                                                        >
+                                                        22 Engineer Battalion                                                    </option>
+                                                                                                    <option value="544"
+                                                        >
+                                                        22 Sind Regt                                                    </option>
+                                                                                                    <option value="560"
+                                                        >
+                                                        23 Engineer Battalion                                                    </option>
+                                                                                                    <option value="546"
+                                                        >
+                                                        23 Signal Battalion                                                    </option>
+                                                                                                    <option value="445"
+                                                        >
+                                                        24 Engineer Battalion                                                    </option>
+                                                                                                    <option value="414"
+                                                        >
+                                                        24 Signal Battalion                                                    </option>
+                                                                                                    <option value="587"
+                                                        >
+                                                        24 Sindh Regiment                                                    </option>
+                                                                                                    <option value="610"
+                                                        >
+                                                        25 Engr Battalion                                                    </option>
+                                                                                                    <option value="750"
+                                                        >
+                                                        25 Sindh Regiment                                                    </option>
+                                                                                                    <option value="371"
+                                                        >
+                                                        26  Engineer Battalion                                                    </option>
+                                                                                                    <option value="682"
+                                                        >
+                                                        26 Sindh Regiment                                                    </option>
+                                                                                                    <option value="619"
+                                                        >
+                                                        3 Animal Transport Regiment  (ASC)                                                    </option>
+                                                                                                    <option value="551"
+                                                        >
+                                                        3 Engineer Battalion                                                    </option>
+                                                                                                    <option value="585"
+                                                        >
+                                                        3 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="742"
+                                                        >
+                                                        3 Mountain Medical Battalion                                                    </option>
+                                                                                                    <option value="1259"
+                                                        >
+                                                        301 Central Base Spares Depot EME                                                    </option>
+                                                                                                    <option value="1260"
+                                                        >
+                                                        304 Spares Depot EME                                                    </option>
+                                                                                                    <option value="667"
+                                                        >
+                                                        32 Signals Battalion                                                    </option>
+                                                                                                    <option value="625"
+                                                        >
+                                                        32 Sindh Regiment                                                    </option>
+                                                                                                    <option value="1206"
+                                                        >
+                                                        3CDO-POWINDAHS (SSG) Barotha Garrison                                                    </option>
+                                                                                                    <option value="674"
+                                                        >
+                                                        4 Engineer Battalion                                                    </option>
+                                                                                                    <option value="803"
+                                                        >
+                                                        4 Medical Battalion                                                    </option>
+                                                                                                    <option value="744"
+                                                        >
+                                                        4 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="500"
+                                                        >
+                                                        4 Mountain Medical Battalion                                                    </option>
+                                                                                                    <option value="678"
+                                                        >
+                                                        40 Horse Battalion                                                    </option>
+                                                                                                    <option value="842"
+                                                        >
+                                                        42 EME Battalion                                                    </option>
+                                                                                                    <option value="669"
+                                                        >
+                                                        44 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="530"
+                                                        >
+                                                        44 Signals Battalion                                                    </option>
+                                                                                                    <option value="578"
+                                                        >
+                                                        474 Engineer Battalion                                                    </option>
+                                                                                                    <option value="627"
+                                                        >
+                                                        49 EME Battalion                                                    </option>
+                                                                                                    <option value="620"
+                                                        >
+                                                        5 Animal Transport Regiment  (ASC)                                                    </option>
+                                                                                                    <option value="639"
+                                                        >
+                                                        5 Engineer Battalion                                                    </option>
+                                                                                                    <option value="365"
+                                                        >
+                                                        5 Mountain Medical Battalion                                                    </option>
+                                                                                                    <option value="542"
+                                                        >
+                                                        5 Signals Battalion                                                    </option>
+                                                                                                    <option value="685"
+                                                        >
+                                                        5 Sindh Regiment                                                    </option>
+                                                                                                    <option value="740"
+                                                        >
+                                                        50 Aviation Squadron                                                    </option>
+                                                                                                    <option value="564"
+                                                        >
+                                                        50 EME Battalion                                                    </option>
+                                                                                                    <option value="847"
+                                                        >
+                                                        502 Central Workshop EME                                                    </option>
+                                                                                                    <option value="837"
+                                                        >
+                                                        506 UAV Base Workshop                                                    </option>
+                                                                                                    <option value="655"
+                                                        >
+                                                        51 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="638"
+                                                        >
+                                                        52 Signal Battalion                                                    </option>
+                                                                                                    <option value="925"
+                                                        >
+                                                        597&#9;Population Census Organization                                                    </option>
+                                                                                                    <option value="376"
+                                                        >
+                                                        6 Engineer Battalion                                                    </option>
+                                                                                                    <option value="774"
+                                                        >
+                                                        601 Regional Workshop EME                                                    </option>
+                                                                                                    <option value="648"
+                                                        >
+                                                        61 Medical Battalion                                                    </option>
+                                                                                                    <option value="569"
+                                                        >
+                                                        61 Medium Regiment Artillery                                                    </option>
+                                                                                                    <option value="714"
+                                                        >
+                                                        64 Medical Battalion                                                    </option>
+                                                                                                    <option value="584"
+                                                        >
+                                                        662 Engineer Battalion                                                    </option>
+                                                                                                    <option value="717"
+                                                        >
+                                                        699 Aviation EME Battalion                                                    </option>
+                                                                                                    <option value="810"
+                                                        >
+                                                        7 Engineer Battalion                                                    </option>
+                                                                                                    <option value="556"
+                                                        >
+                                                        7 Signal Battalion                                                    </option>
+                                                                                                    <option value="506"
+                                                        >
+                                                        70 Medical Battalion                                                    </option>
+                                                                                                    <option value="770"
+                                                        >
+                                                        701 Regional Workshop EME                                                    </option>
+                                                                                                    <option value="502"
+                                                        >
+                                                        704 Aviation Medium Workshops EME                                                    </option>
+                                                                                                    <option value="698"
+                                                        >
+                                                        71 Medical Battalion                                                    </option>
+                                                                                                    <option value="631"
+                                                        >
+                                                        74 Lt AD (SAM) Regiment                                                    </option>
+                                                                                                    <option value="601"
+                                                        >
+                                                        74 Medical Battalion                                                    </option>
+                                                                                                    <option value="788"
+                                                        >
+                                                        76 Ordnance Unit                                                    </option>
+                                                                                                    <option value="415"
+                                                        >
+                                                        76 Signals Battalion                                                    </option>
+                                                                                                    <option value="763"
+                                                        >
+                                                        77 Ordnance Unit                                                    </option>
+                                                                                                    <option value="346"
+                                                        >
+                                                        77 Signal Battalion                                                    </option>
+                                                                                                    <option value="522"
+                                                        >
+                                                        80 Signal Battalion                                                    </option>
+                                                                                                    <option value="441"
+                                                        >
+                                                        84 Signal Battalion                                                    </option>
+                                                                                                    <option value="552"
+                                                        >
+                                                        9 Sindh Regiment                                                    </option>
+                                                                                                    <option value="528"
+                                                        >
+                                                        93 Signal Battalion                                                    </option>
+                                                                                                    <option value="402"
+                                                        >
+                                                        AAD Command Battle School                                                    </option>
+                                                                                                    <option value="465"
+                                                        >
+                                                        Abdul Wali Khan University                                                    </option>
+                                                                                                    <option value="966"
+                                                        >
+                                                        Academy of Educational Planning and Management                                                    </option>
+                                                                                                    <option value="408"
+                                                        >
+                                                        Accountant General Balochistan                                                    </option>
+                                                                                                    <option value="757"
+                                                        >
+                                                        Accountant General Gilgit Baltistan                                                    </option>
+                                                                                                    <option value="644"
+                                                        >
+                                                        Accountant General KPK                                                    </option>
+                                                                                                    <option value="1030"
+                                                        >
+                                                        Accountant General of Pakistan Revenues                                                    </option>
+                                                                                                    <option value="643"
+                                                        >
+                                                        Accountant General Punjab                                                    </option>
+                                                                                                    <option value="722"
+                                                        >
+                                                        Accountant General Sindh                                                    </option>
+                                                                                                    <option value="804"
+                                                        >
+                                                        ADOS 10 Corps                                                    </option>
+                                                                                                    <option value="103"
+                                                        >
+                                                        Aga Khan Rural Support Programme (AKRSP)                                                    </option>
+                                                                                                    <option value="939"
+                                                        >
+                                                        Agriculture Policy Institute                                                    </option>
+                                                                                                    <option value="1061"
+                                                        >
+                                                        Agriculture Prices Commission                                                    </option>
+                                                                                                    <option value="808"
+                                                        >
+                                                        Agro Food Processing (AFP) Facilities                                                    </option>
+                                                                                                    <option value="909"
+                                                        >
+                                                        Aik Hunar Aik Nagar (AHAN)                                                    </option>
+                                                                                                    <option value="755"
+                                                        >
+                                                        Air Defence Regiment                                                    </option>
+                                                                                                    <option value="1053"
+                                                        >
+                                                        Air University                                                    </option>
+                                                                                                    <option value="1144"
+                                                        >
+                                                        Airports Security Force                                                    </option>
+                                                                                                    <option value="198"
+                                                        >
+                                                        Al-Ghazi Tractors Limited                                                    </option>
+                                                                                                    <option value="1189"
+                                                        >
+                                                        Al-Mizan Foundation Rawalpindi                                                    </option>
+                                                                                                    <option value="137"
+                                                        >
+                                                        Allama Iqbal Open University (AIOU)                                                    </option>
+                                                                                                    <option value="19"
+                                                        >
+                                                        Allied Bank Limited (ABL)                                                    </option>
+                                                                                                    <option value="1171"
+                                                        >
+                                                        Allied Health Professionals Council (AHPC)                                                    </option>
+                                                                                                    <option value="1161"
+                                                        >
+                                                        Alternative Energy Development Board                                                    </option>
+                                                                                                    <option value="1092"
+                                                        >
+                                                        Archaeological Department and Museum                                                    </option>
+                                                                                                    <option value="690"
+                                                        >
+                                                        Armed Forces Bone Marrow Transplant Centre                                                    </option>
+                                                                                                    <option value="596"
+                                                        >
+                                                        Armed Forces Inspectorate of Medical Stores (AFIMS)                                                    </option>
+                                                                                                    <option value="704"
+                                                        >
+                                                        Armed Forces Institute of Mental Health                                                    </option>
+                                                                 

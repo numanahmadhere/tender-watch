@@ -1,0 +1,1087 @@
+URL: https://www.ajkppra.gov.pk/advertisements.php
+HTTP: 200
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <title>AJ&amp;K PPRA | Public Procurement &amp; Regulatory Authority</title>
+         <link rel="shortcut icon" href="images/favicon.ico" />
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="css/style.css">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+          <link href="css/paging.css" rel="stylesheet">
+    </head>
+  
+    <body>
+        
+        <!-- Main navigation -->
+        <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-primary">
+  <div class="container">
+    <!-- Company name shown on mobile -->
+    <a class="navbar-brand" href="index.php"><span>AJ&amp;K</span>PPRA</a>
+    <!-- Mobile menu toggle -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <!-- Main navigation items -->
+    <div class="collapse navbar-collapse" id="mainNavbar">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"> <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a> </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+          <div class="dropdown-menu navbar-dark bg-primary"> <a class="dropdown-item" href="pprafunctions.php">PPRA Functions</a> <a class="dropdown-item" href="ajkppraboard.php">PPRA Board</a> <a class="dropdown-item" href="teamajkppra.php">Team PPRA</a> <a class="dropdown-item" href="ppraorganogram.php">Organogram</a> <a class="dropdown-item" href="message.php?msgfrom=Chairman PPRA">Message Chairman</a> <a class="dropdown-item" href="message.php?msgfrom=MD Message">Message MD</a> </div>
+        </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Procurement</a>
+          <div class="dropdown-menu navbar-dark bg-primary"> <a class="dropdown-item" href="advertisements.php">Active Advertisement</a> <a class="dropdown-item" href="searchadvertisements.php">Advertisement</a> 
+          
+          <a class="dropdown-item" href="bidevaluation.php">Bid Evaluation</a>
+          
+            <a class="dropdown-item" href="ajkppracorrigendum.php">Corrigenda</a>
+          
+          <a class="dropdown-item" href="annualprocurement.php">Annual Procurement Plan</a> 
+          
+            <a class="dropdown-item" href="directprocurement.php">Direct Procurement</a> 
+          
+          
+          </div>
+        </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Downloads</a>
+          <div class="dropdown-menu navbar-dark bg-primary"> <a class="dropdown-item" href="rules.php">Act/Rules</a> <a class="dropdown-item" href="downloads.php">Downloads</a> </div>
+        </li>
+        <li class="nav-item"> <a class="nav-link" href="blacklistedfirms.php">Black Listed Firms</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="ppraguidelines.php">Guidelines</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="ajkpprafaqs.php">FAQs</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="contactus.php">Contact</a> </li>
+      </ul>
+      <!-- 
+                    <form class="form-inline header-search-form my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="text" size="7"  placeholder="Search" aria-label="Search">
+                        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search <i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                    -->
+    </div>
+  </div>
+</nav>
+<div class="jumbotron-wrap">
+  <div class="container">
+    <div class="jumbotron jumbotron-narrow">
+      <h1 class="text-center" >AZAD JAMMU & KASHMIR PUBLIC PROCUREMENT REGULATORY AUTHORITY (AJ&K PPRA)</h1>
+    </div>
+  </div>
+</div>
+<!--<img src="images/ppra.png"  style="max-width:1349px"/>-->
+
+        <!-- Jumbtron / Slider -->
+              
+          
+
+       
+       
+       <div class="card-container">
+            <div class="container">  
+              <h3>Latest Advertisements [Active Procurement]</h3>  
+              <table class="table" width="100%" border="0">
+                            <tr>
+                                <th width="13%">Procurement</th>
+                              <th width="21%">Procurement Title</th>
+                              <th width="10%">Publishing Date</th>
+                              <th width="8%">Closing Date</th>
+                              <th width="17%">Department</th>
+                              <th width="19%">Procuring Agency</th>
+                              <th width="12%">Download</th>
+                </tr>
+                            
+                            
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6666 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Maintenance of Vehicles <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">19-10-2026</td>
+                                <td align="center">03-11-2026</td>
+                                <td>Public Relation (Information Department)</td>
+                                <td>Information Department Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6666);" href="uploadfiles/tenderdocuments/1792414329KEIB6 - Tender PR AJK.pdf" title="1792414329KEIB6 - Tender PR AJK.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6665 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Construction of 1 Km New link road and black topping of existing 1 Km road from Chunjhal hill across to danna arota (Con. Sajad House) Length 2 Km District Sudhnuti <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">19-10-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>C&W</td>
+                                <td>Highways Division Sudhnoti</td>
+                              <td><a  onclick="setCvDownloads(6665);" href="uploadfiles/tenderdocuments/1792414022X83GN - Tender HW Sudhnoti.pdf" title="1792414022X83GN - Tender HW Sudhnoti.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6664 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Tender for Services (Canteen) <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">16-10-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>PP&H</td>
+                                <td>PP&H Poonch</td>
+                              <td><a  onclick="setCvDownloads(6664);" href="uploadfiles/tenderdocuments/1792164875GEX79 - Tender Notice Building Rawalkot16-10-2026 .pdf" title="1792164875GEX79 - Tender Notice Building Rawalkot16-10-2026 .pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6663 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Tender for Services <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">16-10-2026</td>
+                                <td align="center">03-11-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Poonch</td>
+                              <td><a  onclick="setCvDownloads(6663);" href="uploadfiles/tenderdocuments/1792129800H6FRI - CamScanner 10-15-2026 14.25_removed.pdf" title="1792129800H6FRI - CamScanner 10-15-2026 14.25_removed.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6662 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Ration, Local Purchase of Medicines, LPG (CMH Rawalakot) <br />
+                               <strong> (3)</strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">16-10-2026</td>
+                                <td align="center">03-11-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Poonch</td>
+                              <td><a  onclick="setCvDownloads(6662);" href="uploadfiles/tenderdocuments/17921294987VNUP - CamScanner 10-15-2026 14.27_removed.pdf" title="17921294987VNUP - CamScanner 10-15-2026 14.27_removed.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6661 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Procurement of Medicines, Laboratory Chemicals, Oxygen Gas, Stationery, Maintenance of Vehicles etc. (CMH Rawalakot) <br />
+                               <strong> (12)</strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">16-10-2026</td>
+                                <td align="center">03-11-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Poonch</td>
+                              <td><a  onclick="setCvDownloads(6661);" href="uploadfiles/tenderdocuments/1792129267KPQET - CamScanner 10-15-2026 14.23(1)_removed.pdf" title="1792129267KPQET - CamScanner 10-15-2026 14.23(1)_removed.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6660 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Committed Information Rate (CIR) Internet Connectivity Service at University of Kotli AJ&K <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">14-10-2026</td>
+                                <td align="center">04-11-2026</td>
+                                <td>Education Department</td>
+                                <td>University of Kotli</td>
+                              <td><a  onclick="setCvDownloads(6660);" href="uploadfiles/tenderdocuments/1792010818S0KUQ - Tender UoKotli.pdf" title="1792010818S0KUQ - Tender UoKotli.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6659 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Construction, Improvement, Reconditioning & Blacktopping of Link Roads (LA-32, LA-33) <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">14-10-2026</td>
+                                <td align="center">23-10-2026</td>
+                                <td>C&W</td>
+                                <td>Highways Division Jhelum Valley</td>
+                              <td><a  onclick="setCvDownloads(6659);" href="uploadfiles/tenderdocuments/17920078219C0OM - Tender cw jv.pdf" title="17920078219C0OM - Tender cw jv.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6658 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Group Health Insurance of Bank's Staff for Year 2026-27 <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">14-10-2026</td>
+                                <td align="center">29-10-2026</td>
+                                <td>AJK BANK</td>
+                                <td>BAJK</td>
+                              <td><a  onclick="setCvDownloads(6658);" href="uploadfiles/tenderdocuments/1792007600DBTE8 - Tender BAJK.pdf" title="1792007600DBTE8 - Tender BAJK.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6657 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Construction of Raja Mumtaz Hussain Rathore Sports Stadium Mumtazabad (Miyani Basti) Tehsil Mumtazabad District Haveli (Kahuta) <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">14-10-2026</td>
+                                <td align="center">29-10-2026</td>
+                                <td>PP&H</td>
+                                <td>PP&H Haveli</td>
+                              <td><a  onclick="setCvDownloads(6657);" href="uploadfiles/tenderdocuments/1792005729EISHJ - Tender PPH Haveli Kahuta.pdf" title="1792005729EISHJ - Tender PPH Haveli Kahuta.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6656 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Lease out Recreational Park Barora <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">09-10-2026</td>
+                                <td align="center">27-10-2026</td>
+                                <td>Forest</td>
+                                <td>Forest Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6656);" href="uploadfiles/tenderdocuments/1791546505TEESE - Tender Forest Mzd.pdf" title="1791546505TEESE - Tender Forest Mzd.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Expression of Interest <br /> 6655 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Establishment and Operation of an LPG Facility Serving Langerpura, Thota Satellite Towns and Suburbs at Muzaffarabad <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">07-10-2026</td>
+                                <td align="center">09-11-2026</td>
+                                <td>Development Authorities</td>
+                                <td>Development Authority Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6655);" href="uploadfiles/tenderdocuments/1791375676YKL9B - EOI DAM.pdf" title="1791375676YKL9B - EOI DAM.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6654 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Procurement of Patients' Ration, Oxygen Gas, Emergency Medicine & Allied Material, Maintenance of Vehicle/Procurement of Tyres, Maintenance of Machinery <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">06-10-2026</td>
+                                <td align="center">02-11-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Haveli</td>
+                              <td><a  onclick="setCvDownloads(6654);" href="uploadfiles/tenderdocuments/1791288029L09QU - Tender DHQ Haveli.pdf" title="1791288029L09QU - Tender DHQ Haveli.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6653 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Tender for Works <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">06-10-2026</td>
+                                <td align="center">26-10-2026</td>
+                                <td>C&W</td>
+                                <td>Highways Division Bagh</td>
+                              <td><a  onclick="setCvDownloads(6653);" href="uploadfiles/tenderdocuments/1791287847WMPY3 - Tender C&W Bagh.pdf" title="1791287847WMPY3 - Tender C&W Bagh.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6652 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Consultancy Services for Topographic Survey of 132KV Transmission Line from 48 MW Shounter Hydropower Project to 132 KV Noseri Grid Station <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">06-10-2026</td>
+                                <td align="center">29-10-2026</td>
+                                <td>AJK PDO</td>
+                                <td>PDO Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6652);" href="uploadfiles/tenderdocuments/1791287656WCUZ8 - Tender 42 MW Shounter Hydropower.pdf" title="1791287656WCUZ8 - Tender 42 MW Shounter Hydropower.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6651 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Transportation of Wheat & Flour <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">05-10-2026</td>
+                                <td align="center">21-10-2026</td>
+                                <td>Food Department</td>
+                                <td>Food</td>
+                              <td><a  onclick="setCvDownloads(6651);" href="uploadfiles/tenderdocuments/1791201201A1M5U - Tender Food AJK.pdf" title="1791201201A1M5U - Tender Food AJK.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6650 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Procurement of I.T Equipments <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">05-10-2026</td>
+                                <td align="center">26-10-2026</td>
+                                <td>AJK Legislative Assembly</td>
+                                <td>AJK Legislative Assembly</td>
+                              <td><a  onclick="setCvDownloads(6650);" href="uploadfiles/tenderdocuments/1791199493FTWQT - Tender AJK LA.pdf" title="1791199493FTWQT - Tender AJK LA.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6643 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Procurement of Patients Ration, Medicines & Medical Gases (DHQ Kotli) <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">28-09-2026</td>
+                                <td align="center">22-10-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Kotli</td>
+                              <td><a  onclick="setCvDownloads(6643);" href="uploadfiles/tenderdocuments/1790593206RM03K - Tender DHQ Kotli.pdf" title="1790593206RM03K - Tender DHQ Kotli.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6638 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Athmuqam City <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">24-09-2026</td>
+                                <td align="center">30-10-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Committee Authmuqam</td>
+                              <td><a  onclick="setCvDownloads(6638);" href="uploadfiles/tenderdocuments/17902501943HQAD - Tender MC Athmuqam Portal Updation Required.pdf" title="17902501943HQAD - Tender MC Athmuqam Portal Updation Required.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1792007912QPTHL - corr 6638.pdf" title="1792007912QPTHL - corr 6638.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                                                           <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/17924141016PUDC - Corr. 6638.pdf" title="17924141016PUDC - Corr. 6638.pdf" target="_blank">Corrigendum-2</a>	
+                                 
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6636 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Municipal Committee Kahutta City for Five Years <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">24-09-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Corporation Kahutta/Haveli</td>
+                              <td><a  onclick="setCvDownloads(6636);" href="uploadfiles/tenderdocuments/1790249442JIA5X - Tender MC Kahuta.pdf" title="1790249442JIA5X - Tender MC Kahuta.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1791545886YUMFI - Corr. MC Haveli 6636.pdf" title="1791545886YUMFI - Corr. MC Haveli 6636.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                                                           <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/179241385824U2B - Corr 6636.pdf" title="179241385824U2B - Corr 6636.pdf" target="_blank">Corrigendum-2</a>	
+                                 
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6639 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Bhimber City <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">24-09-2026</td>
+                                <td align="center">23-10-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Committee Bhimber</td>
+                              <td><a  onclick="setCvDownloads(6639);" href="uploadfiles/tenderdocuments/1790250295XEYJS - Tender MC Bhimber Portal Updation Required.pdf" title="1790250295XEYJS - Tender MC Bhimber Portal Updation Required.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/17912872920T8LG - Corr. 6639 MC bhimber.pdf" title="17912872920T8LG - Corr. 6639 MC bhimber.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                                                           <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/1791955892WNW0V - Corr 6639.pdf" title="1791955892WNW0V - Corr 6639.pdf" target="_blank">Corrigendum-2</a>	
+                                 
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6640 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Hattian Bala City for Five Years <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">24-09-2026</td>
+                                <td align="center">30-10-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Corporation Hattian Bala</td>
+                              <td><a  onclick="setCvDownloads(6640);" href="uploadfiles/tenderdocuments/1790250379H6W5A - Tender MC Hattian Bala Portal Updation Required.pdf" title="1790250379H6W5A - Tender MC Hattian Bala Portal Updation Required.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1792005192RWKVG - 6640 Corr..pdf" title="1792005192RWKVG - 6640 Corr..pdf" target="_blank">Corrigendum</a>	
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6633 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Updation of Iftikharabad to Matian Wala Road length 7km District, Bhimber & Improvement Reconditioning Metalling & Black Topping of Main Road Sandua Cross to Bagsar Fort Length 9.60km Tehsil Samahni District, Bhimber <br />
+                               <strong> (2)</strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">23-09-2026</td>
+                                <td align="center">22-10-2026</td>
+                                <td>C&W</td>
+                                <td>Highways Division Bhimber</td>
+                              <td><a  onclick="setCvDownloads(6633);" href="uploadfiles/tenderdocuments/1790164184YUSTH - Tender C&W Bhimber.pdf" title="1790164184YUSTH - Tender C&W Bhimber.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/17908550562IL9D - Corr. 6633.pdf" title="17908550562IL9D - Corr. 6633.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                                                           <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/1791954167H2X6G - Corr 6633 Whatsapp.pdf" title="1791954167H2X6G - Corr 6633 Whatsapp.pdf" target="_blank">Corrigendum-2</a>	
+                                 
+                               
+                                                              <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/179206477998L5Z - Corr 3 6633.pdf" title="179206477998L5Z - Corr 3 6633.pdf" target="_blank">Corrigendum-3</a>	
+                                 
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6626 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Mirpur City <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">18-09-2026</td>
+                                <td align="center">02-11-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Corporation Mirpur</td>
+                              <td><a  onclick="setCvDownloads(6626);" href="uploadfiles/tenderdocuments/1789730230MJF7J - Tender MC Mirpur.pdf" title="1789730230MJF7J - Tender MC Mirpur.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1790164755LNS39 - Corr. 6626 .pdf" title="1790164755LNS39 - Corr. 6626 .pdf" target="_blank">Corrigendum</a>	
+                                                              
+                                                           <br />
+                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/1792165037LKHAU - The Municipal Corporation Mirpur 05.pdf" title="1792165037LKHAU - The Municipal Corporation Mirpur 05.pdf" target="_blank">Corrigendum-2</a>	
+                                 
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6620 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Solid Waste Management Services for Muzaffarabad City <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">17-09-2026</td>
+                                <td align="center">20-10-2026</td>
+                                <td>Corporations</td>
+                                <td>Municipal Corporation Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6620);" href="uploadfiles/tenderdocuments/1789643589RF3XW - Tender MCM Mzd.pdf" title="1789643589RF3XW - Tender MCM Mzd.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1790769431KGCV3 - Corr. 6620 MCM Mzd.pdf" title="1790769431KGCV3 - Corr. 6620 MCM Mzd.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Prequalification Notice <br /> 6611 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Pre-Qualification of Third Party Recruitment Testing Agencies <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">15-09-2026</td>
+                                <td align="center">21-10-2026</td>
+                                <td>Agriculture</td>
+                                <td>Agriculture Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6611);" href="uploadfiles/tenderdocuments/17894717044A3V0 - Tender Agriculture Mzd.pdf" title="17894717044A3V0 - Tender Agriculture Mzd.pdf" target="_blank">Download File</a>
+                              
+                                                              <br />
+                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1791199372Y0ZYB - Corr. 6611 Agriculture.pdf" title="1791199372Y0ZYB - Corr. 6611 Agriculture.pdf" target="_blank">Corrigendum</a>	
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                      
+           <tr>
+                                <td colspan="7" align="right"><div class="pagging">
+  <div class="right" style="float:right">
+      </div>
+  <!-- End Pagging -->
+</div></td>
+                </tr>
+                        </table>
+         </div>
+        </div>
+       
+       
+        
+            <!-- Main content area -->
+        
+        
+     
+
+
+ <!-- Main content area -->
+                
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-lists">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <ul>
+                            <li><h4>Useful Link</h4></li>
+                                                            
+                                <li><a href="http://e.pprasindh.gov.pk/" target="_blank">PPRA SINDH</a></a></li>
+                                                             
+                                <li><a href="http://www.ppra.org.pk/" target="_blank">FEDERAL PPRA</a></a></li>
+                                                             
+                                <li><a href="https://www.kppra.gov.pk/" target="_blank">KPK PPRA</a></a></li>
+                                                             
+                                <li><a href="https://ppra.punjab.gov.pk" target="_blank">PPRA PUNJAB</a></a></li>
+                                                             
+                                <li><a href="http://www.ajkppra.gov.pk/webmail" target="_blank">OFFICIAL EMAIL</a></a></li>
+                                                         </ul>
+                        </div>
+                        <div class="col-sm">
+                            <ul>
+                                <li><h4>About PPRA</h4></li>
+                                <li><a href="pprafunctions.php">PPRA Functions</a></li>
+                                <li><a href="ppraboard.php">PPRA Board</a></li>
+                                <li><a href="ppraorganogram.php">Organogram</a></li>
+                                <li><a href="teamajkppra.php">Team PPRA</a></li>
+                                <li><a href="message.php?msgfrom=Chairman%20PPRA">Chairman Message</a></li>
+                            </ul>
+                        </div>   
+                        <div class="col-sm">
+                            <ul>
+                                <li

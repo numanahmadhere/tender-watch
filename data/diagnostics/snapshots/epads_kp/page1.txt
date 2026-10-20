@@ -1,0 +1,516 @@
+URL: https://epads.gov.pk/
+HTTP: 200
+Content-Type: text/html; charset=UTF-8
+
+
+<!DOCTYPE html>
+<html lang="en" class="layout-navbar-fixed layout-wide">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>Open Opportunities (Procurements) | e-Pak Acquisition and Disposal System (EPADS KP)</title>
+    <meta name="description" content="Public Procurement Regulatory Authority - Open Procurement Opportunities" />
+    <meta name="keywords" content="procurement, tenders, government, PPRA, Pakistan">
+    <meta name="robots" content="index, no-follow">
+    <meta name="author" content="Public Procurement Regulatory Authority">
+    <link rel="canonical" href="/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Open Opportunities (Procurements) | e-Pak Acquisition and Disposal System (EPADS KP)">
+    <meta property="og:description" content="Public Procurement Regulatory Authority - Open Procurement Opportunities">
+    <meta property="og:url" content="https://epads.gov.pk/">
+    <meta property="og:site_name" content="Public Procurement Regulatory Authority">
+
+    <meta property="og:image" content="https://epads.gov.pk/assets/img/ppra-slo.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Public Procurement Regulatory Authority">
+
+    <link rel="icon" type="image/x-icon" href="https://kp-pa.epads.gov.pk/gallery/system-settings/favicon.webp" />
+
+    <link rel="stylesheet" href="/assets/fonts/remixicon/remixicon.css" />
+    <link rel="stylesheet" href="/assets/libs/node-waves/node-waves.css" />
+    <link rel="stylesheet" href="/assets/css/core.css" />
+    <link rel="stylesheet" href="/assets/css/theme-semi-dark.css" />
+    <link rel="stylesheet" href="/assets/libs/select2/select2.css" />
+    <link rel="stylesheet" href="/assets/libs/sweetalert2/sweetalert2.css" />
+
+    <script src="/assets/js/helpers.js"></script>
+    <script src="/assets/js/config.js"></script>
+
+    <link rel="stylesheet" href="/assets/css/custom.css" />
+</head>
+
+<body class="light-style bg-body">
+
+    
+<div class="header-notification">
+    </div>
+
+<!-- Navigation Bar -->
+<header class="header bg-black py-3 position-sticky start-0 top-0 end-0 w-100 z-5">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="logo-main" style="max-width: 200px;">
+                    <a href="/">
+                        <img src="https://vendors.epads.gov.pk/gallery/system-settings/logo-10.webp"
+                            alt="E-Pak Acquisition &#38; Disposal System (EPADS)" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-8">
+
+                <div class="d-flex align-items-center justify-content-end">
+                    <button
+                        type="button"
+                        class="ppra-jurisdiction d-inline-flex align-items-center rounded-pill text-nowrap"
+                        data-bs-toggle="modal"
+                        data-bs-target="#jurisdictionModal"
+                        aria-label="Choose your jurisdiction. Current: Khyber Pakhtunkhwa">
+                        <span class="ppra-jurisdiction__icon d-inline-flex align-items-center justify-content-center rounded-circle">
+                            <i class="ri-map-pin-2-fill"></i>
+                        </span>
+                        <span class="ppra-jurisdiction__label d-none d-xl-inline">Choose Your Jurisdiction</span>
+                        <span class="ppra-jurisdiction__divider d-none d-xl-inline"></span>
+                        <span class="ppra-jurisdiction__value d-inline-flex align-items-center fw-semibold">
+                            <span class="ppra-jurisdiction__dot rounded-circle"></span>
+                            Khyber Pakhtunkhwa                        </span>
+                        <i class="ri-arrow-down-s-line ppra-jurisdiction__chevron"></i>
+                    </button>
+                    <a href="https://vendors.epads.gov.pk/login" class="btn bg-menu-theme btn-sm text-white waves-effect waves-light me-2">
+                        <i class="ri-login-box-line me-1"></i>
+                        Login as Vendor
+                    </a>
+
+                    <a href="https://kp-pa.epads.gov.pk/" class="btn bg-menu-theme btn-sm text-white waves-effect waves-light">
+                        <i class="ri-user-add-line me-1"></i>
+                        <span class="d-none d-md-inline">Login as Procuring Agency</span>
+                        <span class="d-inline d-md-none">Login as PA</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="modal fade" id="jurisdictionModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-simple modal-dialog-centered">
+        <div class="modal-content p-0">
+            <div class="modal-header d-block">
+                <!-- <span class="ppraJur-eyebrow d-block">Switch jurisdiction</span> -->
+                <h5 class="modal-title mb-0">Choose Your Jurisdiction</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <div class="vendors-grid d-grid gap-4">
+                                            <a href="?jurisdiction=federal" class="vendors-card position-relative overflow-hidden bg-black rounded-4 ">
+                            <img class="position-absolute top-0 start-0 end-0 top-0 bottom-0 w-100 h-100 object-fit-cover z-n1" src="https://vendors.epads.gov.pk//gallery/system-settings/faisal-masjid.webp" alt="">
+                            <div class="position-absolute bottom-0 start-0 end-0 p-3 text-white">
+                                                                <h5 class="mb-0 h6 text-white mb-0 fw-semibold">Federal Public Procurement Regulatory Authority (PPRA)</h5>
+                            </div>
+                        </a>
+
+
+                                            <a href="?jurisdiction=kp" class="vendors-card position-relative overflow-hidden bg-black rounded-4 vendors-card--main">
+                            <img class="position-absolute top-0 start-0 end-0 top-0 bottom-0 w-100 h-100 object-fit-cover z-n1" src="https://vendors.epads.gov.pk//gallery/system-settings/bab-e-khyber.webp" alt="">
+                            <div class="position-absolute bottom-0 start-0 end-0 p-3 text-white">
+                                                                    <span class="badge bg-primary rounded-pill mb-3">Active</span>
+                                                                <h5 class="mb-0 h6 text-white mb-0 fw-semibold">Khyber Pakhtunkhwa Public Procurement Regulatory Authority (KPPRA)</h5>
+                            </div>
+                        </a>
+
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="layout-wrapper layout-content-navbar mb-10">
+
+        <div class="layout-container" style="min-height: auto !important;">
+
+            <div class="layout-page space-top-0 view-home-page">
+
+                <main class="main mt-3 overflow-hidden min-vh-100">
+
+                    <div class="flex-grow-1">
+
+                        <div class="position-fixed top-0 bottom-0 w-px-350 p-4 shadow-sm light-style bg-white pt-6 filter-open-proc z-5">
+                            
+<!-- Search Section -->
+
+<!-- All Procurements Filter Form  -->
+<form class="form-validate responsive-filter-form h-100" method="get" action="#active-procurement">
+    <div class="d-flex justify-content-between align-items-start mb-5">
+        <h6 class="text-uppercase text-black fs-6 mb-0"><i class="ri-equalizer-line me-1"></i> Search Filters</h6>
+        <div class="btn-close-filter"><i class="ri-close-circle-fill fs-4"></i></div>
+    </div>
+
+    <!-- By Refrecence Number -->
+    <div class="form-input position-relative mb-2">
+        <i class="ri-hashtag text-light position-absolute translate-middle-y top-50 start-10"></i>
+        <input type="text" name="ref_number" value="" class="form-control form-control-sm bg-body ps-30" placeholder="By Reference Number" autocomplete="off">
+    </div>
+
+    <!-- By Title Of Procurement -->
+    <div class="form-input position-relative mb-2">
+        <i class="ri-pencil-line text-light position-absolute translate-middle-y top-50 start-10"></i>
+        <input type="text" name="title" value="" class="form-control form-control-sm bg-body ps-30" placeholder="By Title" autocomplete="off">
+    </div>
+
+    <!-- By Procurement Type -->
+    <div class="form-input position-relative mb-2">
+        <i class="ri-layout-grid-line text-light position-absolute translate-middle-y top-50 start-10"></i>
+        <select name="type" class="form-select form-control form-select-sm  px-4 cursor-pointer ps-30 bg-body-select"
+            >
+
+            <option value="">By Procurement Type</option>
+
+            <option  value="1">Goods</option><option  value="4">Works</option><option  value="2">Non-Consultancy Services</option><option  value="3">Consultancy Services</option>        </select>
+            </div>
+
+    <!-- By Procurement Method -->
+    <div class="form-input position-relative mb-2" id="methodFilter">
+        <i class="ri-node-tree text-light position-absolute translate-middle-y top-50 start-10"></i>
+        <select name="procurement_method" class="form-select form-control form-select-sm px-4 cursor-pointer ps-30 bg-body-select">
+            <option value="">By Procurement Method</option>
+        </select>
+    </div>
+
+    <!-- By Procurement Procedure -->
+    <div class="form-input position-relative mb-2">
+        <i class="ri-settings-5-line text-light position-absolute translate-middle-y top-50 start-10"></i>
+        <select name="procurement_procedure" class="form-select form-control form-select-sm  px-4 cursor-pointer ps-30 bg-body-select">
+            <option value="">By Procurement Procedure</option>
+            <option  value="1">Single Stage-One Envelope</option><option  value="2">Single Stage-Two Envelope</option><option  value="3">Two Stage</option><option  value="4">Two Stage-Two Envelope</option>        </select>
+    </div>
+
+    <!-- Prequalification/Without Prequalification -->
+    <div class="form-input position-relative mb-2">
+        <select name="prequalification" class="form-select form-control form-select-sm cursor-pointer bg-body-select">
+            <option value="">Prequalification/Without Prequalification</option>
+            <option  value="1">With Prequalification</option>
+            <option  value="0">Without Prequalification</option>
+        </select>
+    </div>
+
+    
+    <!-- By Department/Project -->
+    <div class="form-input d-flex input-group-sm select2-group mb-2 department-project-select">
+        <select name="department_id" data-allow-clear="true" class="form-select form-control form-select-sm select2 px-4 cursor-pointer bg-body-select rounded-0 rounded-start" data-placeholder="By Department/Project">
+
+            <option value=""></option>
+
+            <optgroup label="Departments">
+                <option  class="" data-class="level-0" value="dep-1">IT Engineers</option><option  class="" data-class="level-0" value="dep-2">For Testing Purpose</option><option  class="" data-class="level-0" value="dep-5">Finance Department</option><option  class="" data-class="level-1" value="dep-8">Khyber Pakhtunkhwa Public Procurement Regulatory Authority (KPPRA)</option>            </optgroup>
+
+            <optgroup label="Project">
+                            </optgroup>
+        </select>
+
+        <span class="input-group-text bg-body rounded-0 rounded-end position-relative px-5 rounded-0" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="tooltip-primary" title="Include Child">
+
+            <label class="d-flex align-items-center mb-0 w-100 cursor-pointer h-100 position-absolute start-0 bottom-0 px-3">
+                <input class="form-check-input" name="child" type="checkbox" id="includeChildCheckbox" value="1" checked>
+            </label>
+
+        </span>
+    </div>
+
+    <!-- Apply and Reset Filter buttons -->
+    <div class="">
+        <button type="submit" name="search" value="searchBids" class="btn btn-sm btn-primary w-100 mb-2">
+            <span class="align-middle d-inline-block"><i class="ri-search-line"></i> Apply Filter</span>
+        </button>
+        <a href="/" class="btn btn-sm btn-danger w-100 mb-2"><i class="ri-close-circle-line me-1"></i> Reset Filter</a>
+    </div>
+</form>                        </div>
+
+                        
+                        <!-- Title and Counts of Open Procurements -->
+                        <div class="d-flex flex-wrap align-items-center justify-content-between mb-1 container-fluid py-3 bg-card">
+                            <h4 class="mb-0 fs-5 fw-medium">
+                                <i class="ri-list-check-2 me-2 text-primary"></i> Open Opportunities (Procurements)                                <span class="badge rounded-pill badge-sm bg-dark">
+                                    1                                </span>
+                            </h4>
+
+                            <div class="d-flex align-items-center gap-2  ms-auto me-2">
+                                <a href="/frameworks" class="btn btn-primary btn-sm px-5">
+                                    <i class="ri-organization-chart me-1"></i> Framework Agreements
+                                </a>
+                            </div>
+                            <div class="d-flex align-items-center gap-2">
+                                <a href="/disposals" class="btn btn-primary btn-sm px-5">
+                                    <i class="ri-recycle-line me-1"></i> Disposals
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="procurement-listing">
+                            <div class="container-fluid">
+                                
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between p-1 mb-1 gap-2">
+
+                                        <!-- Procurement Types -->
+                                        <div class="flex-row px-5 py-3 align-items-center flex-wrap sm-align-items-start rounded-0 shadow-none bg-body mb-0 d-none d-md-flex d-sm-none">
+                                            <h6 class="pe-3 mb-lg-0 mb-2 fw-semibold">Procurement Types:</h6>
+
+                                            <div class="d-flex flex-wrap justify-content-start gap-2">
+                                                                                                    <div class="d-flex align-items-center lh-1 badge rounded-pill bg-gradient-light text-secondary">
+                                                        <span class="badge badge-dot bg-blue-azure me-3"></span>
+                                                        Goods                                                    </div>
+                                                                                                    <div class="d-flex align-items-center lh-1 badge rounded-pill bg-gradient-light text-secondary">
+                                                        <span class="badge badge-dot bg-emerald-green me-3"></span>
+                                                        Works                                                    </div>
+                                                                                                    <div class="d-flex align-items-center lh-1 badge rounded-pill bg-gradient-light text-secondary">
+                                                        <span class="badge badge-dot bg-fire-red me-3"></span>
+                                                        Non-Consultancy Services                                                    </div>
+                                                                                                    <div class="d-flex align-items-center lh-1 badge rounded-pill bg-gradient-light text-secondary">
+                                                        <span class="badge badge-dot bg-light-purple me-3"></span>
+                                                        Consultancy Services                                                    </div>
+                                                                                            </div>
+                                        </div>
+
+                                        <!-- Alerts + Filter -->
+                                        <div class="d-flex flex-wrap align-items-center gap-2 ms-auto">
+
+                                                                                            <div class="gap-2 d-flex flex-wrap align-items-center me-2">
+                                                    <i class="ri-notification-3-fill fs-4 text-danger d-none d-md-flex d-sm-none"></i>
+                                                    <strong class="text-dark d-none d-md-flex d-sm-none">Procurement Opportunities</strong>
+
+                                                    
+                                                                                                            <a href="/?closing=soon" target="_blank">
+                                                            <span class="badge text-bg-dark px-3 py-2 fw-semibold rounded">
+                                                                1 Closing Within 7 Days
+                                                            </span>
+                                                        </a>
+                                                                                                    </div>
+                                            
+                                            <div class="d-flex align-items-center">
+                                                <button type="button" class="btn btn-primary btn-sm filter-proc px-5 me-2">
+                                                    <i class="ri-filter-3-line me-1"></i> Filter
+                                                </button>
+
+                                                <a href="/"
+                                                    class="btn btn-sm btn-danger d-none"
+                                                    id="topResetBtn">
+                                                    <i class="ri-close-circle-line me-1"></i> Reset Filter
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                                                            <div class="table-responsive text-nowrap bg-white">
+                                            <table class="table table-sm table-cb table-hover table-striped">
+                                                <thead class="table-cb-dark">
+                                                    <tr class="text-nowrap">
+                                                        <th class="act-col">#</th>
+                                                        <th class="text-start">Procurement Title</th>
+                                                        <th class="text-start">Procurement Status</th>
+                                                        <th class="text-start">Type/Procedure</th>
+                                                        <th class="text-center">Details</th>
+                                                    </tr>
+                                                </thead>
+
+                                                <tbody class="table-border-bottom-0">
+                                                                                                            <tr class="">
+                                                            <!-- Listing Counts -->
+                                                            <td>
+                                                                1                                                            </td>
+
+                                                            <td class="pt-2">
+                                                                <!-- Procurement Title -->
+                                                                <a href="/opportunities/kp/procurements/9387">
+                                                                    <span class="d-inline-block fw-medium text-start text-truncate w-px-600" data-bs-toggle="tooltip" data-bs-placement="top" title="Goods Quoted flow (Test do not apply )">Goods Quoted flow (Test do not apply )                                                                    </span>
+                                                                </a>
+
+                                                                <br />
+
+                                                                <!-- Department name -->
+                                                                <span class="d-inline-block fw-medium text-start text-truncate w-px-600" data-bs-toggle="tooltip" data-bs-placement="top" title="epads (For Testing Purpose)">epads (For Testing Purpose)</span>
+
+                                                                <div class="d-flex align-items-center gap-2 ">
+                                                                    <!-- Reference Number  -->
+                                                                    <span class=" badge bg-primary-subtle text-primary fw-medium fs-xsmall py-1 px-2 rounded-pill">
+                                                                        KP9387                                                                    </span>
+
+                                                                    <!-- Under Corrigendum -->
+                                                                    
+                                                                    <!-- Raised Grievance -->
+                                                                                                                                    </div>
+                                                            </td>
+
+                                                            <!-- Procurement Status  -->
+                                                            <td>
+                                                                <div class="fs-xsmall text-start fw-medium my-1">
+
+                                                                                                                                            
+                                                                        <div class="mb-1">
+                                                                            <span class="text-secondary text-uppercase d-inline-block w-px-100">
+                                                                                Published On:
+                                                                            </span>
+                                                                            <span class="badge rounded-pill px-2 bg-label-danger">
+                                                                                Tuesday, October 6, 2026 11:30 AM                                                                            </span>
+                                                                        </div>
+                                                                    
+                                                                                                                                            
+                                                                        <div class="mb-0">
+                                                                            <span class="text-secondary text-uppercase d-inline-block w-px-100">
+                                                                                Closing On:
+                                                                            </span>
+                                                                            <span class="badge rounded-pill px-2 bg-label-primary">
+                                                                                21h 4m Left <i class='ri-hourglass-fill fs-xsmall'></i>                                                                            </span>
+                                                                        </div>
+                                                                    
+                                                                </div>
+                                                            </td>
+
+                                                            <!-- Procurement Type/Procedure -->
+                                                            <td class="text-start">
+                                                                <span class="badge rounded-pill bg-blue-azure">
+                                                                    Goods                                                                </span>
+
+                                                                <!-- Procurement Procedure -->
+                                                                                                                                    <span class="text-secondary fs-normal d-block mt-1 fs-xsmall">
+                                                                        Single Stage-One Envelope                                                                    </span>
+                                                                
+                                                                <!-- With Pre qualification -->
+                                                                                                                            </td>
+
+                                                            <!-- Action -->
+                                                            <td class="text-center">
+                                                                <a data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="tooltip-dark" title="View" class="btn btn-cb-icon btn-icon btn-primary border-0 waves-effect waves-light" href="/opportunities/kp/procurements/9387"><i class="ri-eye-fill"></i>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                                                                    </tbody>
+                                            </table>
+                                        </div>
+
+                                        <!-- Pagination -->
+                                        
+                                    
+                                                            </div>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+
+      
+  <!-- Footer -->
+
+
+  <footer class="footer mt-5 bg-custom-dark text-white d-none ">
+      <div class="container-fluid px-3 px-md-5 py-4">
+          <div class="row align-items-center gy-3">
+              <div class="col-12 col-md-8 text-center text-md-start">
+                  <span class="d-inline-block">
+                      Powered by <a href="https://ppra.gov.pk/" target="_blank" class="mx-1"> Federal Public Procurement Regulatory Authority</a> &copy;2026                  </span>
+              </div>
+              <div class="col-12 col-md-4 text-center text-md-end">
+                  <a href="/terms-and-conditions" target="_blank" class="text-decoration-none fs-14 text-white">Terms &amp; Conditions</a>
+              </div>
+          </div>
+      </div>
+  </footer>
+
+  <footer class="footer bg-black py-4">
+      <div class="container-fluid">
+          <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
+              <span class="mb-0 text-white">Powered by <a class="text-decoration-underline" href="https://ppra.gov.pk/" target="_blank">Federal Public Procurement Regulatory Authority</a> &copy;2026 </span>
+              <a href="/terms-and-conditions" target="_blank" class="text-decoration-none fs-14 text-white">Terms &amp; Conditions</a>
+          </div>
+      </div>
+  </footer>
+
+
+
+
+
+  <!-- / Footer -->
+
+  <a href="javascript:void(0)" id="backToTop" class="back-to-top" style="display:none;">
+      <svg class="svg replaced-svg" viewBox="0 0 24 24">
+          <title>Back to top</title>
+          <path d="M18.71,11.71a1,1,0,0,1-1.42,0L13,7.41V19a1,1,0,0,1-2,0V7.41l-4.29,4.3a1,1,0,0,1-1.42-1.42l6-6a1,1,0,0,1,1.42,0l6,6A1,1,0,0,1,18.71,11.71Z"></path>
+          <title>undefined</title>
+      </svg>
+  </a>
+
+  
+        <!-- Google tag (gtag.js) -->
+      <script async defer src="https://www.googletagmanager.com/gtag/js?id=G-S89QYQH52K"></script>
+      <script async defer>
+          window.dataLayer = window.dataLayer || [];
+
+          function gtag() {
+              dataLayer.push(arguments);
+          }
+          gtag('js', new Date());
+
+          gtag('config', 'G-S89QYQH52K');
+      </script>
+
+  
+    <script src="/assets/libs/jquery/jquery.js"></script>
+    <script defer src="/assets/libs/popper/popper.js"></script>
+    <script defer src="/assets/js/bootstrap.js"></script>
+    <script defer src="/assets/libs/node-waves/node-waves.js"></script>
+    <script defer src="/assets/libs/select2/select2.js"></script>
+    <script defer src="/assets/libs/sweetalert2/sweetalert2.js"></script>
+    <script defer src="/assets/js/menu.js"></script>
+    <script defer src="/assets/js/main.js"></script>
+    <script defer src="/assets/js/function.js"></script>
+
+    <script>
+        window.Scrollbar = window.Scrollbar || {
+            init: function() {},
+            initAll: function() {}
+        };
+    </script>
+
+    <script src="/assets/js/custom.js"></script>
+
+    <script>
+        let allMethods = {"1":{"1":"Petty Purchase","2":"Request for Quotation","3":"Open Competitive Bidding","4":"Open Bidding with Prequalification"},"2":{"5":"Petty Purchase","6":"Request for Quotation","7":"Open Competitive Bidding","8":"Open Bidding with Prequalification"},"3":{"9":"Call for Three Quotation","10":"Expression of Interest","16":"Petty Purchase","19":"Open Competition"},"4":{"11":"Petty Purchase","12":"Request for Quotation","13":"Open Competitive Bidding","14":"Open Bidding with Prequalification"}};
+        let selectedMethod = 0;
+
+        function loadMethods(type) {
+            let html = `<option value="">By Procurement Method</option>`;
+            let methods = allMethods[type] || [];
+
+            $.each(methods, function(key, value) {
+                html += `<option ${key == selectedMethod ? 'selected' : ''} value="${key}">${value}</option>`;
+            });
+
+            $('select[name="procurement_method"]').html(html);
+        }
+
+        function toggleMethodFilter() {
+            $('#methodFilter').toggleClass('d-none', !$('select[name="type"]').val());
+        }
+
+        $('select[name="type"]').on('change', function() {
+            loadMethods($(this).val());
+            toggleMethodFilter();
+        });
+
+        $(document).ready(function() {
+            $('.department-project-select .select2').select2({
+                placeholder: "By Department/Project",
+                allowClear: true,
+                width: '100%'
+            });
+
+            $('select[name="type"]').trigger('change');
+        });
+    </script>
+</body>
+
+</html>
