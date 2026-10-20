@@ -11,7 +11,7 @@ def _compile(term: str) -> tuple[str, re.Pattern]:
     letters = term.replace("/", "").replace("-", "")
     case_sensitive = letters.isalpha() and letters.isupper() and len(letters) <= 5
     flags = 0 if case_sensitive else re.IGNORECASE
-    pattern = r"(?<![A-Za-z0-9])" + re.escape(term) + r"(?:s|es)?(?![A-Za-z0-9])"
+    pattern = r"(?<![A-Za-z0-9&])" + re.escape(term) + r"(?:s|es)?(?![A-Za-z0-9&])"  # "&" glues words: H&AI is not AI
     return term, re.compile(pattern, flags)
 
 

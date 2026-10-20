@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html as htmllib
 import re
 from urllib.parse import urljoin
 
@@ -20,6 +21,30 @@ HEADER_MAP = [
     ("published", r"advertis|publish|posted|issue|date"),
     ("category", r"category|type|sector|nature"),
 ]
+
+
+AWARD_ID_RE = re.compile(r"\b(EVL\d+|PCN-\d+)\b")
+AWARD_NOISE = [
+    re.compile(r"\b(EVL\d+|PCN-\d+|TS\d+E)\b"),
+    re.compile(r"Tender Ref#:?\s*\S+"),
+    re.compile(r"\bPPRA Contract No\b|\bRef:\s*\S+"),
+    re.compile(r"\d+\s+Bids?\b.*$", re.I),
+    re.compile(r"\bLowest:.*$", re.I),
+    re.compile(r"\bNational Tender:.*$", re.I),
+]
+
+
+def clean_text(s: str) -> str:
+    """Unescape HTML entities (twice: some portals double-escape) and drop zero-width characters."""
+    s = htmllib.unescape(htmllib.unescape(s or ""))
+    return re.sub(r"[\u200b\u200c\u200d\ufeff]", "", s).strip()
+
+
+def clean_award_title(s: str) -> str:
+    """Awards pages are not header-labelled: strip ids, bid counts and winner text from the work title."""
+    for rx in AWARD_NOISE:
+        s = rx.sub(" ", s)
+    return re.sub(r"\s+", " ", s).strip(" -:,")
 
 
 def _classify(header: str) -> str | None:
@@ -56,13 +81,18 @@ def parse_table(html: str, base_url: str, source: str, kind: str = "tender") -> 
         cells = tr.find_all("td")
         if len(cells) < 2:
             continue
-        vals = [c.get_text(" ", strip=True) for c in cells]
+        vals = [clean_text(c.get_text(" ", strip=True)) for c in cells]
         rec: dict[str, str] = {}
         for i, v in enumerate(vals):
             field = mapping[i] if i < len(mapping) else None
             if field and field not in rec and v:
                 rec[field] = v
         title = rec.get("title") or max(vals, key=len)
+        award_id = ""
+        if kind == "award":
+            m = AWARD_ID_RE.search(" ".join(vals))
+            award_id = m.group(1) if m else ""
+            title = clean_award_title(title)
         if len(title) < 8:
             continue
         a = tr.find("a", href=True)
@@ -71,7 +101,9 @@ def parse_table(html: str, base_url: str, source: str, kind: str = "tender") -> 
         dates = find_dates(row_text)
         published = parse_date(rec.get("published", "")) or (dates[0][:10] if dates else "")
         deadline = parse_date(rec.get("deadline", "")) or (dates[-1] if len(dates) > 1 else "")
-        sid = rec.get("id") or stable_id(title, published or deadline)
+        sid = award_id or rec.get("id") or stable_id(title, published or deadline)
+        if kind == "award" and not award_id and len(sid) > 40:
+            sid = stable_id(title, published or deadline)
         out.append(
             Tender(
                 source=source,
@@ -83,7 +115,7 @@ def parse_table(html: str, base_url: str, source: str, kind: str = "tender") -> 
                 published=published,
                 deadline=deadline,
                 url=link,
-                description=row_text if row_text != title else "",
+                description="" if kind == "award" else (row_text if row_text != title else ""),  # awards: score the work title only, winner text is noise
                 winner=rec.get("winner", ""),
                 amount=rec.get("amount", ""),
             )

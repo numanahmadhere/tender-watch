@@ -145,3 +145,13 @@ def test_ungm_filters_to_pakistan():
     """
     items = ungm.parse_results(html, "ungm")
     assert [t.source_id for t in items] == ["101"]
+
+
+def test_award_rows_get_clean_ids_and_titles():
+    from tenderwatch.sources.generic import parse_table
+    html = ("<table><tr><td>EVL00000004120 TS0000013971E Tender Ref#: SLIC/H&amp;#38;AI/RO/I "
+            "SUPPLY OF AI SERVER MACHINES 5 Bids Equipments State Life Insurance</td><td>x</td></tr></table>")
+    t = parse_table(html, "https://x.test/", "epms_awards", "award")[0]
+    assert t.source_id == "EVL00000004120"
+    assert "Bids" not in t.title and "EVL" not in t.title and "&#" not in t.title
+    assert t.description == ""

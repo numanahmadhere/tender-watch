@@ -48,3 +48,10 @@ def test_hits_per_group_are_capped():
 def test_buyer_name_is_not_scored():
     x = Tender(source="x", source_id="2", title="Supply of stationery", buyer="Pakistan Digital Authority")
     assert not S.evaluate(x)
+
+
+def test_ampersand_glues_acronym():
+    from tenderwatch.filtering import Scorer
+    s = Scorer({"groups": {"ai": {"weight": 5, "terms": ["AI"]}}})
+    assert s.score_text("RENOVATION FOR H&AI FAISALABAD ZONE")[0] == 0
+    assert s.score_text("Use of AI in tax")[0] == 5
