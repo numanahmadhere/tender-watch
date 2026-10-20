@@ -190,3 +190,22 @@ def test_feed_filters_tender_signals():
     out = parse_feed(rss, "news")
     assert len(out) == 1 and out[0].published == "2026-10-20" and out[0].buyer == "ProPakistani"
     assert "<p>" not in out[0].description
+
+
+def test_moitt_style_table():
+    """Layout reconstructed from a description of moitt.gov.pk/Tenders (columns and link style)."""
+    from tenderwatch.sources.generic import parse_table
+    html = ("<table><tr><th>Title</th><th>Type</th><th>Status</th><th>Advertisement Date</th>"
+            "<th>Closing Date</th><th>Download</th></tr>"
+            "<tr><td><a href='/TenderDetail/abc123'>Selection of Training Company / Consortium for AI Capacity Building in Pakistan</a></td>"
+            "<td>RFP</td><td>Open</td><td>14 May 2026</td><td>08 June 2026</td>"
+            "<td><a href='/SiteImage/Tenders/x.pdf'>Download</a></td></tr></table>")
+    t = parse_table(html, "https://moitt.gov.pk/Tenders", "moitt")[0]
+    assert t.title.startswith("Selection of Training Company")
+    assert t.category == "RFP" and t.published == "2026-05-14" and t.deadline == "2026-06-08"
+    assert t.url == "https://moitt.gov.pk/TenderDetail/abc123"
+
+    from tenderwatch.filtering import Scorer
+    import yaml
+    cfg = yaml.safe_load(open("config.yaml"))["keywords"]
+    assert Scorer(cfg).evaluate(t)  # "AI" in the title is enough to be reported

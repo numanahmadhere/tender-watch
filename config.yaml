@@ -100,3 +100,11 @@ sources:
       - https://www.brecorder.com/feeds/latest-news
       - https://tribune.com.pk/feed/business
   - {name: aiib, type: rendered_table, url: "https://www.aiib.org/en/opportunities/business/project-procurement/list.html", contains: pakistan, experimental: true}
+
+  # Added after exploring buyers that match Densight's work. MoITT's page is a plain table
+  # (Title, Type, Status, Advertisement Date, Closing Date, Download) and lists the AI Hubs and
+  # AI Capacity Building training RFPs. NAVTTC and PSDF are skills/training buyers whose pages
+  # I could not inspect; they load through the headless browser and report health either way.
+  - {name: moitt, type: generic_table, url: "https://moitt.gov.pk/Tenders", experimental: true}
+  - {name: navttc, type: rendered_table, url: "https://navttc.gov.pk/Tenders", experimental: true}
+  - {name: psdf, type: rendered_table, url: "https://www.psdf.org.pk/tenders/", experimental: true}
