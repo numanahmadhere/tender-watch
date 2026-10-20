@@ -1,0 +1,64 @@
+# TenderWatch configuration. Edit keywords freely; the daily run reads this file.
+
+lookback_days: 30            # for notices without a deadline, and for awards
+request_delay_seconds: 1.2   # minimum gap between requests to the same host (plus random jitter)
+
+keywords:
+  min_score: 3               # a tender needs at least this score to be reported
+  strong_score: 6            # at or above this, exclusion phrases no longer drop a tender
+  groups:
+    ai:
+      weight: 5
+      max_hits: 2
+      terms: [artificial intelligence, AI, machine learning, AI/ML, deep learning, generative AI,
+              large language model, LLM, chatbot, computer vision, NLP, natural language processing,
+              predictive analytics, predictive model, intelligent automation]
+    data:
+      weight: 3
+      max_hits: 2
+      terms: [data analytics, data analysis, data science, data scientist, data warehouse, data lake,
+              data platform, data governance, data management, data integration, data quality,
+              data engineering, data strategy, big data, business intelligence, BI, analytics,
+              dashboard, MIS, management information system, open data]
+    digital:
+      weight: 3
+      max_hits: 2
+      terms: [digital transformation, digitization, digitalization, digitisation, e-government,
+              e-governance, digital government, digital platform, digital service, e-services,
+              automation, robotic process automation, RPA, ERP, enterprise resource planning,
+              software development, software solution, mobile app, mobile application, web portal,
+              web application, e-procurement, document management, workflow, GIS, geospatial,
+              IoT, internet of things, cloud, cloud migration, fintech, digital payments, OCR,
+              IT consultancy, IT strategy, ICT strategy, digital literacy]
+  exclude: [stationery, furniture, tyre, syrup, injection, tablet, capsule, medicine, pharmaceutical,
+            surgical, uniform, catering, fumigation, laundry, diesel, petrol, cement, rubber stamp,
+            printing of, repair of road, construction of, supply of vehicle]
+
+# type: worldbank | epms_tenders | epads | generic_table | ungm
+# Each source is isolated: a failure shows up in the email's "Source health" table.
+sources:
+  - {name: worldbank, type: worldbank, max_pages: 120}
+  - {name: epms_tenders, type: epms_tenders, max_pages: 60}
+  - {name: epads_federal, type: epads, jurisdiction: federal, max_pages: 30}
+  - {name: epads_kp, type: epads, jurisdiction: kp, max_pages: 15}
+
+  # Awards and evaluations (winners and amounts). Layout unverified: parsed by column headers.
+  - name: epms_awards
+    type: generic_table
+    kind: award
+    urls: [https://epms.ppra.gov.pk/public/contracts, https://epms.ppra.gov.pk/public/evaluations]
+    max_pages: 5
+    experimental: true
+
+  # Provincial and regional portals. Several publish a robots.txt that disallows automated
+  # access; those are skipped automatically and reported as "skipped".
+  - {name: punjab_eproc, type: generic_table, url: "https://eproc.punjab.gov.pk/ActiveTenders.aspx", experimental: true}
+  - {name: kppra, type: generic_table, url: "https://www.kppra.gov.pk/kppra/activetenders", experimental: true}
+  - {name: sindh_ppms, type: generic_table, url: "https://ppms.pprasindh.gov.pk/PPMS/public/portal/notice-inviting-tender", experimental: true}
+  - {name: balochistan, type: generic_table, url: "https://bppthree.vdc.services/tenderssearch/", experimental: true}
+  - {name: gb_ppra, type: generic_table, url: "https://www.gbppra.gov.pk/viewall", experimental: true}
+  - {name: ajk_ppra, type: generic_table, url: "https://www.ajkppra.gov.pk/advertisements.php", experimental: true}
+
+  # International. UNGM is JavaScript rendered; ADB lists by country (pak = Pakistan).
+  - {name: ungm, type: ungm, max_pages: 20, experimental: true}
+  - {name: adb, type: generic_table, url: "https://www.adb.org/projects/tenders/country/pak", experimental: true}

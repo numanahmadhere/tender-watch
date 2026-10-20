@@ -1,0 +1,72 @@
+name: TenderWatch daily
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # 03:17 UTC = 08:17 Pakistan time
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: "Save raw page snapshots of every source (use for the first run or when a parser breaks)"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Do not post to the Google Sheet or send email, and do not save state"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # the run commits data/state.json back to this private repo
+
+concurrency:
+  group: tenderwatch
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run TenderWatch
+        id: run
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          APPS_SCRIPT_TOKEN: ${{ secrets.APPS_SCRIPT_TOKEN }}
+          SHEET_URL: ${{ secrets.SHEET_URL }}
+          TW_DISCOVER: ${{ inputs.discover && '1' || '0' }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: |
+          flags=""
+          if [ "$DRY_RUN" = "1" ]; then flags="--dry-run"; fi
+          python -m tenderwatch.run $flags
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "tenderwatch-bot"
+          git config user.email "tenderwatch-bot@users.noreply.github.com"
+          git add data/state.json
+          if git diff --cached --quiet; then
+            echo "state unchanged"
+          else
+            git commit -m "chore: update state $(date -u +%F)"
+            git push
+          fi
+
+      - name: Upload snapshots and digest
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tenderwatch-output
+          path: output/
+          retention-days: 7
+          if-no-files-found: ignore
