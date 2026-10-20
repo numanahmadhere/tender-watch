@@ -59,14 +59,12 @@ def write_diagnostics(results, relevant, now, folder: Path, snapshots: Path | No
     """Committed to the repo so a failing source can be diagnosed without downloading artifacts:
     per source status, how many records were fetched vs relevant, a few sample titles,
     and (discover mode only) trimmed raw page snapshots."""
-    kept: dict[str, int] = {}
-    for t in relevant:
-        kept[t.source] = kept.get(t.source, 0) + 1
+    kept_uids = {t.uid for t in relevant}
     report = {
         "run_at": now.isoformat(timespec="minutes"),
         "sources": {
             r.name: {"status": r.status, "message": r.message, "fetched": r.count,
-                     "relevant": kept.get(r.name, 0), "sample_titles": [t.title[:100] for t in r.tenders[:4]]}
+                     "relevant": sum(t.uid in kept_uids for t in r.tenders), "sample_titles": [t.title[:100] for t in r.tenders[:4]]}
             for r in results
         },
     }

@@ -165,3 +165,16 @@ def test_pitb_style_table_and_page_base():
     t = parse_table(html, "https://pitb.gov.pk/tendernotices", "pitb")[0]
     assert t.published == "2026-10-15" and t.deadline == "2026-10-30"
     assert t.url == "https://pitb.gov.pk/system/files/BD_EGOV_21.pdf"
+
+
+def test_gb_ppra_cards_real_fixture():
+    from pathlib import Path
+    from tenderwatch.sources.gb import parse_cards
+    html = (Path(__file__).parent / "fixtures" / "gb_ppra_cards.html").read_text("utf-8")
+    items = parse_cards(html, "gb_ppra")
+    assert len(items) >= 3
+    t = items[0]
+    assert t.source_id.startswith("TSE-") and t.title and t.buyer
+    assert t.published.startswith("2026-") and t.deadline.startswith("2026-")
+    assert t.url.startswith("https://www.gbppra.gov.pk/procurementde")
+    assert "View" not in t.title

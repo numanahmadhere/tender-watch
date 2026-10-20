@@ -30,6 +30,9 @@ class Tender:
     first_seen: str = ""
     change: str = ""  # human readable note when a known tender changed
 
+    def __post_init__(self) -> None:
+        self.title = " ".join((self.title or "").split())  # collapse newlines and runs of spaces
+
     @property
     def uid(self) -> str:
         return f"{self.source}:{self.source_id}"
