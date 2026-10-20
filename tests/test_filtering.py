@@ -55,3 +55,14 @@ def test_ampersand_glues_acronym():
     s = Scorer({"groups": {"ai": {"weight": 5, "terms": ["AI"]}}})
     assert s.score_text("RENOVATION FOR H&AI FAISALABAD ZONE")[0] == 0
     assert s.score_text("Use of AI in tax")[0] == 5
+
+
+def test_description_only_weak_match_is_dropped():
+    import yaml
+    from tenderwatch.filtering import Scorer
+    from tenderwatch.models import Tender
+    s = Scorer(yaml.safe_load(open("config.yaml"))["keywords"])
+    weak = Tender(source="x", source_id="1", title="Repair of boundary wall", description="ref DS/LLM/22")
+    assert not s.evaluate(weak)
+    ok = Tender(source="x", source_id="2", title="AI training for civil servants")
+    assert s.evaluate(ok)

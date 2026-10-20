@@ -53,6 +53,10 @@ class Scorer:
         t.score, t.matched = self.score_text(text)
         if t.score < self.min_score:
             return False
+        # A match found only in the long description (reference codes, boilerplate) is weak evidence:
+        # unless the title itself matches, require a strong score from several groups.
+        if not self.score_text(t.title)[1] and t.score < self.strong_score:
+            return False
         if self.excluded(text) and t.score < self.strong_score:
             return False
         return True

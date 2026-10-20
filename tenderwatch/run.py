@@ -38,12 +38,17 @@ def run_pipeline(cfg: dict, results: list[Result], state: State, now, today: str
     lookback = int(cfg.get("lookback_days", 30))
     relevant: list[Tender] = []
     seen_uids: set[str] = set()
+    seen_lots: set[tuple] = set()  # notices that differ only by lot or id but read identically
     for r in results:
         for t in r.tenders:
             if t.uid in seen_uids:
                 continue
             seen_uids.add(t.uid)
+            lot_key = (t.source, t.kind, t.title, t.deadline)
+            if lot_key in seen_lots:
+                continue
             if scorer.evaluate(t) and is_current(t, now, lookback):
+                seen_lots.add(lot_key)
                 relevant.append(t)
     diff = state.diff(relevant, today)
     new_uids = {t.uid for t in diff.new}

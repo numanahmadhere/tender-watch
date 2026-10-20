@@ -10,8 +10,9 @@ from ..models import Tender
 from .base import ParserError, Source
 
 # A news item is only an opportunity signal when it talks about buying or funding something.
-DEFAULT_MUST_MATCH = (r"tender|\bRFPs?\b|request for proposal|expression of interest|\bEOIs?\b|\bbids?\b|"
-                      r"procure|ECNEC|PSDP|contract|invites|call for|funding|grant|approves")
+DEFAULT_MUST_MATCH = (r"tender|\bRFPs?\b|request for proposal|expression of interest|\bEOIs?\b|"
+                      r"invit\w* (?:for )?bids?|bids? invit\w*|procurement|procures?\b|ECNEC|PSDP|"
+                      r"contract (?:award|signed)|awarded|call for|funding|grant\b")
 
 
 def parse_feed(content: bytes | str, source: str, must_match: str = DEFAULT_MUST_MATCH) -> list[Tender]:

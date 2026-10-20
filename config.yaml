@@ -61,7 +61,7 @@ sources:
 
   # International. UNGM stays disabled: it returns 403 to automated clients and I do not work around that. UNGM is JavaScript rendered; ADB lists by country (pak = Pakistan).
   - {name: ungm, enabled: false, type: ungm, max_pages: 20, experimental: true}
-  - {name: adb, type: rendered_table, url: "https://www.adb.org/projects/tenders", contains: pakistan, experimental: true}
+  - {name: adb, enabled: false, type: rendered_table, url: "https://www.adb.org/projects/tenders", contains: pakistan, experimental: true}
 
   # Section 1: international and donor sources reachable from GitHub (no keys needed).
   - {name: ted, type: ted, lookback_days: 30, max_pages: 5, experimental: true}
@@ -74,10 +74,12 @@ sources:
 
   # Disabled after run 2: pseb and ignite URLs gave 404 (Ignite posts on EPMS, already covered);
   # nitb, nadra and secp return 403 to automated clients.
-  # sbp, adb and aiib build their lists with JavaScript, so they use a headless browser (rendered_table).
+  # Disabled after the discover run: sbp and adb sit behind a Cloudflare bot challenge (not bypassed),
+  # aiib renders no table, and psdf's URL was an image. Re-enable only with a verified URL.
+  # rendered_table is for pages that build their lists with JavaScript, so they use a headless browser (rendered_table).
   # Section 4: buyers that publish their own tenders. URLs are best guesses: check the Source
   # health table after the first run and fix or disable any that error.
-  - {name: sbp, type: rendered_table, url: "https://www.sbp.org.pk/online-tenders", experimental: true}
+  - {name: sbp, enabled: false, type: rendered_table, url: "https://www.sbp.org.pk/online-tenders", experimental: true}
   - {name: pitb, type: generic_table, url: "https://pitb.gov.pk/tendernotices", max_pages: 3, page_base: 0}
   - {name: pseb, enabled: false, type: generic_table, url: "https://pseb.org.pk/tenders", experimental: true}
   - {name: nitb, enabled: false, type: generic_table, url: "https://nitb.gov.pk/tenders", experimental: true}
@@ -99,12 +101,12 @@ sources:
       - https://www.dawn.com/feeds/business
       - https://www.brecorder.com/feeds/latest-news
       - https://tribune.com.pk/feed/business
-  - {name: aiib, type: rendered_table, url: "https://www.aiib.org/en/opportunities/business/project-procurement/list.html", contains: pakistan, experimental: true}
+  - {name: aiib, enabled: false, type: rendered_table, url: "https://www.aiib.org/en/opportunities/business/project-procurement/list.html", contains: pakistan, experimental: true}
 
   # Added after exploring buyers that match Densight's work. MoITT's page is a plain table
   # (Title, Type, Status, Advertisement Date, Closing Date, Download) and lists the AI Hubs and
   # AI Capacity Building training RFPs. NAVTTC and PSDF are skills/training buyers whose pages
   # I could not inspect; they load through the headless browser and report health either way.
   - {name: moitt, type: generic_table, url: "https://moitt.gov.pk/Tenders", experimental: true}
-  - {name: navttc, type: rendered_table, url: "https://navttc.gov.pk/Tenders", experimental: true}
-  - {name: psdf, type: rendered_table, url: "https://www.psdf.org.pk/tenders/", experimental: true}
+  - {name: navttc, type: rendered_table, url: "https://navttc.gov.pk/notices/", experimental: true}
+  - {name: psdf, enabled: false, type: rendered_table, url: "https://www.psdf.org.pk/tenders/", experimental: true}

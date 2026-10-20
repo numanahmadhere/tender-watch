@@ -209,3 +209,13 @@ def test_moitt_style_table():
     import yaml
     cfg = yaml.safe_load(open("config.yaml"))["keywords"]
     assert Scorer(cfg).evaluate(t)  # "AI" in the title is enough to be reported
+
+
+def test_news_filter_ignores_bid_rigging_story():
+    from tenderwatch.sources.feed import parse_feed
+    rss = """<?xml version="1.0"?><rss version="2.0"><channel><title>Dawn</title>
+    <item><title>CCP deploys AI against bid rigging</title><link>https://x.test/a</link></item>
+    <item><title>ECNEC approves AI data centre project</title><link>https://x.test/b</link></item>
+    </channel></rss>"""
+    out = parse_feed(rss, "news")
+    assert [t.url for t in out] == ["https://x.test/b"]
