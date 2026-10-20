@@ -6,13 +6,15 @@ from ..http import Http
 from .base import Result, Source
 from .epads import EpadsSource
 from .epms import EpmsTendersSource
+from .extra import ContractsFinderSource, TedSource, WbPipelineSource
 from .generic import GenericTableSource
 from .ungm import UngmSource
 from .worldbank import WorldBankSource
 
 REGISTRY: dict[str, type[Source]] = {
     cls.type_name: cls
-    for cls in (WorldBankSource, EpmsTendersSource, EpadsSource, GenericTableSource, UngmSource)
+    for cls in (WorldBankSource, EpmsTendersSource, EpadsSource, GenericTableSource, UngmSource,
+                WbPipelineSource, ContractsFinderSource, TedSource)
 }
 
 

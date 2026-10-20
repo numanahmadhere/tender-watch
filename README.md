@@ -21,7 +21,12 @@ It runs once a day on GitHub Actions, updates a Google Sheet, and emails you a d
 | `epms_awards` | EPMS `/public/contracts` and `/public/evaluations` | Experimental: layout unseen |
 | `punjab_eproc`, `kppra`, `sindh_ppms` | Generic table parser | Their robots.txt disallows automated fetching, so they are skipped and reported |
 | `balochistan`, `gb_ppra`, `ajk_ppra` | Generic table parser | Experimental |
-| `ungm`, `adb` | Search post and generic parser | Experimental |
+| `ungm`, `adb` | Search post and generic parser | Disabled: UNGM returns 403, ADB URL gave 404 |
+| `wb_pipeline` | World Bank projects API, Pakistan projects still in the pipeline | High: field names verified. Early signal, months before a tender |
+| `ted` | EU TED public API, notices in or bought from Pakistan | Experimental: query syntax and field shapes from docs, unverified |
+| `contracts_finder` | UK Contracts Finder OCDS API, notices mentioning Pakistan | Experimental |
+| `undp` | UNDP procurement notices, rows containing UNDP-PAK | Experimental |
+| `sbp`, `pitb`, `pseb`, `nitb`, `ignite`, `nadra`, `fbr`, `secp` | Generic table parser on each buyer's tenders page | Experimental: URLs are guesses, fix or disable from the Source health table |
 
 "Experimental" means: if it parses nothing, the email says so in the Source health table instead of failing silently.
 The tests use reconstructed HTML for everything except the World Bank fields, so the first real run is the real test.
