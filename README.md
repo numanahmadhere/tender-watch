@@ -26,7 +26,10 @@ It runs once a day on GitHub Actions, updates a Google Sheet, and emails you a d
 | `ted` | EU TED public API, notices in or bought from Pakistan | Experimental: query syntax and field shapes from docs, unverified |
 | `contracts_finder` | UK Contracts Finder OCDS API, notices mentioning Pakistan | Experimental |
 | `undp` | UNDP procurement notices, rows containing UNDP-PAK | Experimental |
-| `sbp`, `pitb`, `pseb`, `nitb`, `ignite`, `nadra`, `fbr`, `secp` | Generic table parser on each buyer's tenders page | Experimental: URLs are guesses, fix or disable from the Source health table |
+| `news` | RSS feeds (ProPakistani, TechJuice, APP, Dawn, Business Recorder, Tribune), kept only if the item mentions a tender, RFP, ECNEC, funding etc. | Experimental: early signals, not tender notices. Feeds are listed in config.yaml |
+| `gb_ppra` | Dedicated parser for GB-PPRA's card layout | Tested on a real captured page |
+| `sbp`, `adb`, `aiib` | Headless Chromium (Playwright) for pages built by JavaScript | Experimental |
+| `pitb`, `fbr` | Generic table parser on each buyer's tenders page | Experimental: URLs are guesses, fix or disable from the Source health table |
 
 "Experimental" means: if it parses nothing, the email says so in the Source health table instead of failing silently.
 The tests use reconstructed HTML for everything except the World Bank fields, so the first real run is the real test.

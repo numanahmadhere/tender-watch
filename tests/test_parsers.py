@@ -178,3 +178,15 @@ def test_gb_ppra_cards_real_fixture():
     assert t.published.startswith("2026-") and t.deadline.startswith("2026-")
     assert t.url.startswith("https://www.gbppra.gov.pk/procurementde")
     assert "View" not in t.title
+
+
+def test_feed_filters_tender_signals():
+    from tenderwatch.sources.feed import parse_feed
+    rss = """<?xml version="1.0"?><rss version="2.0"><channel><title>ProPakistani</title>
+    <item><title>ECNEC approves digital land records project</title><link>https://x.test/a</link>
+    <pubDate>Tue, 20 Oct 2026 12:19:14 +0000</pubDate><description>&lt;p&gt;AI and digitization&lt;/p&gt;</description></item>
+    <item><title>Cricket team wins</title><link>https://x.test/b</link><pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate></item>
+    </channel></rss>"""
+    out = parse_feed(rss, "news")
+    assert len(out) == 1 and out[0].published == "2026-10-20" and out[0].buyer == "ProPakistani"
+    assert "<p>" not in out[0].description

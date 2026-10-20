@@ -7,15 +7,17 @@ from .base import Result, Source
 from .epads import EpadsSource
 from .epms import EpmsTendersSource
 from .extra import ContractsFinderSource, TedSource, WbPipelineSource
+from .feed import FeedSource
 from .gb import GbPpraSource
 from .generic import GenericTableSource
+from .rendered import RenderedTableSource
 from .ungm import UngmSource
 from .worldbank import WorldBankSource
 
 REGISTRY: dict[str, type[Source]] = {
     cls.type_name: cls
     for cls in (WorldBankSource, EpmsTendersSource, EpadsSource, GenericTableSource, UngmSource,
-                WbPipelineSource, ContractsFinderSource, TedSource, GbPpraSource)
+                WbPipelineSource, ContractsFinderSource, TedSource, GbPpraSource, FeedSource, RenderedTableSource)
 }
 
 

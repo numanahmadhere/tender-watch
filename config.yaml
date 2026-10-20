@@ -59,9 +59,9 @@ sources:
   - {name: gb_ppra, type: gb_ppra, url: "https://www.gbppra.gov.pk/viewall", max_pages: 6}
   - {name: ajk_ppra, type: generic_table, url: "https://www.ajkppra.gov.pk/advertisements.php", experimental: true}
 
-  # International. Disabled: UNGM returns 403 to automated clients, the ADB URL returns 404 (find the real listing URL, then enable). UNGM is JavaScript rendered; ADB lists by country (pak = Pakistan).
+  # International. UNGM stays disabled: it returns 403 to automated clients and I do not work around that. UNGM is JavaScript rendered; ADB lists by country (pak = Pakistan).
   - {name: ungm, enabled: false, type: ungm, max_pages: 20, experimental: true}
-  - {name: adb, enabled: false, type: generic_table, url: "https://www.adb.org/projects/tenders/country/pak", experimental: true}
+  - {name: adb, type: rendered_table, url: "https://www.adb.org/projects/tenders", contains: pakistan, experimental: true}
 
   # Section 1: international and donor sources reachable from GitHub (no keys needed).
   - {name: ted, type: ted, lookback_days: 30, max_pages: 5, experimental: true}
@@ -74,10 +74,10 @@ sources:
 
   # Disabled after run 2: pseb and ignite URLs gave 404 (Ignite posts on EPMS, already covered);
   # nitb, nadra and secp return 403 to automated clients.
-  # sbp disabled: its list loads via JavaScript and plain requests fail (needs a headless browser).
+  # sbp, adb and aiib build their lists with JavaScript, so they use a headless browser (rendered_table).
   # Section 4: buyers that publish their own tenders. URLs are best guesses: check the Source
   # health table after the first run and fix or disable any that error.
-  - {name: sbp, enabled: false, type: generic_table, url: "https://www.sbp.org.pk/online-tenders", experimental: true}
+  - {name: sbp, type: rendered_table, url: "https://www.sbp.org.pk/online-tenders", experimental: true}
   - {name: pitb, type: generic_table, url: "https://pitb.gov.pk/tendernotices", max_pages: 3, page_base: 0}
   - {name: pseb, enabled: false, type: generic_table, url: "https://pseb.org.pk/tenders", experimental: true}
   - {name: nitb, enabled: false, type: generic_table, url: "https://nitb.gov.pk/tenders", experimental: true}
@@ -85,3 +85,18 @@ sources:
   - {name: nadra, enabled: false, type: generic_table, url: "https://www.nadra.gov.pk/tenders/", experimental: true}
   - {name: fbr, type: generic_table, url: "https://www.fbr.gov.pk/tenders", experimental: true}
   - {name: secp, enabled: false, type: generic_table, url: "https://www.secp.gov.pk/tenders/", experimental: true}
+
+  # Early signals from news feeds (ECNEC approvals, funded programmes, RFP announcements).
+  # Items need a tender-ish word to pass, then the usual AI/data/digital keyword score.
+  # Google News RSS is not used: its robots.txt forbids automated readers.
+  - name: news
+    type: feed
+    experimental: true
+    urls:
+      - https://propakistani.pk/feed/
+      - https://www.techjuice.pk/feed/
+      - https://www.app.com.pk/feed/
+      - https://www.dawn.com/feeds/business
+      - https://www.brecorder.com/feeds/latest-news
+      - https://tribune.com.pk/feed/business
+  - {name: aiib, type: rendered_table, url: "https://www.aiib.org/en/opportunities/business/project-procurement/list.html", contains: pakistan, experimental: true}
