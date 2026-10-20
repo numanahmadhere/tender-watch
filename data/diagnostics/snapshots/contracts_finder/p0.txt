@@ -3,7 +3,7 @@ HTTP: 200
 Content-Type: application/json
 
 {
-    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-10-06T00:00:00&stages=tender&limit=100&publishedTo=2026-10-20T12:00:20+01:00",
+    "uri": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-10-06T00:00:00&stages=tender&limit=100&publishedTo=2026-10-20T14:35:29+01:00",
     "version": "1.1",
     "extensions": [
         "https://standard.open-contracting.org/profiles/eu/master/en/extension.json",
@@ -14,7 +14,7 @@ Content-Type: application/json
         "https://raw.githubusercontent.com/Crown-Commercial-Service/ocds_tender_suitability_extension/main/extension.json",
         "https://raw.githubusercontent.com/open-contracting-extensions/ocds_pagination_extension/master/extension.json"
     ],
-    "publishedDate": "2026-10-20T11:43:29+01:00",
+    "publishedDate": "2026-10-20T12:18:14+01:00",
     "publisher": {
         "name": "Cabinet Office",
         "scheme": "GB-GOR",
@@ -24,6 +24,223 @@ Content-Type: application/json
     "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "publicationPolicy": "https://www.gov.uk/government/publications/open-contracting",
     "releases": [
+        {
+            "ocid": "ocds-b5fd17-020f5209-ceb3-4b97-91ad-bdf928c26335",
+            "id": "7f9a030d-c41d-4f56-8806-67c681600b21-918401",
+            "language": "en",
+            "date": "2026-10-20T12:18:14+01:00",
+            "tag": [
+                "tender"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "28994cbc-6a2b-4e11-adf3-52819f694d66",
+                "title": "CA18585 -  ITT Repair and replacement works to whole site drainage system",
+                "description": "?The Diocese of Norwich Education Services Company (DoNESC) is carrying out a procurement exercise on the behalf of Diss Church of England Junior Academy to procure repair and replacement works to whole site drainage system.  \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18585.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18585 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "datePublished": "2026-10-20T12:18:14+01:00",
+                "status": "active",
+                "classification": {
+                    "scheme": "CPV",
+                    "id": "45210000",
+                    "description": "Building construction work"
+                },
+                "items": [
+                    {
+                        "id": "1",
+                        "deliveryAddresses": [
+                            {
+                                "postalCode": "NR20 3LR"
+                            },
+                            {
+                                "countryName": "British Oversea Territories"
+                            },
+                            {
+                                "countryName": "Channel Islands"
+                            },
+                            {
+                                "countryName": "Europe"
+                            },
+                            {
+                                "countryName": "Isle of Man"
+                            },
+                            {
+                                "countryName": "Rest of the World"
+                            },
+                            {
+                                "countryName": "United Kingdom"
+                            }
+                        ]
+                    }
+                ],
+                "value": {
+                    "amount": 100000,
+                    "currency": "GBP"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Open procedure",
+                "tenderPeriod": {
+                    "endDate": "2026-11-27T17:00:00Z"
+                },
+                "contractPeriod": {
+                    "startDate": "2027-07-23T00:00:00+01:00",
+                    "endDate": "2027-09-02T23:59:59+01:00"
+                },
+                "suitability": {
+                    "sme": true,
+                    "vcse": false
+                },
+                "mainProcurementCategory": "works",
+                "documents": [
+                    {
+                        "id": "1",
+                        "documentType": "tenderNotice",
+                        "description": "Opportunity notice on Contracts Finder",
+                        "url": "https://www.contractsfinder.service.gov.uk/Notice/7f9a030d-c41d-4f56-8806-67c681600b21",
+                        "datePublished": "2026-10-20T12:18:14+01:00",
+                        "format": "text/html",
+                        "language": "en"
+                    }
+                ]
+            },
+            "parties": [
+                {
+                    "id": "GB-CFS-308954",
+                    "name": "Diocese of Norwich Education and Academies Trust",
+                    "identifier": {
+                        "legalName": "Diocese of Norwich Education and Academies Trust"
+                    },
+                    "address": {
+                        "streetAddress": "Orchard House, East Tuddenham",
+                        "locality": "Norwich",
+                        "postalCode": "NR20 3LR",
+                        "countryName": "England"
+                    },
+                    "contactPoint": {
+                        "name": "Mark Jeffries",
+                        "email": "support@multiquote.com",
+                        "telephone": "0151 482 9230"
+                    },
+                    "details": {
+                        "url": "https://suppliers.multiquote.com"
+                    },
+                    "roles": [
+                        "buyer"
+                    ]
+                }
+            ],
+            "buyer": {
+                "id": "GB-CFS-308954",
+                "name": "Diocese of Norwich Education and Academies Trust"
+            }
+        },
+        {
+            "ocid": "ocds-b5fd17-b53f716a-39c2-4936-bdf0-036d7bbba3ff",
+            "id": "067dd4c5-c6fe-4c5e-9d2f-fae1de906e1a-918396",
+            "language": "en",
+            "date": "2026-10-20T12:09:15+01:00",
+            "tag": [
+                "tender"
+            ],
+            "initiationType": "tender",
+            "tender": {
+                "id": "3d906c64-5e6d-416b-b1cf-77f29da81f37",
+                "title": "CA18489 - Askham Bryan College - Provision for External Audit Services",
+                "description": "Askham Bryan College is seeking to appoint an experienced provider of External Audit Services following the expiry of its current contract. The College requires a high-quality audit service that will deliver the statutory audit and associated assurance engagements, while providing independent assurance on financial reporting, regularity, governance, and compliance. The procurement will ensure value for money and the appointment of a suitably qualified auditor with expertise in the Further Education sector.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18489.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18489 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "datePublished": "2026-10-20T12:09:15+01:00",
+                "status": "active",
+                "classification": {
+                    "scheme": "CPV",
+                    "id": "79212100",
+                    "description": "Financial auditing services"
+                },
+                "items": [
+                    {
+                        "id": "1",
+                        "deliveryAddresses": [
+                            {
+                                "postalCode": "YO23 3FR"
+                            },
+                            {
+                                "countryName": "British Oversea Territories"
+                            },
+                            {
+                                "countryName": "Channel Islands"
+                            },
+                            {
+                                "countryName": "Europe"
+                            },
+                            {
+                                "countryName": "Isle of Man"
+                            },
+                            {
+                                "countryName": "Rest of the World"
+                            },
+                            {
+                                "countryName": "United Kingdom"
+                            }
+                        ]
+                    }
+                ],
+                "value": {
+                    "amount": 475000,
+                    "currency": "GBP"
+                },
+                "procurementMethod": "open",
+                "procurementMethodDetails": "Open procedure",
+                "tenderPeriod": {
+                    "endDate": "2026-11-16T12:00:00Z"
+                },
+                "contractPeriod": {
+                    "startDate": "2027-04-01T00:00:00+01:00",
+                    "endDate": "2030-03-31T23:59:59+01:00"
+                },
+                "suitability": {
+                    "sme": true,
+                    "vcse": false
+                },
+                "mainProcurementCategory": "services",
+                "documents": [
+                    {
+                        "id": "1",
+                        "documentType": "tenderNotice",
+                        "description": "Opportunity notice on Contracts Finder",
+                        "url": "https://www.contractsfinder.service.gov.uk/Notice/067dd4c5-c6fe-4c5e-9d2f-fae1de906e1a",
+                        "datePublished": "2026-10-20T12:09:15+01:00",
+                        "format": "text/html",
+                        "language": "en"
+                    }
+                ]
+            },
+            "parties": [
+                {
+                    "id": "GB-CFS-97437",
+                    "name": "Askham Bryan College",
+                    "identifier": {
+                        "legalName": "Askham Bryan College"
+                    },
+                    "address": {
+                        "streetAddress": "Askham Bryan",
+                        "locality": "York",
+                        "postalCode": "YO23 3FR",
+                        "countryName": "England"
+                    },
+                    "contactPoint": {
+                        "email": "support@multiquote.com",
+                        "telephone": "0151 482 9230"
+                    },
+                    "details": {
+                        "url": "https://suppliers.multiquote.com"
+                    },
+                    "roles": [
+                        "buyer"
+                    ]
+                }
+            ],
+            "buyer": {
+                "id": "GB-CFS-97437",
+                "name": "Askham Bryan College"
+            }
+        },
         {
             "ocid": "ocds-b5fd17-8594b734-d603-40c3-aad6-548b64b1f1da",
             "id": "6e156deb-0b84-46e2-bae5-427ee3e1cf0c-918382",
@@ -907,235 +1124,4 @@ Content-Type: application/json
                         "countryName": "ENG"
                     },
                     "contactPoint": {
-                        "name": "Hilary Wood",
-                        "email": "Hilary.Wood@mpft.nhs.uk"
-                    },
-                    "details": {
-                        "url": "http://www.mpft.nhs.uk/"
-                    },
-                    "roles": [
-                        "buyer"
-                    ]
-                }
-            ],
-            "buyer": {
-                "id": "GB-CFS-100195",
-                "name": "Midlands Partnership Foundation Trust"
-            }
-        },
-        {
-            "ocid": "ocds-b5fd17-e12d8fe4-99cd-4d62-a6e9-ee2b1870c8f5",
-            "id": "7eeb3a8e-8f79-46c3-92bf-a032bedc89d7-918207",
-            "language": "en",
-            "date": "2026-10-16T15:24:18+01:00",
-            "tag": [
-                "tender"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "6363bf8c-d007-47c6-833e-ca14ea6da535",
-                "title": "CA18576 - Electrical Maintenance. 4 Year Opportunity",
-                "description": "New College Swindon invites tenders for Electrical Maintenance Services, including planned maintenance, statutory testing, reactive repairs and associated electrical works across the college estate. Fixed-term contract: 4 years. Estimated value: £400,000. Full details are provided within the tender documentation.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18576.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18576 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "datePublished": "2026-10-16T15:24:18+01:00",
-                "status": "active",
-                "classification": {
-                    "scheme": "CPV",
-                    "id": "45310000",
-                    "description": "Electrical installation work"
-                },
-                "additionalClassifications": [
-                    {
-                        "scheme": "CPV",
-                        "id": "50711000",
-                        "description": "Repair and maintenance services of electrical building installations"
-                    },
-                    {
-                        "scheme": "CPV",
-                        "id": "71314100",
-                        "description": "Electrical services"
-                    }
-                ],
-                "items": [
-                    {
-                        "id": "1",
-                        "deliveryAddresses": [
-                            {
-                                "postalCode": "SN3 1AH"
-                            },
-                            {
-                                "countryName": "British Oversea Territories"
-                            },
-                            {
-                                "countryName": "Channel Islands"
-                            },
-                            {
-                                "countryName": "Europe"
-                            },
-                            {
-                                "countryName": "Isle of Man"
-                            },
-                            {
-                                "countryName": "Rest of the World"
-                            },
-                            {
-                                "countryName": "United Kingdom"
-                            }
-                        ]
-                    }
-                ],
-                "value": {
-                    "amount": 400000,
-                    "currency": "GBP"
-                },
-                "procurementMethod": "open",
-                "procurementMethodDetails": "Open procedure",
-                "tenderPeriod": {
-                    "endDate": "2026-11-19T10:00:00Z"
-                },
-                "contractPeriod": {
-                    "startDate": "2027-01-01T00:00:00Z",
-                    "endDate": "2030-12-31T23:59:59Z"
-                },
-                "suitability": {
-                    "sme": true,
-                    "vcse": false
-                },
-                "mainProcurementCategory": "services",
-                "documents": [
-                    {
-                        "id": "1",
-                        "documentType": "tenderNotice",
-                        "description": "Opportunity notice on Contracts Finder",
-                        "url": "https://www.contractsfinder.service.gov.uk/Notice/7eeb3a8e-8f79-46c3-92bf-a032bedc89d7",
-                        "datePublished": "2026-10-16T15:24:18+01:00",
-                        "format": "text/html",
-                        "language": "en"
-                    }
-                ]
-            },
-            "parties": [
-                {
-                    "id": "GB-CFS-219079",
-                    "name": "New College Swindon",
-                    "identifier": {
-                        "legalName": "New College Swindon"
-                    },
-                    "address": {
-                        "streetAddress": "New College Drive, Queens Drive Campus",
-                        "locality": "Swindon",
-                        "postalCode": "SN3 1AH",
-                        "countryName": "England"
-                    },
-                    "contactPoint": {
-                        "name": "Joanna Saunders",
-                        "email": "support@multiquote.com",
-                        "telephone": "0151 482 9230"
-                    },
-                    "details": {
-                        "url": "https://suppliers.multiquote.com"
-                    },
-                    "roles": [
-                        "buyer"
-                    ]
-                }
-            ],
-            "buyer": {
-                "id": "GB-CFS-219079",
-                "name": "New College Swindon"
-            }
-        },
-        {
-            "ocid": "ocds-b5fd17-29c66e6d-0269-4cdd-82a5-c9ca4d2e89e7",
-            "id": "2a7494d3-86c5-40a1-9575-f93b1ab95ac0-918195",
-            "language": "en",
-            "date": "2026-10-16T14:25:49+01:00",
-            "tag": [
-                "tender"
-            ],
-            "initiationType": "tender",
-            "tender": {
-                "id": "1B054FB9-F780-431A-BE98-B94383990D40",
-                "title": "Taxi and MPV (1-8 seats) Passenger Assistant - Taxi and MPV (1-8 seats) Passenger Assistant",
-                "description": "Vehicle type: Saloon\r\nPassenger Assistant Required: Yes \r\n\r\nProposed Taxi Route: \r\nFrom: TN38 9DH\r\nTo: ST. MARYS STAR OF THE SEA SCHOOL, TN37 6EU\r\n\r\nFrequency: Monday to Friday\r\nDaily School Time: Mon- Fri 08:45-15:20\r\n This opportunity has been distributed on SProc.net",
-                "datePublished": "2026-10-16T14:25:49+01:00",
-                "status": "active",
-                "classification": {
-                    "scheme": "CPV",
-                    "id": "60000000",
-                    "description": "Transport services (excl. Waste transport)"
-                },
-                "items": [
-                    {
-                        "id": "1",
-                        "deliveryAddresses": [
-                            {
-                                "countryName": "United Kingdom"
-                            }
-                        ]
-                    }
-                ],
-                "procurementMethod": "selective",
-                "procurementMethodDetails": "Restricted procedure (above threshold)",
-                "tenderPeriod": {
-                    "endDate": "2026-10-21T10:00:00+01:00"
-                },
-                "contractPeriod": {
-                    "startDate": "2026-11-02T01:00:00Z",
-                    "endDate": "2029-07-31T23:59:59+01:00"
-                },
-                "suitability": {
-                    "sme": true,
-                    "vcse": false
-                },
-                "mainProcurementCategory": "services",
-                "documents": [
-                    {
-                        "id": "1",
-                        "documentType": "tenderNotice",
-                        "description": "Opportunity notice on Contracts Finder",
-                        "url": "https://www.contractsfinder.service.gov.uk/Notice/2a7494d3-86c5-40a1-9575-f93b1ab95ac0",
-                        "datePublished": "2026-10-16T14:25:49+01:00",
-                        "format": "text/html",
-                        "language": "en"
-                    },
-                    {
-                        "id": "2",
-                        "url": "https://www.sproc.net"
-                    }
-                ]
-            },
-            "parties": [
-                {
-                    "id": "GB-CFS-334419",
-                    "name": "East Sussex County Council",
-                    "identifier": {
-                        "legalName": "East Sussex County Council"
-                    },
-                    "address": {
-                        "streetAddress": "County Hall, St Anne's Crescent",
-                        "locality": "Lewes",
-                        "postalCode": "BN7 1UE",
-                        "countryName": "United Kingdom"
-                    },
-                    "contactPoint": {
-                        "name": "Katia Lebon",
-                        "email": "procurement@eastsussex.gov.uk"
-                    },
-                    "details": {
-                        "url": "http://www.eastsussex.gov.uk"
-                    },
-                    "roles": [
-                        "buyer"
-                    ]
-                }
-            ],
-            "buyer": {
-                "id": "GB-CFS-334419",
-                "name": "East Sussex County Council"
-            }
-        },
-        {
-            "ocid": "ocds-b5fd17-ef99b758-47fe-42c5-bb93-90eee72ae869",
-            "id": "2e7a8151-800c-4d24-8056-615661b46405-918194",
-            "language": "en",
-            "date": "2026-10-16T14:21
+                     

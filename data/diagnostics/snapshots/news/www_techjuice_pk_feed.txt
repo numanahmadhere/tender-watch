@@ -1,0 +1,323 @@
+URL: https://www.techjuice.pk/feed/
+HTTP: 200
+Content-Type: application/rss+xml; charset=UTF-8
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>TechJuice</title>
+	<atom:link href="https://www.techjuice.pk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.techjuice.pk/</link>
+	<description>Technology &#124; Startups &#124; Entrepreneurship &#124; Pakistan</description>
+	<lastBuildDate>Tue, 20 Oct 2026 12:12:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>German Press Association Delegation from Hamburg Visits National Press Club Islamabad to Strengthen Pak-German Media Cooperation</title>
+		<link>https://www.techjuice.pk/german-press-association-delegation-from-hamburg-visits-national-press-club-islamabad-to-strengthen-pak-german-media-cooperation/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:12:43 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<category><![CDATA[Germany-Pakistan]]></category>
+		<category><![CDATA[Islamabad]]></category>
+		<category><![CDATA[Media]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258898</guid>
+
+					<description><![CDATA[<p>Marina Friedt, Chairperson of the German Press Association, Hamburg, affiliated with the European Federation of Journalists (EFJ), along with Moritz Lohmann, a young journalist from Berlin, and Abdullah Dayo, Programme Advisor at Friedrich-Ebert-Stiftung (FES) Pakistan, visited the National Press Club (NPC), Islamabad. The delegation was warmly received by Dr. Furqan Rao, Secretary of the National [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/german-press-association-delegation-from-hamburg-visits-national-press-club-islamabad-to-strengthen-pak-german-media-cooperation/">German Press Association Delegation from Hamburg Visits National Press Club Islamabad to Strengthen Pak-German Media Cooperation</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/german-press-association-delegation-from-hamburg-visits-national-press-club-islamabad-to-strengthen-pak-german-media-cooperation-techjuice-258898-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>SECP Launches Cybersecurity Operations Center to Counter Digital Threats</title>
+		<link>https://www.techjuice.pk/secp-launches-cybersecurity-operations-center-to-counter-digital-threats/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:04:10 +0000</pubDate>
+				<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[SECP]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258895</guid>
+
+					<description><![CDATA[<p>Recently, the Securities and Exchange Commission of Pakistan (SECP) officially established a brand-new Security Operations Center (SOC). SECP launched this operations center to strengthen cybersecurity across the board. Furthermore, the center will proactively detect digital threats and respond to potential attacks targeting SECP information systems. Inauguration &#38; Global Partnerships National Database and Registration Authority (NADRA) [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/secp-launches-cybersecurity-operations-center-to-counter-digital-threats/">SECP Launches Cybersecurity Operations Center to Counter Digital Threats</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/secp-launches-cybersecurity-operations-center-to-counter-digital-threats-techjuice-258895-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>CCP Approves Engro Polymer Stake Acquisition by Lotte Chemical</title>
+		<link>https://www.techjuice.pk/ccp-approves-engro-polymer-stake-acquisition-by-lotte-chemical/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 11:54:27 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[CCP]]></category>
+		<category><![CDATA[Engro Polymer]]></category>
+		<category><![CDATA[LOTTE Chemical]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258890</guid>
+
+					<description><![CDATA[<p>The Competition Commission of Pakistan (CCP) recently approved a major corporate transaction. Lotte Chemical Pakistan Limited (LCPL) will acquire a shareholding in Engro Polymer &#38; Chemicals Limited (EPCL). Engro Corporation Limited is currently selling this specific stake. The CCP officially cleared this acquisition after conducting a thorough Phase-I competition assessment. They executed this required review [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/ccp-approves-engro-polymer-stake-acquisition-by-lotte-chemical/">CCP Approves Engro Polymer Stake Acquisition by Lotte Chemical</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/ccp-approves-engro-polymer-stake-acquisition-by-lotte-chemical-techjuice-258890-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Basant Schedule Scrapped: Punjab Cabinet Fixes Fresh Dates for Lahore</title>
+		<link>https://www.techjuice.pk/basant-schedule-scrapped-punjab-cabinet-fixes-fresh-dates-for-lahore/</link>
+		
+		<dc:creator><![CDATA[M Ali]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 11:50:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Kite flying]]></category>
+		<category><![CDATA[Punjab]]></category>
+		<category><![CDATA[Punjab Home Departent]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258892</guid>
+
+					<description><![CDATA[<p>The Punjab cabinet has approved a summary changing the dates of Basant in Lahore. The festival will now be held on March 12, 13 and 14, 2027. Sources said the new schedule was fixed after the provincial cabinet cleared the proposal. The Lahore deputy commissioner had sent the summary to the Punjab Home Department, which [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/basant-schedule-scrapped-punjab-cabinet-fixes-fresh-dates-for-lahore/">Basant Schedule Scrapped: Punjab Cabinet Fixes Fresh Dates for Lahore</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/02/rawalpindi-basant-ban-failed-police-helpless-as-kite-flying-continues-techjuice-216853-320x160.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Oppo Reno X Could Feature an 8,000mAh Battery and Dual 200MP Sensors</title>
+		<link>https://www.techjuice.pk/auto-draft/</link>
+		
+		<dc:creator><![CDATA[Zohaib Shah]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 10:40:00 +0000</pubDate>
+				<category><![CDATA[Devices]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[OPPO]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258880</guid>
+
+					<description><![CDATA[<p>Oppo’s rumored wide-screen smartphone, reportedly called the Reno X, could feature an 8,000mAh battery and two 200MP rear cameras. The latest details come from the source, who has shared the phone’s rumored specifications. The battery capacity is higher than previously expected. The same tipster had earlier suggested that the device would feature a 7,000mAh battery. [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/auto-draft/">Oppo Reno X Could Feature an 8,000mAh Battery and Dual 200MP Sensors</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/auto-draft-techjuice-258880-320x180.jpeg" medium="image" />
+	</item>
+		<item>
+		<title>Zach Cregger’s Resident Evil Movie Gets a PS1-Style Fan Game</title>
+		<link>https://www.techjuice.pk/zach-creggers-resident-evil-movie-gets-a-ps1-style-fan-game/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 10:39:06 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Horror Video Games]]></category>
+		<category><![CDATA[Indie Games]]></category>
+		<category><![CDATA[Resident Evil Franchise]]></category>
+		<category><![CDATA[Survival Games]]></category>
+		<category><![CDATA[Upcoming Games]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258876</guid>
+
+					<description><![CDATA[<p>Zach Cregger’s live-action Resident Evil movie is officially a massive commercial hit. The film debuted over a month ago and quickly surpassed $361 million globally at the box office. Now, this positive audience reception has inspired a highly ambitious fan project. An indie game developer, Julian Zamora, is actively transforming Cregger&#8217;s cinematic Resident Evil movie [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/zach-creggers-resident-evil-movie-gets-a-ps1-style-fan-game/">Zach Cregger’s Resident Evil Movie Gets a PS1-Style Fan Game</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/zach-creggers-resident-evil-movie-gets-a-ps1-style-fan-game-techjuice-258876-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Apple Reportedly Plans a More Advanced HomeView for 2027 or 2028</title>
+		<link>https://www.techjuice.pk/apple-reportedly-plans-a-more-advanced-homeview-for-2027-or-2028/</link>
+		
+		<dc:creator><![CDATA[Zohaib Shah]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 10:09:21 +0000</pubDate>
+				<category><![CDATA[Devices]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258863</guid>
+
+					<description><![CDATA[<p>Apple is reportedly working on a more advanced version of its HomeView smart home display, with a larger screen and a robotic arm. According to Bloomberg’s Mark Gurman, the upcoming device could arrive in 2027 or 2028. The new model may feature a 9-inch display that can move to follow users around a room. This [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/apple-reportedly-plans-a-more-advanced-homeview-for-2027-or-2028/">Apple Reportedly Plans a More Advanced HomeView for 2027 or 2028</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/apple-reportedly-plans-a-more-advanced-homeview-for-2027-or-2028-techjuice-258863-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Millions of Pakistani Diabetes Patients Are Panicking After One Insulin Brand Disappeared</title>
+		<link>https://www.techjuice.pk/pakistan-apidra-insulin-shortage-ministry-response/</link>
+		
+		<dc:creator><![CDATA[Abdul Wasay]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 10:05:51 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[medicine]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258849</guid>
+
+					<description><![CDATA[<p>Pakistan’s health ministry has denied reports of a widespread insulin shortage in the country. The ministry says only one brand, Apidra, is currently unavailable due to international supply constraints. Social media posts claim the shortage threatens the lives of Type 1 diabetic patients across Pakistan. Ministry spokesperson Sajid Shah confirmed that Apidra (insulin glulisine), manufactured [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/pakistan-apidra-insulin-shortage-ministry-response/">Millions of Pakistani Diabetes Patients Are Panicking After One Insulin Brand Disappeared</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/millions-of-diabetics-are-panicking-after-one-insulin-brand-disappeared-techjuice-258849-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Destiny 2 Finally Has a Pulse As Bungie is Officially Hiring Again</title>
+		<link>https://www.techjuice.pk/destiny-2-finally-has-a-pulse-as-bungie-is-officially-hiring-again/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 09:55:57 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Bungie]]></category>
+		<category><![CDATA[Destiny 2]]></category>
+		<category><![CDATA[First-Person Shooter]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258865</guid>
+
+					<description><![CDATA[<p>Bungie is officially throwing Destiny 2 a massive lifeline. Initially, fans believed live-service updates would end after June&#8217;s Monument of Triumph patch. Now, Bungie and Sony are actively resurrecting the game. Studio Head Poria Torkan and General Manager Josh Deane recently confirmed plans to breathe new life into the beloved looter-shooter. 🚨NEW: Bungie has started [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/destiny-2-finally-has-a-pulse-as-bungie-is-officially-hiring-again/">Destiny 2 Finally Has a Pulse As Bungie is Officially Hiring Again</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/destiny-2-finally-has-a-pulse-as-bungie-is-officially-hiring-again-techjuice-258865-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Google Opens Its AI Content Detector Tool to Everyone Free</title>
+		<link>https://www.techjuice.pk/google-synthid-detector-public-launch/</link>
+		
+		<dc:creator><![CDATA[Abdul Wasay]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 09:42:14 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI detector]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[SynthID]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258861</guid>
+
+					<description><![CDATA[<p>Google has opened its SynthID Detector tool to everyone after more than a year of limited testing. Anyone can now visit synthid.com and check whether an image, video, or audio file contains an invisible AI watermark. The tool returns results within seconds. Google first announced SynthID Detector at I/O 2025 as a limited preview for [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/google-synthid-detector-public-launch/">Google Opens Its AI Content Detector Tool to Everyone Free</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/google-opens-its-ai-content-detector-tool-to-everyone-free-techjuice-258861-320x180.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Motorola Moto G47 Power Renders Leak With 7,000mAh Battery and 30W Charging</title>
+		<link>https://www.techjuice.pk/motorola-moto-g47-power-renders-leak-with-7000mah-battery-and-30w-charging/</link>
+		
+		<dc:creator><![CDATA[Zohaib Shah]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 09:22:29 +0000</pubDate>
+				<category><![CDATA[Devices]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258855</guid>
+
+					<description><![CDATA[<p>Motorola’s upcoming Moto G47 Power has appeared in leaked renders, revealing its design, color options, and key specifications. The images show a familiar look, while the larger battery remains the main upgrade over the standard Moto G47. The Moto G47 Power shares much of its design with the regular Moto G47. However, Motorola appears to [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/motorola-moto-g47-power-renders-leak-with-7000mah-battery-and-30w-charging/">Motorola Moto G47 Power Renders Leak With 7,000mAh Battery and 30W Charging</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/auto-draft-techjuice-258855-320x200.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Islamabad Police Cut Checkposts to Ease Traffic and Curb Crime</title>
+		<link>https://www.techjuice.pk/islamabad-police-cut-checkposts-to-ease-traffic-and-curb-crime/</link>
+		
+		<dc:creator><![CDATA[M Ali]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 09:15:19 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[FIR]]></category>
+		<category><![CDATA[Islamabad Capital Territory]]></category>
+		<category><![CDATA[Islamabad High Court (IHC)]]></category>
+		<category><![CDATA[Islamabad Police]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258852</guid>
+
+					<description><![CDATA[<p>Islamabad police have cut the number of checkposts on busy roads from 24 to 12 and increased patrolling to curb crime and ease traffic, Inspector General of Police (IGP) Captain (retd) Sohail Chaudhry said on Monday. He made the announcement during a meeting with a delegation of the Islamabad High Court Journalists Association (IHCJA). The [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/islamabad-police-cut-checkposts-to-ease-traffic-and-curb-crime/">Islamabad Police Cut Checkposts to Ease Traffic and Curb Crime</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/auto-draft-techjuice-258852-320x192.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Apple Announces October 28 Event, Touchscreen MacBook Pro Expected</title>
+		<link>https://www.techjuice.pk/apple-announces-october-28-event-touchscreen-macbook-pro-expected/</link>
+		
+		<dc:creator><![CDATA[Zohaib Shah]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 08:53:04 +0000</pubDate>
+				<category><![CDATA[Devices]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Apple]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258844</guid>
+
+					<description><![CDATA[<p>Apple has announced a special event for October 28, where the company is expected to unveil new MacBook Pro models, including its rumored touchscreen MacBook Pro. The event follows the recent launch of several products, including HomeView, HomePod mini 2, a new Apple TV 4K, and other smart home devices. The event will take place [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/apple-announces-october-28-event-touchscreen-macbook-pro-expected/">Apple Announces October 28 Event, Touchscreen MacBook Pro Expected</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/apple-announces-october-28-event-touchscreen-macbook-pro-expected-techjuice-258844-320x180.jpeg" medium="image" />
+	</item>
+		<item>
+		<title>Passport Directorate Revises E-Passport Transition Deadline</title>
+		<link>https://www.techjuice.pk/passport-directorate-revises-e-passport-transition-deadline/</link>
+		
+		<dc:creator><![CDATA[M Ali]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 08:48:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[E-passport]]></category>
+		<category><![CDATA[E-Passport System]]></category>
+		<category><![CDATA[Immigration Policy]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258847</guid>
+
+					<description><![CDATA[<p>The Directorate General of Immigration and Passports has pushed back the mandatory switch to e-passports, allowing machine-readable passports (MRPs) to be issued and renewed until October 22. Under the revised schedule, all passport offices across Pakistan and Pakistani diplomatic missions abroad will issue only e-passports to new applicants from October 23, 2026. The changeover had [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/passport-directorate-revises-e-passport-transition-deadline/">Passport Directorate Revises E-Passport Transition Deadline</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/09/nadra-centres-to-offer-e-passport-renewal-from-today-techjuice-251948-320x192.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Hubco Halts 100MW Data Center Project Amid Surging Tech &#038; Power Costs</title>
+		<link>https://www.techjuice.pk/hubco-halts-100mw-data-center-project-amid-surging-tech-power-costs/</link>
+		
+		<dc:creator><![CDATA[Muhammad Haaris]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 08:36:21 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Hub Power Company]]></category>
+		<guid isPermaLink="false">https://www.techjuice.pk/?p=258840</guid>
+
+					<description><![CDATA[<p>Hub Power Company (Hubco) just hit the brakes on its digital infrastructure plans. Recently, a Topline Securities research note revealed that Hubco officially delayed its proposed data center project. The research note, issued right after Hubco’s annual general meeting, points to severe financial and logistical roadblocks. Why Hubco Delayed the Data Center Project Hubco faces [&#8230;]</p>
+<p>The post <a href="https://www.techjuice.pk/hubco-halts-100mw-data-center-project-amid-surging-tech-power-costs/">Hubco Halts 100MW Data Center Project Amid Surging Tech &amp; Power Costs</a> appeared first on <a href="https://www.techjuice.pk">TechJuice</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.techjuice.pk/wp-content/uploads/2026/10/hubco-halts-100mw-data-center-project-amid-surging-tech-power-costs-techjuice-258840-320x180.jpg" medium="image" />
+	</item>
+	</channel>
+</rss>

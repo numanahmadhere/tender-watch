@@ -1,0 +1,804 @@
+URL: https://www.aiib.org/en/opportunities/business/project-procurement/list.html
+RENDERED
+
+<!DOCTYPE html><html lang="en"><head>
+		<script>function fixiOS(){const userAgent=navigator.userAgent;return/iPhone|iPad|iPod/.test(userAgent)&&!/Macintosh/.test(userAgent);} function hasRefreshed(){return localStorage.getItem('iosRefreshed-b2')==='true';} function markAsRefreshed(){if(localStorage.getItem('iosRefreshed-a2')=='true'){localStorage.setItem('iosRefreshed-b2','true');}else{localStorage.setItem('iosRefreshed-a2','true');}} if(fixiOS()&&!hasRefreshed()){setTimeout(()=>{markAsRefreshed();location.reload();},100);}else if(fixiOS()){localStorage.removeItem('iosRefreshed-a2');localStorage.removeItem('iosRefreshed-b2');}else{}</script>
+	<title>Project Procurement Opportunity List - Business Opportunities - Opportunities - AIIB</title>
+	<meta name="description" content="This webpage summarizes up-to-date Project Procurement Opportunities of AIIB.">
+	<meta name="keywords" content="AIIB, i4t, Asian Infrastructure Investment Bank, development bank, MDBs, multilateral development banks, infrastructure, vendors, procurement policy, project procurement opportunities, corporate procurement division, transparency, tenders, bid, terms and conditions, standard procurement documents, directive on procurement instructions for recipients">
+	<link rel="canonical" href="https://www.aiib.org/en/opportunities/business/project-procurement/list.html">
+	<meta property="og:url" content="https://www.aiib.org/en/opportunities/business/project-procurement/list.html">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Project Procurement Opportunity List - Business Opportunities - Opportunities - AIIB">
+	<meta property="og:description" content="This webpage summarizes up-to-date Project Procurement Opportunities of AIIB.">
+	<meta property="og:image" content="https://www.aiib.org/en/news-events/asian-infrastructure-finance/2022/_common/img/Introduction-sharing.jpg">  
+	<meta name="twitter:url" content="https://www.aiib.org/en/opportunities/business/project-procurement/list.html">
+	<meta name="twitter:title" content="Project Procurement Opportunity List - Business Opportunities - Opportunities - AIIB">
+	<meta name="twitter:description" content="This webpage summarizes up-to-date Project Procurement Opportunities of AIIB.">	
+	<meta name="twitter:image" content="https://www.aiib.org/en/news-events/asian-infrastructure-finance/2022/_common/img/Introduction-sharing.jpg">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+
+	<link rel="icon" type="image/x-icon" href="/_common/base/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="180x180" href="/_common/base/favicon/apple-touch-icon.png">
+	<link rel="manifest" href="/_common/base/favicon/manifest.json" crossorigin="use-credentials">
+	<link href="/_common/dist/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="/_common/base/css/common.css?t=1765793958464" rel="stylesheet" type="text/css">
+	<script src="/_common/dist/jquery/jquery-3.3.1.min.js" type="text/javascript"></script>
+
+		<link href="/en/opportunities/business/project-procurement/_common/ppo-2026.css?t=1784959500125" rel="stylesheet" type="text/css">	
+	<style>.jp-invisible { visibility: hidden !important; } .jp-hidden { display: none !important; }</style></head>
+	<body>
+		<!-- Start SSI Header Navigation -->
+	<div class="header-site">
+	<header>
+		<div class="wrapper-nav">
+			<a class="nav-logo" href="/"><img src="/_common/base/img/logo-aiib.svg" alt="AIIB Logo"></a>
+			<div class="nav-lists">
+				<div class="nav-menu-attach-items">
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>MEDIA CENTER</span><span class="icon-arrow"></span></a>
+							<div class="item-level-2">
+								<div class="level-2-content" id="attach-item-1">
+									<div class="level-2-list">
+													<a class="list-2-item" href="/en/news-events/media-center/news/index.html"><span>News</span></a>
+												</div>
+											</div>
+							</div>
+						</div>
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>EVENTS</span><span class="icon-arrow"></span></a>
+							<div class="item-level-2">
+								<div class="level-2-content" id="attach-item-2">
+									<style>#attach-item-2 {padding: 15px 5px;}</style>
+										<div class="level-2-list">
+													<a class="list-2-item" href="/en/news-events/events/annual-meetings/overview/index.html"><span>Annual Meetings</span></a>
+												</div>
+											<div class="level-2-list">
+													<a class="list-2-item" href="/en/news-events/events/upcoming-events/index.html"><span>Upcoming Events</span></a>
+												</div>
+											</div>
+							</div>
+						</div>
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>CONTACT</span><span class="icon-arrow"></span></a>
+							<div class="item-level-2">
+								<div class="level-2-content" id="attach-item-3">
+									<div class="level-2-list">
+													<a class="list-2-item" href="/en/contact/index.html"><span>Contact Us</span></a>
+												</div>
+											</div>
+							</div>
+						</div>
+					</div>
+				<div class="nav-menu-main-items">
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>WHO WE ARE</span></a>
+							<div class="item-level-2">
+								<div class="level-2-content">
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span></span></div></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>ABOUT AIIB</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/index.html" target="_parent"><span>Introduction</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/who-we-are/about-aiib/leadership/index.html" target="_parent"><span>Leadership</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/history/index.html" target="_parent"><span>Our History</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/role-of-law/index.html" target="_parent"><span>The Role of Law at AIIB</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/general/faq/index.html" target="_parent"><span>Frequently Asked Questions</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>FINANCIAL REPORTS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/financial-statements/index.html" target="_parent"><span>AIIB Financial Statements</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/publications/sustainability-reports/overview/index.html" target="_parent"><span>AIIB Sustainability Reports</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>GOVERNANCE</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/index.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/members-of-bank/index.html" target="_parent"><span>Members and Prospective Members of the Bank</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/board-governors/index.html" target="_parent"><span>Board of Governors</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/board-directors/board-members/index.html" target="_parent"><span>Board of Directors</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/senior-management/index.html" target="_parent"><span>Senior Management</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/international-advisory-panel/index.html" target="_parent"><span>International Advisory Panel</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/index.html#structure" target="_parent"><span>AIIB Organizational Structure</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/accountability-framework/index.html" target="_parent"><span>Accountability Framework</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/oversight-mechanism/index.html" target="_parent"><span>Oversight Mechanism</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/governance/special-appeals-tribunal/index.html" target="_parent"><span>Special Appeals Tribunal</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>BASIC DOCUMENTS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/articles-of-agreement/index.html" target="_parent"><span>Articles of Agreement</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/by-laws/index.html" target="_parent"><span>AIIB By-Laws</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/rules-of-governors/index.html" target="_parent"><span>Rules of Procedure of Governors</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/rules-of-directors/index.html" target="_parent"><span>Rules of Procedure of Directors</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/conduct-officials/index.html" target="_parent"><span>Code of Conduct for Board Officials</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/conduct-personnel/index.html" target="_parent"><span>Code of Conduct for Bank Personnel</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/staff-regulations/index.html" target="_parent"><span>Staff Regulations</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/staff-rules/index.html" target="_parent"><span>Staff Rules</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/basic-documents/headquarters-agreement/index.html" target="_parent"><span>Headquarters Agreement</span></a></li>
+												</ul>
+										</div>
+								</div>
+							</div>
+						</div>
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>WHAT WE DO</span></a>
+							<div class="item-level-2">
+								<div class="level-2-content">
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>INFRASTRUCTURE FOR TOMORROW</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/overview/index.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/green-infrastructure/index.html" target="_parent"><span>Green Infrastructure</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/connectivity-and-regional-cooperation/index.html" target="_parent"><span>Connectivity and Regional Cooperation</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/technology-enabled-infrastructure/index.html" target="_parent"><span>Technology-enabled Infrastructure</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/private-capital-mobilization/index.html" target="_parent"><span>Private Capital Mobilization</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/green-infrastructure/climate/index.html" target="_parent"><span>Investing in Climate Action</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/infrastructure-for-tomorrow/gender-infrastructure/index.html" target="_parent"><span>Gender and Infrastructure </span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>PROJECTS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/summary/index.html" target="_parent"><span>Project Summary</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html" target="_parent"><span>Project List</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>PROJECT STATUS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?status=Approved" target="_parent"><span>Approved Projects</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?status=Proposed" target="_parent"><span>Proposed Projects</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?status=On%20Hold" target="_parent"><span>On Hold</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?status=Terminated%20/%20Cancelled" target="_parent"><span>Terminated/Cancelled Projects</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>FINANCING TYPE</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?financing_type=Sovereign" target="_parent"><span>Sovereign Projects</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/list/index.html?financing_type=Nonsovereign" target="_parent"><span>Nonsovereign Projects</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>SPECIAL FUNDS RESOURCES</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/overview/index.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/project-preparation-special-funds/index.html" target="_parent"><span>Project Preparation Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/special-fund-window-for-less-developed-members/index.html" target="_parent"><span>Special Fund Window for Less Developed Members</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/project-specific-window-fund/index.html" target="_parent"><span>Project-Specific Window</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/gcf-special-fund/index.html" target="_parent"><span>Green Climate Fund Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/global-infrastructure-facility-special-fund/index.html" target="_parent"><span>Global Infrastructure Facility Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/MCDF-special-fund/index.html" target="_parent"><span>Multilateral Cooperation Center for Development Finance Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/pandemic-fund-special-fund/index.html" target="_parent"><span>Pandemic Fund Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/project-list/index.html" target="_parent"><span>Approved Special Funds Grants</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>INSIGHTS AND PUBLICATIONS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/publications/overview/index.html" target="_parent"><span>Publications Hub</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/news-events/media-center/blog/index.html" target="_parent"><span>AIIB Blog</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>APPROACH TO EMERGENCY RESPONSE</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/emergency-response/index.html" target="_parent"><span>Introduction</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/emergency-response/energy-food-security-and-economic-resilience-facility/index.html" target="_parent"><span>Energy, Food Security and Economic Resilience Facility</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>CLIMATE-FOCUSED POLICY-BASED FINANCING</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/Climate-Focused-Policy-Based-Financing/index.html" target="_parent"><span>Introduction</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>TREASURY</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/homepage/index.html" target="_parent"><span>Introduction to Treasury</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/financial-strength/index.html" target="_parent"><span>Financial Strength</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/client-solutions/index.html" target="_parent"><span>Treasury Client Solutions</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/funding/index.html" target="_parent"><span>Funding</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/liquidity-investments-management/index.html" target="_parent"><span>Liquidity and Investment Management</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/treasury/esg/index.html" target="_parent"><span>ESG</span></a></li>
+												</ul>
+										</div>
+								</div>
+							</div>
+						</div>
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>HOW WE WORK</span></a>
+							<div class="item-level-2">
+								<div class="level-2-content">
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>ACCOUNTABILITY</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/complaints-resolution-evaluation-integrity-unit/introduction/index.html" target="_parent"><span>Complaints-resolution, Evaluation and Integrity Unit</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/project-affected-peoples-mechanism/how-we-assist-you/index.html" target="_parent"><span>Project-affected People's Mechanism</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/debarment-list/index.html" target="_parent"><span>Debarment List</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/report-fraud-corruption/index.html" target="_parent"><span>Fraud and Corruption</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>PARTNERSHIPS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/partnerships/overview/index.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/partnerships/institutional-engagement-cooperation/index.html" target="_parent"><span>Institutional Engagement and Cooperation</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/partnerships/resource-mobilization/index.html" target="_parent"><span>Resource Mobilization</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/overview/index.html" target="_parent"><span>Special Funds Resources</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/partnership/index.html" target="_parent"><span>MOUs and Related Documents</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>FRAMEWORKS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/framework-agreements/climate-change-investment-framework/index.html" target="_parent"><span>AIIB-Amundi Climate Change Investment Framework</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/framework-agreements/environmental-social-framework.html" target="_parent"><span>Environmental and Social Framework</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/framework-agreements/risk-management-framework.html" target="_parent"><span>Risk Management Framework</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>PUBLIC CONSULTATIONS</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/public-consultations/project-affected-people-mechanism-policy-review/index.html" target="_parent"><span>Project-affected People's Mechanism Policy Review</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>CIVIL SOCIETY ENGAGEMENT</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/civil-society-engagement/overview/index.html" target="_parent"><span>Overview</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>PARIS ALIGNMENT</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/paris-alignment/overview.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/paris-alignment/_download/AIIB-Climate-Action-Plan.pdf" target="_parent"><span>Climate Action Plan</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>COMPLIANCE</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/how-we-work/compliance/index.html" target="_parent"><span>Overview</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>BUSINESS PLAN AND STRATEGIES</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/corporate-strategy.html" target="_parent"><span>AIIB Corporate Strategy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/business-plan-summaries.html" target="_parent"><span>Business Plan Summaries</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/results-architecture.html" target="_parent"><span>AIIB Results Architecture</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/sustainable-energy-for-tomorrow.html" target="_parent"><span>Energy Sector Strategy: Sustainable Energy for Tomorrow</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/private-capital-infrastructure-strategy.html" target="_parent"><span>Strategy on Mobilizing Private Capital for Infrastructure</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/financing-operations.html" target="_parent"><span>Strategy on Financing Operations in Nonregional Members</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/transport-strategy.html" target="_parent"><span>Transport Sector Strategy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/sustainable-cities/index.html" target="_parent"><span>Sustainable Cities Strategy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/strategies/strategy-investing-equity.html" target="_parent"><span>Strategy on Investing in Equity</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/water-sector-strategy/index.html" target="_parent"><span>Water Sector Strategy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/digital-infrastructure-strategy/index.html" target="_parent"><span>Digital Infrastructure Sector Strategy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/health-strategy/index.html" target="_parent"><span>Health Strategy</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>POLICIES AND DIRECTIVES</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/public-information/introduction/index.html" target="_parent"><span>Policy on Public Information</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/asset-liability-management-policy.html" target="_parent"><span>Asset Liability Management Policy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/sovereign-backed-loans.html" target="_parent"><span>General Conditions for Sovereign-backed Loans</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/Learning-and-Evaluation-Policy.html" target="_parent"><span>Learning and Evaluation Policy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/operational-policy-financing.html" target="_parent"><span>Operational Policy on Financing</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/operational-policy-on-international-relations.html" target="_parent"><span>Operational Policy on International Relations</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/prohibited-practices.html" target="_parent"><span>Policy on Prohibited Practices</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/policy-on-the-project-affected-mechanism.html" target="_parent"><span>Policy on the Project-affected People’s Mechanism</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/opportunities/business/project-procurement/index.html" target="_parent"><span>Procurement Policy for Projects</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/opportunities/business/corporate-procurement/index.html" target="_parent"><span>Policy on Corporate Procurement</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/policy-on-personal-data-privacy/overview/index.html" target="_parent"><span>Policy on Personal Data Privacy</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/_download/rules-and-regulations.pdf" target="_blank"><span>Rules and Regulations of the Project Preparation Special Fund</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/_download/AIIB-Special-Fund-Window-SFW-Rules-and-Regulations.pdf" target="_blank"><span>Rules and Regulations of the Special Funds Window</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/what-we-do/special-funds/_download/Rules-and-Regulations-of-the-AIIB-Project-Specific-Window.pdf" target="_blank"><span>Rules and Regulations of the Project Specific Window</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/policies-strategies/operational-policies/sovereign-loan-pricing.html" target="_parent"><span>Sovereign-backed Loan and Guarantee Pricing</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/about-aiib/who-we-are/role-of-law/directives.html" target="_parent"><span>Directives</span></a></li>
+												</ul>
+										</div>
+								</div>
+							</div>
+						</div>
+					<div class="item-group">
+							<a class="item-level-1" href="javascript:;"><span>WORK WITH US</span></a>
+							<div class="item-level-2">
+								<div class="level-2-content">
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span></span></div></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>JOIN THE TEAM</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/work-with-us/join-the-team/index.html" target="_parent"><span>Overview</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/opportunities/career/job-vacancies/staff/index.html" target="_parent"><span>Career Opportunities</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/.content/navigation/individual-consultant-opportunities" target="_blank"><span>Individual Consultant Opportunities</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/work-with-us/join-the-team/young-talent-programs/index.html" target="_parent"><span>Young Talent Programs</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>BUSINESS OPPORTUNITIES</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/opportunities/business/project-procurement/index.html" target="_parent"><span>Project Procurement Opportunities</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/opportunities/business/corporate-procurement/index.html" target="_parent"><span>Corporate Procurement Opportunities</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>AIIB LEARNING SPACE</span></div></li>
+												<li class="li-2"><a class="list-item" href="https://learn.aiib.org" target="_blank"><span>E-learning Modules</span></a></li>
+												</ul>
+										</div>
+									<div class="level-2-list">
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>MANAGE MY PORTFOLIO</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/work-with-us/aiib-client-portal/client/index.html" target="_parent"><span>AIIB Client Portal</span></a></li>
+												<li class="li-2"><a class="list-item" href="/en/work-with-us/aiib-client-portal/partner/index.html" target="_parent"><span>AIIB+</span></a></li>
+												</ul>
+										<ul class="ul-2">
+												<li class="li-2"><div class="list-title"><span>SUBMIT A PROPOSAL</span></div></li>
+												<li class="li-2"><a class="list-item" href="/en/projects/apply/index.html" target="_parent"><span>Project Financing Application</span></a></li>
+												</ul>
+										</div>
+								</div>
+							</div>
+						</div>
+					<div class="item-group item-group-search">
+						<a class="item-level-1" href="javascript:;"><span class="icon-search"></span></a>
+						<div class="item-level-2">
+							<div class="area-input">
+								<input type="text" placeholder="Search">
+								<a class="search" href="javascript:;"><span>OK</span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+		<div class="wrapper-nav-mobile">
+             <a class="nav-logo" href="/en/index.html"><img src="/_common/base/img/logo-aiib.svg" alt="AIIB Logo"></a>
+             <div class="nav-menu">
+                 <div class="nav-menu-btn"><span></span></div>
+             </div>
+             <div class="nav-menu-pannel">
+                <div class="nav-pannel-main">
+                    <div class="nav-items">
+                        <div class="nav-group">
+                            <div class="item-groups">
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="who-we-are"><span>WHO WE ARE</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="what-we-do"><span>WHAT WE DO</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="how-we-work"><span>HOW WE WORK</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="work-with-us"><span>WORK WITH US</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="media-center"><span>MEDIA CENTER</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="events"><span>EVENTS</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								<div class="group-level">
+										<a class="item-level-1" href="javascript:;" data-toshow="contact"><span>CONTACT</span><span class="icon-arrow-right"></span></a> 
+										<div class="level-1-desc"></div>
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="who-we-are">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/who-we-are/about-aiib/index-m.html"><span>ABOUT AIIB</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/about-aiib/financial-statements/index.html"><span>FINANCIAL STATEMENTS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/who-we-are/governance/index-m.html"><span>GOVERNANCE</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/who-we-are/basic-documents/index-m.html"><span>BASIC DOCUMENTS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="what-we-do">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/infrastructure-for-tomorrow/index-m.html"><span>INFRASTRUCTURE FOR TOMORROW</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/projects/index-m.html"><span>PROJECTS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/special-funds/index-m.html"><span>SPECIAL FUNDS RESOURCES</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/insights-and-publications/index-m.html"><span>INSIGHTS AND PUBLICATIONS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/emergency-response/index-m.html"><span>APPROACH TO EMERGENCY RESPONSE</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/what-we-do/Climate-Focused-Policy-Based-Financing/index.html"><span>CLIMATE-FOCUSED POLICY-BASED FINANCING</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/treasury/homepage/index.html"><span>TREASURY</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="how-we-work">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/accountability/index-m.html"><span>ACCOUNTABILITY</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/partnerships/index-m.html"><span>PARTNERSHIPS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/frameworks/index-m.html"><span>FRAMEWORKS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/public-consultations/energy-sector-strategy-update/index-m.html"><span>PUBLIC CONSULTATIONS</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/civil-society-engagement/overview/index.html"><span>CIVIL SOCIETY ENGAGEMENT</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/paris-alignment/overview.html"><span>PARIS ALIGNMENT</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/compliance/index-m.html"><span>COMPLIANCE</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/business-plan-and-strategies/index-m.html"><span>BUSINESS PLAN AND STRATEGIES</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/how-we-work/policies-and-directives/index-m.html"><span>POLICIES AND DIRECTIVES</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="work-with-us">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/work-with-us/join-the-team/index-m.html"><span>JOIN THE TEAM</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/work-with-us/business-opportunities/index-m.html"><span>BUSINESS OPPORTUNITIES</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="https://learn.aiib.org"><span>AIIB LEARNING SPACE</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/work-with-us/manage-my-portfolio/index-m.html"><span>MANAGE MY PORTFOLIO</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/projects/apply/index.html"><span>SUBMIT A PROPOSAL</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="media-center">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/news-events/media-center/news/index.html"><span>News</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="events">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/news-events/events/annual-meetings/overview/index.html"><span>Annual Meetings</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+											<a class="item-level-2" href="/en/news-events/events/upcoming-events/index.html"><span>Upcoming Events</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							<div class="item-groups-2" data-target="contact">
+									<div class="group-level">
+											<a class="item-level-2" href="/en/contact/index.html"><span>Contact Us</span><span class="icon-arrow-right"></span></a> 
+										</div>
+									<div class="group-level">
+										<a class="item-level-back" href="javascript:;"><span class="icon-arrow-left"></span><span>BACK</span></a> 
+									</div>
+								</div>
+							</div>
+                    </div>
+					<div class="nav-items-search">
+                        <div class="area-input">
+                            <input type="text">
+                            <a class="search" href="javascript:;"><span>OK</span></a>
+                        </div>
+                    </div>
+                </div>
+             </div>
+		</div>
+	</header>
+</div>
+<div class="mask-all-content"></div>
+
+<script>
+var urlMap = new Array();
+
+			urlMap["/en/about-aiib/index.html"] = "0";
+		
+			urlMap["/en/who-we-are/about-aiib/leadership/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/history/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/who-we-are/role-of-law/index.html"] = "0";
+		
+			urlMap["/en/general/faq/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/financial-statements/index.html"] = "0";
+		
+			urlMap["/en/publications/sustainability-reports/overview/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/members-of-bank/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/board-governors/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/board-directors/board-members/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/senior-management/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/international-advisory-panel/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/index.html#structure"] = "0";
+		
+			urlMap["/en/about-aiib/governance/accountability-framework/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/oversight-mechanism/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/governance/special-appeals-tribunal/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/articles-of-agreement/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/by-laws/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/rules-of-governors/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/rules-of-directors/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/conduct-officials/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/conduct-personnel/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/staff-regulations/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/staff-rules/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/basic-documents/headquarters-agreement/index.html"] = "0";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/overview/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/green-infrastructure/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/connectivity-and-regional-cooperation/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/technology-enabled-infrastructure/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/private-capital-mobilization/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/green-infrastructure/climate/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/infrastructure-for-tomorrow/gender-infrastructure/index.html"] = "1";
+		
+			urlMap["/en/projects/summary/index.html"] = "1";
+		
+			urlMap["/en/projects/list/index.html"] = "1";
+		
+			urlMap["/en/projects/list/index.html?status=Approved"] = "1";
+		
+			urlMap["/en/projects/list/index.html?status=Proposed"] = "1";
+		
+			urlMap["/en/projects/list/index.html?status=On%20Hold"] = "1";
+		
+			urlMap["/en/projects/list/index.html?status=Terminated%20/%20Cancelled"] = "1";
+		
+			urlMap["/en/projects/list/index.html?financing_type=Sovereign"] = "1";
+		
+			urlMap["/en/projects/list/index.html?financing_type=Nonsovereign"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/overview/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/project-preparation-special-funds/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/special-fund-window-for-less-developed-members/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/project-specific-window-fund/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/gcf-special-fund/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/global-infrastructure-facility-special-fund/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/MCDF-special-fund/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/pandemic-fund-special-fund/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/special-funds/project-list/index.html"] = "1";
+		
+			urlMap["/en/publications/overview/index.html"] = "1";
+		
+			urlMap["/en/news-events/media-center/blog/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/emergency-response/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/emergency-response/energy-food-security-and-economic-resilience-facility/index.html"] = "1";
+		
+			urlMap["/en/what-we-do/Climate-Focused-Policy-Based-Financing/index.html"] = "1";
+		
+			urlMap["/en/treasury/homepage/index.html"] = "1";
+		
+			urlMap["/en/treasury/financial-strength/index.html"] = "1";
+		
+			urlMap["/en/treasury/client-solutions/index.html"] = "1";
+		
+			urlMap["/en/treasury/funding/index.html"] = "1";
+		
+			urlMap["/en/treasury/liquidity-investments-management/index.html"] = "1";
+		
+			urlMap["/en/treasury/esg/index.html"] = "1";
+		
+			urlMap["/en/about-aiib/who-we-are/complaints-resolution-evaluation-integrity-unit/introduction/index.html"] = "2";
+		
+			urlMap["/en/about-aiib/who-we-are/project-affected-peoples-mechanism/how-we-assist-you/index.html"] = "2";
+		
+			urlMap["/en/about-aiib/who-we-are/debarment-list/index.html"] = "2";
+		
+			urlMap["/en/about-aiib/who-we-are/report-fraud-corruption/index.html"] = "2";
+		
+			urlMap["/en/how-we-work/partnerships/overview/index.html"] = "2";
+		
+			urlMap["/en/how-we-work/partnerships/institutional-engagement-cooperation/index.html"] = "2";
+		
+			urlMap["/en/how-we-work/partnerships/resource-mobilization/index.html"] = "2";
+		
+			urlMap["/en/what-we-do/special-funds/overview/index.html"] = "2";
+		
+			urlMap["/en/about-aiib/who-we-are/partnership/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/framework-agreements/climate-change-investment-framework/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/framework-agreements/environmental-social-framework.html"] = "2";
+		
+			urlMap["/en/policies-strategies/framework-agreements/risk-management-framework.html"] = "2";
+		
+			urlMap["/en/how-we-work/public-consultations/project-affected-people-mechanism-policy-review/index.html"] = "2";
+		
+			urlMap["/en/how-we-work/civil-society-engagement/overview/index.html"] = "2";
+		
+			urlMap["/en/how-we-work/paris-alignment/overview.html"] = "2";
+		
+			urlMap["/en/how-we-work/paris-alignment/_download/AIIB-Climate-Action-Plan.pdf"] = "2";
+		
+			urlMap["/en/how-we-work/compliance/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/corporate-strategy.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/business-plan-summaries.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/results-architecture.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/sustainable-energy-for-tomorrow.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/private-capital-infrastructure-strategy.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/financing-operations.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/transport-strategy.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/sustainable-cities/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/strategies/strategy-investing-equity.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/water-sector-strategy/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/digital-infrastructure-strategy/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/health-strategy/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/public-information/introduction/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/asset-liability-management-policy.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/sovereign-backed-loans.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/Learning-and-Evaluation-Policy.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/operational-policy-financing.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/operational-policy-on-international-relations.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/prohibited-practices.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/policy-on-the-project-affected-mechanism.html"] = "2";
+		
+			urlMap["/en/opportunities/business/project-procurement/index.html"] = "2";
+		
+			urlMap["/en/opportunities/business/corporate-procurement/index.html"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/policy-on-personal-data-privacy/overview/index.html"] = "2";
+		
+			urlMap["/en/what-we-do/special-funds/_download/rules-and-regulations.pdf"] = "2";
+		
+			urlMap["/en/what-we-do/special-funds/_download/AIIB-Special-Fund-Window-SFW-Rules-and-Regulations.pdf"] = "2";
+		
+			urlMap["/en/what-we-do/special-funds/_download/Rules-and-Regulations-of-the-AIIB-Project-Specific-Window.pdf"] = "2";
+		
+			urlMap["/en/policies-strategies/operational-policies/sovereign-loan-pricing.html"] = "2";
+		
+			urlMap["/en/about-aiib/who-we-are/role-of-law/directives.html"] = "2";
+		
+			urlMap["/en/work-with-us/join-the-team/index.html"] = "3";
+		
+			urlMap["/en/opportunities/career/job-vacancies/staff/index.html"] = "3";
+		
+			urlMap["/en/.content/navigation/individual-consultant-opportunities"] = "3";
+		
+			urlMap["/en/work-with-us/join-the-team/young-talent-programs/index.html"] = "3";
+		
+			urlMap["/en/opportunities/business/project-procurement/index.html"] = "3";
+		
+			urlMap["/en/opportunities/business/corporate-procurement/index.html"] = "3";
+		
+			urlMap["https://learn.aiib.org"] = "3";
+		
+			urlMap["/en/work-with-us/aiib-client-portal/client/index.html"] = "3";
+		
+			urlMap["/en/work-with-us/aiib-client-portal/partner/index.html"] = "3";
+		
+			urlMap["/en/projects/apply/index.html"] = "3";
+		</script>
+
+	<!-- End SSI Header Navigation -->
+
+		<div class="outter">
+			<div class="main">
+				<link rel="stylesheet" type="text/css" href="/_common/template/standard-teaser/standard-teaser.css">
+<div class="feature feat-banner">
+	<div class="image">
+		<img class="pc" src="/en/news-events/media-center/news/_common/img/teaser-1920x520.webp" alt="PROJECT PROCUREMENT OPPORTUNITIES">
+			<img class="mobi" src="/en/news-events/media-center/news/_common/img/teaser-500x500.webp" alt="PROJECT PROCUREMENT OPPORTUNITIES">
+	</div>
+	<div class="content">
+		<div class="inner">
+			<div class="headline-small text-14">BUSINESS OPPORTUNITIES</div>
+			<h1 class="headline">PROJECT PROCUREMENT OPPORTUNITIES</h1>
+			</div>
+	</div>
+	<p class="scroll-icon"><span class="bg"></span><span class="hlight01"></span></p>
+</div>
+<script>
+$(function(){
+	$(window).scroll(function() {
+		var _tempScroll = $(window).scrollTop();
+		_tempScroll = _tempScroll > 600 ? 0 : (600 - _tempScroll) / 600;
+		$(".scroll-icon").css('opacity', _tempScroll); // weaken scroll icon
+	})
+});
+</script>
+			</div> 
+			
+			<div class="main center-content-1280">
+				<div class="share-2021" style="display:block;">
+	<a class="tracking-share" id="a-twitter-red-2021" href="http://twitter.com/share?url=https%3A%2F%2Fwww.aiib.org%2Fen%2Fopportunities%2Fbusiness%2Fproject-procurement%2Flist.html&amp;text=Project%20Procurement%20Opportunity%20List%20-%20Business%20Opportunities%20-%20Opportunities%20-%20AIIB" target="_blank"></a>
+	<a class="tracking-share" id="a-linked-red-2021" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.aiib.org%2Fen%2Fopportunities%2Fbusiness%2Fproject-procurement%2Flist.html&amp;title=Project%20Procurement%20Opportunity%20List%20-%20Business%20Opportunities%20-%20Opportunities%20-%20AIIB" target="_blank"></a>							
+	<a class="tracking-share" id="a-facebook-red-2021" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.aiib.org%2Fen%2Fopportunities%2Fbusiness%2Fproject-procurement%2Flist.html&amp;t=Project%20Procurement%20Opportunity%20List%20-%20Business%20Opportunities%20-%20Opportunities%20-%20AIIB" target="_blank"></a>
+	<a class="tracking-share" id="a-sina-red-2021" href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.aiib.org%2Fen%2Fopportunities%2Fbusiness%2Fproject-procurement%2Flist.html&amp;title=Project%20Procurement%20Opportunity%20List%20-%20Business%20Opportunities%20-%20Opportunities%20-%20AIIB&amp;pic=https://www.aiib.org/en/news-events/asian-infrastructure-finance/2022/_common/img/Introduction-sharing.jpg" target="_blank"></a> 
+	<a class="tracking-share" id="a-wechat-red-2021" onclick="$('.share-2021 .wechat-qrcode').toggle();"></a>
+	
+	<div class="wechat-qrcode">
+		<div class="title">Scan to share on WeChat</div>
+		<div class="closeBtn" onclick="$('.share-2021 .wechat-qrcode').toggle();"><img src="/en/.content/home-2021/img/_common/icon_close_dark.svg" alt="Close"></div>
+		<div id="wechat-qrcode-div" title="https://www.aiib.org/en/opportunities/business/project-procurement/list.html"><canvas width="185" height="185" style="display: none;"></canvas><img src="data:image/png;base64,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

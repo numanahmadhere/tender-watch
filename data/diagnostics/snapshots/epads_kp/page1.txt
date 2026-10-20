@@ -363,7 +363,7 @@ Content-Type: text/html; charset=UTF-8
                                                                                 Closing On:
                                                                             </span>
                                                                             <span class="badge rounded-pill px-2 bg-label-primary">
-                                                                                21h 4m Left <i class='ri-hourglass-fill fs-xsmall'></i>                                                                            </span>
+                                                                                18h 29m Left <i class='ri-hourglass-fill fs-xsmall'></i>                                                                            </span>
                                                                         </div>
                                                                     
                                                                 </div>

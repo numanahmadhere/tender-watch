@@ -1,0 +1,626 @@
+URL: https://moitt.gov.pk/Tenders
+HTTP: 200
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ministry of IT & Telecommunication</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/SiteImage/Setting/gov-pak-logo-2x.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/SiteImage/Setting/gov-pak-logo-2x.png">
+    <!-- jQuery (Core) with SRI -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+            integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+            crossorigin="anonymous"></script>
+    
+    <!-- jQuery Paginate -->
+    <!-- jQuery Paginate (Fixed Valid CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery-paginate@1.0.1/jquery-paginate.min.js"
+            crossorigin="anonymous"></script>
+
+    <!-- Bootstrap 5.3.3 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+          crossorigin="anonymous">
+    
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    
+    <!-- Font Awesome 6.4.2 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    
+    <!-- AOS CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" />
+    <link rel="stylesheet" href="/css/style.css?v=TEEUDnyfwiSJ153uIeysCPrLcL7r2o7aAOT9N-e4U6k" />
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section start -->
+    <header b-qcayifa3ra class="header sticky-top " role="banner">
+        <!-- Topbar Section -->
+        <div b-qcayifa3ra class="topbar d-flex align-items-center sticky-lg-top  py-1">
+            <div b-qcayifa3ra class="container-fluid d-flex align-items-center px-5 mx-2">
+                <!-- Logo and Ministry Name -->
+                <div b-qcayifa3ra class="d-flex align-items-center">
+                    <div b-qcayifa3ra class="logo">
+                        <a b-qcayifa3ra href="#" aria-label="Ministry of IT Homepage">
+                            <img src="/images/footer-section/footer-logo.png" alt="Ministry of IT Logo" class="img-fluid" width="50" height="50">
+                        </a>
+                    </div>
+                    <div b-qcayifa3ra class="logo-title ms-2">
+                        <h1 b-qcayifa3ra class="h6 mb-0">Ministry of Information<br b-qcayifa3ra>Technology & Telecommunication</h1>
+                    </div>
+                </div>
+
+                <!-- Contact Information -->
+                <div b-qcayifa3ra class="social-links d-md-flex align-items-center ms-auto">
+                    <!-- Email -->
+                    <a b-qcayifa3ra href="mailto:info@moitt.gov.pk"
+                       class="social-icon text-decoration-none d-flex align-items-center"
+                       data-bs-toggle="tooltip" data-bs-placement="bottom" title="info@moitt.gov.pk">
+                        <i b-qcayifa3ra class="bi bi-envelope-fill"></i>
+                    </a>
+
+                    <!-- Social Media Icons -->
+                    <a b-qcayifa3ra href="https://www.facebook.com/moitt.gov.pk/" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="Facebook">
+                        <i b-qcayifa3ra class="bi bi-facebook"></i>
+                    </a>
+                    <a b-qcayifa3ra href="https://www.youtube.com/@MinistryofITTelecomPakistan" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="YouTube">
+                        <i b-qcayifa3ra class="bi bi-youtube"></i>
+                    </a>
+                    <a b-qcayifa3ra href="https://www.tiktok.com/@moittofficial" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="TikTok">
+                        <i b-qcayifa3ra class="bi bi-tiktok"></i>
+                    </a>
+                    <a b-qcayifa3ra href="https://x.com/moitofficial?lang=en" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="Twitter">
+                        <i b-qcayifa3ra class="bi bi-twitter-x"></i>
+                    </a>
+                    <a b-qcayifa3ra href="https://pk.linkedin.com/company/ministry-of-it-and-telecom-pakistan" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="LinkedIn">
+                        <i b-qcayifa3ra class="bi bi-linkedin"></i>
+                    </a>
+                    <a b-qcayifa3ra href="https://www.instagram.com/moitofficial/" target="_blank" rel="noopener"
+                       class="social-icon" aria-label="Instagram">
+                        <i b-qcayifa3ra class="bi bi-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Navigation -->
+        <div b-qcayifa3ra class="branding-wrapper-outer">
+            <div b-qcayifa3ra class="branding-wrapper position-relative  ">
+                <div b-qcayifa3ra class="container-fluid px-5">
+                    <nav b-qcayifa3ra id="main-navigation" class="navbar navbar-expand-lg" aria-label="Main navigation">
+                        <!-- Mobile Toggle Button -->
+                        <button b-qcayifa3ra class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span b-qcayifa3ra class="bi bi-list"></span>
+                        </button>
+
+                        <!-- Navigation Menu -->
+                        <div b-qcayifa3ra class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                            <ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="../Index">Home</a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="AboutUsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">About Us<i class="bi bi-chevron-down toggle-dropdown"></i></a><ul class="dropdown-menu" aria-labelledby="AboutUsDropdown">
+<li><a class="dropdown-item" href="../VisionMission">Vision & Mission</a></li><li><a class="dropdown-item" href="../Mandate">Mandate</a></li><li><a class="dropdown-item" href="../ProfileDetail/NjkzMjQ2ODYtZDZmZS00ZTZmLTgyOTYtOTU1ODE0MDA2NTJi">Federal Minister</a></li><li><a class="dropdown-item" href="../ProfileDetail/ZmE5Y2YwMmEtZTY5Zi00NzAzLWFlZDItNzJiOGVmODcyYmRh">Parliamentary Secretary</a></li><li><a class="dropdown-item" href="../ProfileDetail/YjUyYzg4MjctZjk4Ny00MGQyLTg3YjctYjIxNjIyNGFhNjI3">Federal Secretary</a></li><li><a class="dropdown-item" href="../TeamDetails">Ministry Officials</a></li><li><a class="dropdown-item" href="../Organogram">Organogram</a></li></ul></li>
+<li class="nav-item"><a class="nav-link" href="../Policies">Policies</a></li><li class="nav-item"><a class="nav-link" href="../Legislations">Legislation</a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="PublicLinksDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Public Links<i class="bi bi-chevron-down toggle-dropdown"></i></a><ul class="dropdown-menu" aria-labelledby="PublicLinksDropdown">
+<li><a class="dropdown-item" href="../Tenders">Tenders</a></li><li><a class="dropdown-item" href="../Jobs">Careers</a></li><li><a class="dropdown-item" href="../Projects">Projects</a></li><li><a class="dropdown-item" href="../Trainings">Trainings</a></li><li><a class="dropdown-item" href="../Detail/YWVmY2E5NTYtZDQwOC00ZmM2LTlkOWMtODZjYjEwN2ZjZTJh">Naming Competitions</a></li><li><a class="dropdown-item" href="../Detail/YmY4ZGFkODktYzI5Yy00OGUxLWE4ZDEtZDJjNzcwMWZhZGU1">AI Declaration</a></li></ul></li>
+<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="MediaDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Media<i class="bi bi-chevron-down toggle-dropdown"></i></a><ul class="dropdown-menu" aria-labelledby="MediaDropdown">
+<li><a class="dropdown-item" href="../LatestNews">Latest News</a></li><li><a class="dropdown-item" href="../Publications">Publications</a></li><li><a class="dropdown-item" href="../Gallery">Gallery</a></li></ul></li>
+<li class="nav-item"><a class="nav-link" href="../ContactUs">Contact Us</a></li><form class="d-flex w-90" role="search" action="/Search" method="get"><div class="input-group w-90"><input type="search" name="search" class="form-control d-md-none" id="mobileSearchInput" placeholder="Search..." aria-label="Search"><input type="search" name="search" class="form-control visually-hidden d-none d-md-block" id="searchInput" placeholder="Search..." aria-label="Search"><button class="btn btn-outline-secondary" type="submit" aria-label="Search"><img src="/images/vector/search-Vector.png" alt="" width="18" height="18" aria-hidden="true"></button></div></form></ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+
+<style>
+    /* data table css section start */
+    .table-container {
+        overflow-x: auto;
+    }
+
+    .pagination {
+        justify-content: right;
+        margin-top: 10px;
+    }
+
+        .pagination .page-item.active .page-link {
+            background-color: #112117 !important;
+            color: yellow !important;
+            border-color: yellow !important;
+        }
+
+        .pagination .page-link {
+            background-color: #112117;
+            color: yellow;
+            ;
+            border: 1px solid yellow;
+        }
+
+            .pagination .page-link:hover {
+                background-color: yellow;
+                color: #112117;
+            }
+
+            .pagination .page-link:focus, .pagination .page-link:active {
+                background-color: #112117 !important;
+                color: yellow !important;
+                box-shadow: none !important;
+                border-color: yellow !important;
+            }
+
+    .table-btn {
+        background-color: #112117;
+        color: yellow;
+        font-weight: 500;
+    }
+
+        .table-btn:focus,
+        .table-btn:hover {
+            background-color: yellow;
+            color: #112117;
+            border: 1px solid #112117;
+        }
+    /* data table css section end */
+
+</style>
+
+<body>
+    <section id="schedule">
+        <div class="container mt-20 mt-5 pb-40 pt-0" style="max-width:1440px;">
+            <h2>Tenders</h2>
+            <div class="section-content" style="max-width:1440px;">
+                <div class="container" style="max-width:1440px;">
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-8 mb-2 mb-md-0 d-flex flex-wrap gap-2">
+                        <button class="btn table-btn showAll-btn" onclick="filterStatus('all')">Show All</button>
+                        <button class="btn table-btn" onclick="filterStatus('open')">Active</button>
+                        <button class="btn table-btn" onclick="filterStatus('closed')">Closed</button>
+                    </div>
+                        <div class="col-md-4">
+                            <input type="text" id="search" class="form-control" placeholder="Search...">
+                        </div>
+                    </div>
+                </div>
+                    <div class="table-container" style="max-width:1440px;">
+                        <table class="table table-bordered table-hover">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Title</th>
+                                    <th>Type</th>
+                                    <th>Status</th>
+                                    <th>Advertisement Date</th>
+                                    <th>Closing Date</th>
+                                    <th>Download</th>
+                                </tr>
+                            </thead>
+                            <tbody id="dTable">
+                                    <tr data-status="open">
+                                        <td><a class="aTag" href="/TenderDetail/N2Q4N2QwN2ItYzE4OS00N2E0LTlkYWYtZmIzMmZiMDc1ZDJi">Invitation for Bids-Provision of Rental  Vehicles Services(DEEP)</a></td>
+                                        <td>Tender</td>
+                                        <td>Open</td>
+                                        <td> 29 September 2026</td>
+                                        <td> 15 October 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Final_Advertisement_Rental_Vehicles.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="open">
+                                        <td><a class="aTag" href="/TenderDetail/MzY1ODM3YTgtYzNmZS00ZmVmLWEzYmYtZTEwODliZmRmZDM3">Request for Quotation (RFQ)-DEEP</a></td>
+                                        <td>RFQ</td>
+                                        <td>Open</td>
+                                        <td> 06 September 2026</td>
+                                        <td> 21 September 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/RFQ-Design-Fabrication-Deployment-Spatial-Infrastructure.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ODk5MTA1ZTItYTgzZi00NGFiLWJhMmQtMGRkY2JiM2VmMDgy">Request for Quotation (RFQ) Hardwares and Softwares</a></td>
+                                        <td>RFQ</td>
+                                        <td>Closed</td>
+                                        <td> 28 August 2026</td>
+                                        <td> 11 September 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/RFQ Advertisment DEEP.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/YjFkZTU1MDktMjQyMS00ZjE2LTgyMDgtNjA4YWU0MTlkNWRm">Procurement of Hardware Under the Project NAAI</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 05 August 2026</td>
+                                        <td> 25 August 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/NAAI RFP Hardware Final Version.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/MTEwYzMyYWUtYTQxNi00YmJjLTk4MWQtNjQyNzk1OTQxMTI0">RFP for Selection of firm for the Establishment of National Artificial Intelligence Hubs (AI-Hubs) across Pakistan</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 26 July 2026</td>
+                                        <td> 31 August 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/AI HUBS Advertisement.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/NzJkNzg1NjEtYmVjZS00YjFjLTk0MWYtMTI2ZDRjMWEyMTVj">Procurement of Office IT Equipment</a></td>
+                                        <td>RFQ</td>
+                                        <td>Closed</td>
+                                        <td> 21 June 2026</td>
+                                        <td> 09 July 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/PK-MOITT-537152-GO-RFQ Procurement of Office IT Equipment - RFQ.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZDBjZDVjYzItYmI5Yy00YjVlLWE5NTUtNzZlNmFmN2JjNDc5">Selection of Consulting Firm for Restructuring of Ministry of IT and Telecommunication</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 20 June 2026</td>
+                                        <td> 14 July 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/RestructuringofMOITT-REOI.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/N2NlMzE2MGQtMWFkOC00OGQ3LWI1OGYtOTgwM2E5ODNmZjkw">Selection of Training Company / Consortium for AI Capacity Building in Pakistan</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 24 May 2026</td>
+                                        <td> 08 June 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/RFP for AI Trainings V2.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZTlhNjMxODUtOGJmYS00MWNmLWJiNTMtYTMyZjUxYjg3MDhk">Selection of Creative Agency for Design, Media Production, and Publication Services</a></td>
+                                        <td>RFQ</td>
+                                        <td>Closed</td>
+                                        <td> 06 May 2026</td>
+                                        <td> 19 May 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Creative Agency for DEEP.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/YTk4ZDZlNWMtNDgxMi00MzdjLWE3OTItZTc5YjU3YzIyMGZi">Request for Proposals Information Systems (Design, Supply and Installation - Single Stage)</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 01 May 2026</td>
+                                        <td> 02 July 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/NationalOpenDataEcosystem(NODE)-SPNandRFP.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZGZiNmRmMWItNWE1My00YzczLTg1YTMtZmI3YjY2NDA1Zjdj">Selection of Training Company / Consortium for AI Capacity Building in Pakistan</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 29 April 2026</td>
+                                        <td> 14 May 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/RFP for Trainings 27-04-2026.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZTE2OTA3YjQtMjNlNy00ZGUxLWIwMzgtYTcwYWU4MTZhYzVm">Extension Notice-National Unified Super App-PK-MOITT-530157-GO-RFP</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 09 April 2026</td>
+                                        <td> 13 April 2026</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Extension Notice-National Unified Super.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/NmYxYWVhYWMtNTU1Yi00ZmUzLTkyZGMtZTY2ZmI4OTdkMGNl">RFP for Pre-qualification of Event Management Companies</a></td>
+                                        <td>RFP</td>
+                                        <td>Closed</td>
+                                        <td> 21 September 2025</td>
+                                        <td> 09 October 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Tender Documents for Pre-Qualification of Event Mangement Companies.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ODcxZmEyNjEtZGJhMC00OTgwLWJiODctMWU5Nzk3ZjQ4Njc3">Purchase and Installation of IT Hardware, NAAI Project</a></td>
+                                        <td>Tender</td>
+                                        <td>Closed</td>
+                                        <td> 14 September 2025</td>
+                                        <td> 06 October 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Hardware Advertisement NAAI 9 September 2025.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/N2NhZTY4ZDMtMzJlZi00MjUyLWI1M2ItNGM1NWMzZGI1NTEy">Requests for Expression of Interest(EOI) , DEEP Project</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 27 August 2025</td>
+                                        <td> 19 September 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Corrigendum AD-EOI-DEEP (1).pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/MmZjN2Y5ZTgtOGUwNi00MzhiLWJjNWQtOGQ4NDU2ODM3OWRi">EOI for Onboarding of firm for Provision of Management Services</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 15 August 2025</td>
+                                        <td> 15 September 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/EOI and TOR Provision of Management Services.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZmE0OGY2MTMtYTJkNS00NDU5LTlkYjItNDBkNjYyNWNkZDVj">EOI for Onboarding of Consultancy firm for the Independent Review &amp; Audit of Pakistan Government&#x2019;s Cashless Economy Initiative 2025</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 17 August 2025</td>
+                                        <td> 25 September 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/EOI and TOR  Cashless Economy Initiative 2025.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/NjYzMjkyYjgtNTg3OC00NWU3LWE2NzMtNzkyZTRjYjYxM2Nk">Hiring of Firm for Consultancy Services for Developing a Robust Cloud Ecosystem to Encourage Cloud Adoption by Public Sector Entities in Pakistan.</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 25 March 2025</td>
+                                        <td> 17 April 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/REOI-Developing a Robust Cloud Ecosystem to Encourage Cloud Adoption by Public Sector Entities in Pakistan..docx"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/YTUwYjlmZGItM2I2OS00ZDVlLWFmNDEtNWUyMDUyMjM1MzVm">Consultancy Services for Digital Economy Sector Assessment Study</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 25 March 2025</td>
+                                        <td> 17 April 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/REOI-Digital Economy Sector Assessment Study.docx"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/ZmQwNWU1OWItZjg0MC00MWI3LTg3ZjMtZTc0NTUxMWRhNjZh">Consultancy Services for Restructuring of Ministry of IT &amp; Telecom</a></td>
+                                        <td>EOI</td>
+                                        <td>Closed</td>
+                                        <td> 25 March 2025</td>
+                                        <td> 17 April 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/REOI-Restructuring of Ministry.docx"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/NmJhMTgyYTMtM2I1ZS00MjMyLTgwM2MtNDcwNWM4NzQzODQz">Tender Notice for Purchase ICT Equipment</a></td>
+                                        <td>Tender</td>
+                                        <td>Closed</td>
+                                        <td> 28 March 2025</td>
+                                        <td> 21 April 2025</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Tender Notice for Procurement of ICT Equipment.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/MmVlNTcxOTUtMmVjMi00N2ExLTg1MTctYTU0NGUzMTk5OTEz">Pre-Qualification of Workshops/Firms </a></td>
+                                        <td>Tender</td>
+                                        <td>Closed</td>
+                                        <td> 16 June 2024</td>
+                                        <td> 22 July 2024</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Corrigendum.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                                    <tr data-status="closed">
+                                        <td><a class="aTag" href="/TenderDetail/OTg5NzNhZjctYWQxNi00YmIyLWI1YzctY2MyNmUzYjYyZTZh">Tender Notice/ Terms &amp; Conditions </a></td>
+                                        <td>Tender</td>
+                                        <td>Closed</td>
+                                        <td> 28 June 2024</td>
+                                        <td> 16 July 2024</td>
+                                        <td><center><a class="aTag" href="/SiteImage/Tenders/Tender notice June 2024.pdf"><i class="bi bi-download fs-4" aria-hidden="true"></i></a></center></td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <nav>
+                        <ul class="pagination" id="pagination"></ul>
+                    </nav>
+            </div>
+        </div>
+    </section>
+
+    <!-- data table section  js start -->
+    <script>
+        $(document).ready(function() {
+            let rowsPerPage = 10;
+            let rows = $('#dTable tr');
+            let totalPages = Math.ceil(rows.length / rowsPerPage);
+
+            function showPage(page) {
+                rows.hide();
+                rows.slice((page - 1) * rowsPerPage, page * rowsPerPage).show();
+            }
+
+            function updatePagination() {
+                $('#pagination').empty();
+                for (let i = 1; i <= totalPages; i++) {
+                    $('#pagination').append(`<li class='page-item'><a class='page-link' href='#'>${i}</a></li>`);
+                }
+                $('#pagination li:first-child a').addClass('active');
+
+                $('#pagination a').on('click', function(e) {
+                    e.preventDefault();
+                    let page = $(this).text();
+                    showPage(page);
+                    $('#pagination a').removeClass('active');
+                    $(this).addClass('active');
+                });
+            }
+
+            showPage(1);
+            updatePagination();
+        });
+
+        function filterStatus(status) {
+            $('#dTable tr').each(function() {
+                let rowStatus = $(this).data('status');
+                if (status === 'all' || rowStatus === status) {
+                    $(this).show();
+                } else {
+                    $(this).hide();
+                }
+            });
+        }
+
+        $('#search').on('keyup', function() {
+            let value = $(this).val().toLowerCase();
+            $('#dTable tr').filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+            });
+        });
+    </script>
+    <!-- data table section  js end -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+          // Focus the "Show All" button on initial page load
+          document.querySelector('.showAll-btn')?.focus();
+        });
+    </script>
+</body>
+
+
+    <!-- Footer Start -->
+    <footer b-qcayifa3ra id="footer">
+        <div b-qcayifa3ra class="container-fluid">
+            <div b-qcayifa3ra class="row gy-4 px-4 px-md-5">
+                <div b-qcayifa3ra class="col-12 col-md-12 col-lg-5 d-flex gap-3">
+                    <img src="/images/footer-section/footer-logo.png" alt="MOITT Logo" class="footer-logo" style="height:120px;width:120px;margin-top:20px;">
+                    <div b-qcayifa3ra>
+                        <h6 b-qcayifa3ra class="footer-heading mt-4 mt-md-5">
+                            Ministry of Information <br b-qcayifa3ra>Technology & Telecommunication
+                        </h6>
+                        <p b-qcayifa3ra class="footer-subheading mb-0">Government of Pakistan</p>
+                    </div>
+                </div>
+
+                <div b-qcayifa3ra class="col-12 col-md-8 col-lg-5 mt-4 mt-lg-0">
+                    <h6 b-qcayifa3ra class="footer-title mb-3">Quick Links</h6>
+                    <div b-qcayifa3ra class="row">
+                        <div b-qcayifa3ra class="col-12 col-sm-6">
+                            <ul b-qcayifa3ra class="list-unstyled">
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://email.moitt.gov.pk" target="_blank">Employees Sign In </a></span>
+                                    </li>
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://pda.gov.pk/" target="_blank">Pakistan Digital Authority (PDA)</a></span>
+                                    </li>
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://www.pta.gov.pk/home" target="_blank">Pakistan Telecommunication Authority (PTA)</a></span>
+                                    </li>
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://njp.gov.pk/" target="_blank">National Job Portal (NJP)</a></span>
+                                    </li>
+                            </ul>
+                        </div>
+                        <div b-qcayifa3ra class="col-12 col-sm-6">
+                            <ul b-qcayifa3ra class="list-unstyled">
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://pkcert.gov.pk/" target="_blank">National Cyber Emergency Response Team of Pakistan (PKCERT)</a></span>
+                                    </li>
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="http://www.fab.gov.pk/" target="_blank">Frequency Allocation Board (FAB)</a></span>
+                                    </li>
+                                    <li b-qcayifa3ra class="footer-link">
+                                        <span b-qcayifa3ra><i b-qcayifa3ra class="bi bi-chevron-right me-2 "></i><a b-qcayifa3ra href="https://www.pasha.org.pk/" target="_blank">Pakistan Software Houses Association(P@SHA)</a></span>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div b-qcayifa3ra class="col-12 col-lg-2 col-md-4 mt-4 mt-lg-0">
+                    <h6 b-qcayifa3ra class="footer-title mb-3">Contact Us</h6>
+                    <ul b-qcayifa3ra class="list-unstyled">
+                        <li b-qcayifa3ra class="footer-contact mb-2"><i b-qcayifa3ra class="bi bi-geo-alt-fill me-2"></i>7th Floor, Kohsar Block, Pak Secretariat, Islamabad.</li>
+                        <li b-qcayifa3ra class="footer-contact mb-2"><i b-qcayifa3ra class="bi bi-envelope-fill me-2"></i>info@moitt.gov.pk</li>
+                        <li b-qcayifa3ra class="footer-contact mb-2"><i b-qcayifa3ra class="bi bi-telephone-fill me-2"></i>&#x2B;92519219971</li>
+                    </ul>
+                    <div b-qcayifa3ra class="d-flex gap-3 footer-icons mt-3">
+                        <a b-qcayifa3ra href="https://www.facebook.com/moitt.gov.pk/" target="_blank" rel="noopener" class=" social-icon" aria-label="Facebook">
+                            <i b-qcayifa3ra class="bi bi-facebook"></i>
+                        </a>
+                        <a b-qcayifa3ra href="https://x.com/moitofficial?lang=en" target="_blank" rel="noopener" class=" social-icon" aria-label="Twitter">
+                            <i b-qcayifa3ra class="bi bi-twitter-x"></i>
+                        </a>
+                        <a b-qcayifa3ra href="https://pk.linkedin.com/company/ministry-of-it-and-telecom-pakistan" target="_blank" rel="noopener" class=" social-icon" aria-label="LinkedIn">
+                            <i b-qcayifa3ra class="bi bi-linkedin"></i>
+                        </a>
+                        <a b-qcayifa3ra href="https://www.instagram.com/moitofficial/" target="_blank" rel="noopener" class=" social-icon" aria-label="Instagram">
+                            <i b-qcayifa3ra class="bi bi-instagram"></i>
+                        </a>
+                        <a b-qcayifa3ra href="https://www.tiktok.com/@moittofficial" target="_blank" rel="noopener" class=" social-icon" aria-label="Tiktok">
+                            <i b-qcayifa3ra class="bi bi-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div b-qcayifa3ra class="row align-items-center px-4 px-md-5 mt-4">
+                <div b-qcayifa3ra class="col-md-12 text-center">
+                    <p b-qcayifa3ra class="footer-copyright mb-0">© 2026 National Information Technology Board (NITB). All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+            once: true
+        });
+
+        // Global Search Input Validator
+        $(document).on('input paste keypress', 'input[name="search"], #searchBar, #search', function (e) {
+            const input = $(this);
+
+            if (e.type === 'keypress') {
+                const charCode = (e.which) ? e.which : e.keyCode;
+                // Allow only Alphanumeric (A-Z, a-z, 0-9) and Space (32)
+                if (!(charCode === 32 || (charCode >= 48 && charCode <= 57) || (charCode >= 65 && charCode <= 90) || (charCode >= 97 && charCode <= 122))) {
+                    e.preventDefault();
+                    return false;
+                }
+            }
+
+            // Cleanup on input and paste
+            setTimeout(() => {
+                let val = input.val();
+                if (val) {
+                    // Remove special characters
+                    let sanitized = val.replace(/[^a-zA-Z0-9 ]/g, "");
+                    // Remove multiple spaces
+                    sanitized = sanitized.replace(/\s+/g, " ");
+                    
+                    // Filter SQL keywords
+                    const sqlKeywords = ["SELECT", "INSERT", "UPDATE", "DELETE", "DROP", "UNION", "EXEC", "TRUNCATE", "OR", "AND"];
+                    sqlKeywords.forEach(keyword => {
+                        const regex = new RegExp("\\b" + keyword + "\\b", "gi");
+                        sanitized = sanitized.replace(regex, "");
+                    });
+
+                    if (val !== sanitized) {
+                        input.val(sanitized);
+                    }
+                }
+            }, 0);
+        });
+
+        // Ensure forms are sanitized on submission
+        $(document).on('submit', 'form', function (e) {
+            const searchInputs = $(this).find('input[name="search"], #searchBar, #search');
+            searchInputs.each(function () {
+                let val = $(this).val();
+                if (val) {
+                    let sanitized = val.replace(/[^a-zA-Z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+                    const sqlKeywords = ["SELECT", "INSERT", "UPDATE", "DELETE", "DROP", "UNION", "EXEC", "TRUNCATE", "OR", "AND"];
+                    sqlKeywords.forEach(keyword => {
+                        const regex = new RegExp("\\b" + keyword + "\\b", "gi");
+                        sanitized = sanitized.replace(regex, "");
+                    });
+                    $(this).val(sanitized);
+                }
+            });
+        });
+    </script>
+
+    
+</body>
+</html>

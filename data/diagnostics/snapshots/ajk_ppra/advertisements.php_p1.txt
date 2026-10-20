@@ -93,6 +93,216 @@ Content-Type: text/html; charset=UTF-8
                             
                             
                             <tr>
+                                <td align="center">Tender Notice <br /> 6672 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Consultancy Services for Master Planning of Tourist Potential Sites of AJ&K <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>Tourism and Archaeology</td>
+                                <td>Tourism and Archaeology Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6672);" href="uploadfiles/tenderdocuments/1792499944GIE0J - Tender Tourism.pdf" title="1792499944GIE0J - Tender Tourism.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6671 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring of Consultancy Services for Clean Tourism AJK Programme <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">06-11-2026</td>
+                                <td>Tourism and Archaeology</td>
+                                <td>Tourism and Archaeology Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6671);" href="uploadfiles/tenderdocuments/1792499786GHF2V - Tender Tourism Deptt.pdf" title="1792499786GHF2V - Tender Tourism Deptt.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Request for Proposal <br /> 6670 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Hiring Services of Reputed Testing Agency to Conduct Tets for Recruitment <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">11-11-2026</td>
+                                <td>Board of Revenue</td>
+                                <td>BOR Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6670);" href="uploadfiles/tenderdocuments/17924995846E9SS - Tender BOR RFP.pdf" title="17924995846E9SS - Tender BOR RFP.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6669 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Tender for Services <br />
+                               <strong> (2)</strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>AJK PDO</td>
+                                <td>PDO Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6669);" href="uploadfiles/tenderdocuments/1792499400YRGJR - Tender AJK PDO.pdf" title="1792499400YRGJR - Tender AJK PDO.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Tender Notice <br /> 6668 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Maintenance of Building & Machinery (AIMS) <br />
+                               <strong> (2)</strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">07-11-2026</td>
+                                <td>Health Department</td>
+                                <td>Health Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6668);" href="uploadfiles/tenderdocuments/1792499233VL3VX - Tender AIMS.pdf" title="1792499233VL3VX - Tender AIMS.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
+                                <td align="center">Prequalification Notice <br /> 6667 
+                                  </span>
+                                </td>
+                                <td><span class="first style1">Procurement of Livestock Feeds & Minerals <br />
+                               <strong> </strong>
+                                <br />                               
+                                </span>
+                                                                 </span></td>
+                                <td align="center">20-10-2026</td>
+                                <td align="center">05-11-2026</td>
+                                <td>Agriculture</td>
+                                <td>Live Stock Muzaffarabad</td>
+                              <td><a  onclick="setCvDownloads(6667);" href="uploadfiles/tenderdocuments/17924990884AVL5 - Tende Livestock Mzd.pdf" title="17924990884AVL5 - Tende Livestock Mzd.pdf" target="_blank">Download File</a>
+                              
+                                                              
+                               
+                               
+                                  
+                               
+                                  
+                               
+                               
+                               
+                               
+                             
+                              
+                               
+                                  
+                               
+                                
+                               
+                                                                                          	</td>
+                            </tr>
+                                       
+                            <tr>
                                 <td align="center">Tender Notice <br /> 6666 
                                   </span>
                                 </td>
@@ -889,199 +1099,4 @@ Content-Type: text/html; charset=UTF-8
                                 <td align="center">22-10-2026</td>
                                 <td>C&W</td>
                                 <td>Highways Division Bhimber</td>
-                              <td><a  onclick="setCvDownloads(6633);" href="uploadfiles/tenderdocuments/1790164184YUSTH - Tender C&W Bhimber.pdf" title="1790164184YUSTH - Tender C&W Bhimber.pdf" target="_blank">Download File</a>
-                              
-                                                              <br />
-                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/17908550562IL9D - Corr. 6633.pdf" title="17908550562IL9D - Corr. 6633.pdf" target="_blank">Corrigendum</a>	
-                                                              
-                                                           <br />
-                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/1791954167H2X6G - Corr 6633 Whatsapp.pdf" title="1791954167H2X6G - Corr 6633 Whatsapp.pdf" target="_blank">Corrigendum-2</a>	
-                                 
-                               
-                                                              <br />
-                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/179206477998L5Z - Corr 3 6633.pdf" title="179206477998L5Z - Corr 3 6633.pdf" target="_blank">Corrigendum-3</a>	
-                                 
-                               
-                                  
-                               
-                               
-                               
-                               
-                             
-                              
-                               
-                                  
-                               
-                                
-                               
-                                                                                          	</td>
-                            </tr>
-                                       
-                            <tr>
-                                <td align="center">Tender Notice <br /> 6626 
-                                  </span>
-                                </td>
-                                <td><span class="first style1">Hiring of Solid Waste Management Services for Mirpur City <br />
-                               <strong> </strong>
-                                <br />                               
-                                </span>
-                                                                 </span></td>
-                                <td align="center">18-09-2026</td>
-                                <td align="center">02-11-2026</td>
-                                <td>Corporations</td>
-                                <td>Municipal Corporation Mirpur</td>
-                              <td><a  onclick="setCvDownloads(6626);" href="uploadfiles/tenderdocuments/1789730230MJF7J - Tender MC Mirpur.pdf" title="1789730230MJF7J - Tender MC Mirpur.pdf" target="_blank">Download File</a>
-                              
-                                                              <br />
-                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1790164755LNS39 - Corr. 6626 .pdf" title="1790164755LNS39 - Corr. 6626 .pdf" target="_blank">Corrigendum</a>	
-                                                              
-                                                           <br />
-                               <a  style="color:#FF0000"    href="uploadfiles/tenderdocuments/1792165037LKHAU - The Municipal Corporation Mirpur 05.pdf" title="1792165037LKHAU - The Municipal Corporation Mirpur 05.pdf" target="_blank">Corrigendum-2</a>	
-                                 
-                               
-                                  
-                               
-                                  
-                               
-                               
-                               
-                               
-                             
-                              
-                               
-                                  
-                               
-                                
-                               
-                                                                                          	</td>
-                            </tr>
-                                       
-                            <tr>
-                                <td align="center">Tender Notice <br /> 6620 
-                                  </span>
-                                </td>
-                                <td><span class="first style1">Hiring of Solid Waste Management Services for Muzaffarabad City <br />
-                               <strong> </strong>
-                                <br />                               
-                                </span>
-                                                                 </span></td>
-                                <td align="center">17-09-2026</td>
-                                <td align="center">20-10-2026</td>
-                                <td>Corporations</td>
-                                <td>Municipal Corporation Muzaffarabad</td>
-                              <td><a  onclick="setCvDownloads(6620);" href="uploadfiles/tenderdocuments/1789643589RF3XW - Tender MCM Mzd.pdf" title="1789643589RF3XW - Tender MCM Mzd.pdf" target="_blank">Download File</a>
-                              
-                                                              <br />
-                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1790769431KGCV3 - Corr. 6620 MCM Mzd.pdf" title="1790769431KGCV3 - Corr. 6620 MCM Mzd.pdf" target="_blank">Corrigendum</a>	
-                                                              
-                               
-                               
-                                  
-                               
-                                  
-                               
-                               
-                               
-                               
-                             
-                              
-                               
-                                  
-                               
-                                
-                               
-                                                                                          	</td>
-                            </tr>
-                                       
-                            <tr>
-                                <td align="center">Prequalification Notice <br /> 6611 
-                                  </span>
-                                </td>
-                                <td><span class="first style1">Pre-Qualification of Third Party Recruitment Testing Agencies <br />
-                               <strong> </strong>
-                                <br />                               
-                                </span>
-                                                                 </span></td>
-                                <td align="center">15-09-2026</td>
-                                <td align="center">21-10-2026</td>
-                                <td>Agriculture</td>
-                                <td>Agriculture Muzaffarabad</td>
-                              <td><a  onclick="setCvDownloads(6611);" href="uploadfiles/tenderdocuments/17894717044A3V0 - Tender Agriculture Mzd.pdf" title="17894717044A3V0 - Tender Agriculture Mzd.pdf" target="_blank">Download File</a>
-                              
-                                                              <br />
-                               <a style="color:#FF0000"   href="uploadfiles/tenderdocuments/1791199372Y0ZYB - Corr. 6611 Agriculture.pdf" title="1791199372Y0ZYB - Corr. 6611 Agriculture.pdf" target="_blank">Corrigendum</a>	
-                                                              
-                               
-                               
-                                  
-                               
-                                  
-                               
-                               
-                               
-                               
-                             
-                              
-                               
-                                  
-                               
-                                
-                               
-                                                                                          	</td>
-                            </tr>
-                      
-           <tr>
-                                <td colspan="7" align="right"><div class="pagging">
-  <div class="right" style="float:right">
-      </div>
-  <!-- End Pagging -->
-</div></td>
-                </tr>
-                        </table>
-         </div>
-        </div>
-       
-       
-        
-            <!-- Main content area -->
-        
-        
-     
-
-
- <!-- Main content area -->
-                
-        
-        <!-- Footer -->
-        <footer class="footer">
-            <div class="footer-lists">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm">
-                            <ul>
-                            <li><h4>Useful Link</h4></li>
-                                                            
-                                <li><a href="http://e.pprasindh.gov.pk/" target="_blank">PPRA SINDH</a></a></li>
-                                                             
-                                <li><a href="http://www.ppra.org.pk/" target="_blank">FEDERAL PPRA</a></a></li>
-                                                             
-                                <li><a href="https://www.kppra.gov.pk/" target="_blank">KPK PPRA</a></a></li>
-                                                             
-                                <li><a href="https://ppra.punjab.gov.pk" target="_blank">PPRA PUNJAB</a></a></li>
-                                                             
-                                <li><a href="http://www.ajkppra.gov.pk/webmail" target="_blank">OFFICIAL EMAIL</a></a></li>
-                                                         </ul>
-                        </div>
-                        <div class="col-sm">
-                            <ul>
-                                <li><h4>About PPRA</h4></li>
-                                <li><a href="pprafunctions.php">PPRA Functions</a></li>
-                                <li><a href="ppraboard.php">PPRA Board</a></li>
-                                <li><a href="ppraorganogram.php">Organogram</a></li>
-                                <li><a href="teamajkppra.php">Team PPRA</a></li>
-                                <li><a href="message.php?msgfrom=Chairman%20PPRA">Chairman Message</a></li>
-                            </ul>
-                        </div>   
-                        <div class="col-sm">
-                            <ul>
-                                <li
+                        

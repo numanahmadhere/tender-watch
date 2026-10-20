@@ -1,0 +1,526 @@
+URL: https://propakistani.pk/feed/
+HTTP: 200
+Content-Type: application/rss+xml; charset=UTF-8
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ProPakistani</title>
+	<atom:link href="https://propakistani.pk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://propakistani.pk/</link>
+	<description>Technology and Business News</description>
+	<lastBuildDate>Tue, 20 Oct 2026 13:29:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://propakistani.pk/wp-content/uploads/2018/01/cropped-icon-1-32x32.png</url>
+	<title>ProPakistani</title>
+	<link>https://propakistani.pk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Govt Warns Against Restoring Hacked Systems</title>
+		<link>https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/</link>
+					<comments>https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:28:08 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Cyber Crime]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Tech and Telecom]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102904</guid>
+
+					<description><![CDATA[<p>Pakistan’s National Cyber Emergency Response Team (National CERT) has directed government organizations to preserve digital evidence during cybersecurity investigations, warning<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/">Govt Warns Against Restoring Hacked Systems</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Pakistan’s National Cyber Emergency Response Team (National CERT) has directed government organizations to preserve digital evidence during cybersecurity investigations, warning that changes to system records could compromise forensic analysis of cyber incidents.</p>
+<p>Under the National Cybersecurity Handbook 2026–27, government entities are required to cooperate with National CERT-led investigations by providing timely physical and administrative access to affected infrastructure and relevant technical records.</p>
+
+<p>The guidelines state that detailed investigations and digital forensics are essential to determine the causes of security breaches, assess their impact and help contain cyber threats.</p>
+<h3>Don&#8217;t Alter System Logs</h3>
+<p>The handbook instructs government personnel to maintain a proper chain of custody for affected devices and storage media so that digital evidence remains intact and traceable throughout an investigation.</p>
+<p>Employees have been advised not to modify or overwrite system audit logs, firewall records or disk memory dumps before investigation teams collect them. Such changes could undermine efforts to reconstruct incidents and establish how a breach occurred.</p>
+<p>Relevant personnel must also provide investigators with operational details, network diagrams and timelines of the incident to support the forensic process.</p>
+<h3>Unauthorized Access Restricted</h3>
+<p>National CERT has cautioned government entities against allowing unverified third-party vendors or unauthorized personnel to interfere with systems isolated during an active investigation.</p>
+<p>Organizations have also been instructed to implement emergency containment measures and remediation guidance issued by National CERT investigation teams.</p>
+<p>According to the handbook, affected services must not be restored and disconnected network segments must not be reconnected until formal security clearance has been granted. The requirement is intended to prevent systems from returning to operation before investigators and security teams have addressed the incident.</p>
+<h3>Cyber Incidents Must Be Reported</h3>
+<p>The handbook also refers to the CERT Rules 2023, under which cybersecurity incidents must be reported through approved channels, including organizational, provincial or sectoral CERTs.</p>
+
+<p>The reporting and evidence-preservation requirements form part of the procedures intended to help authorities investigate cyber incidents, identify vulnerabilities and coordinate responses across government organizations.</p>
+<p>The guidance places responsibility on government entities to protect relevant records, provide investigators with the information they need and follow containment and recovery instructions until clearance is issued.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/">Govt Warns Against Restoring Hacked Systems</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/govt-warns-against-restoring-hacked-systems/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/06/cyber-pp.png" length="779214" type="image/png"/>	</item>
+		<item>
+		<title>This Free AI Tool Lets You Search Your Computer by Describing What’s Inside</title>
+		<link>https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/</link>
+					<comments>https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/#respond</comments>
+		
+		<dc:creator><![CDATA[Afaq Wajdan Malik]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:21:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech and Telecom]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1103026</guid>
+
+					<description><![CDATA[<p>A free and open-source app called DigUp lets users search files on their computer by describing what they contain instead<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/">This Free AI Tool Lets You Search Your Computer by Describing What’s Inside</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A free and open-source app called DigUp lets users search files on their computer by describing what they contain instead of relying only on filenames or exact keywords.</p>
+<p>Available for Mac, Windows, and Linux, DigUp uses Google DeepMind’s EmbeddingGemma 2 model to search photos, PDFs, documents, audio, videos, and, optionally, source code.</p>
+<p>Users can search phrases such as “zebra in a video,” “where they talk about sleep,” or “the clause about pets in the lease.” DigUp can then open the matching video or audio at the relevant moment or take users directly to the correct PDF page.</p>
+
+<h2>Powered by Google DeepMind’s EmbeddingGemma 2</h2>
+<p>Google DeepMind released EmbeddingGemma 2 in October 2026.</p>
+<p>The 740-million-parameter model places text, images, audio, and video into the same shared space, allowing a text query to match content inside different file types.</p>
+<p>It supports more than 100 languages and is available under the Apache 2.0 license. Cross-language searches also work, meaning an English query can find content written in Bengali, Arabic, or other supported languages.</p>
+<p>DigUp also combines semantic search with exact matching for things such as names, invoice numbers and error codes.</p>
+<p><a href="https://propakistani.pk/wp-content/uploads/2026/10/demo.gif"><img fetchpriority="high" decoding="async" class=" wp-image-1103048 aligncenter" src="https://propakistani.pk/wp-content/uploads/2026/10/demo.gif" alt="" width="801" height="534" /></a></p>
+<h2>Everything Runs Locally</h2>
+<p>DigUp says indexed files never leave the user’s computer.</p>
+<p>The app only connects to the internet to download its 865MB model once and to check for updates once per day. The update check can be disabled.</p>
+<p>There is no account requirement and no telemetry.</p>
+<p>Users choose which folders DigUp can access, and it does not change, move, or upload files.</p>
+
+<h2>What DigUp Can Search</h2>
+<p>DigUp supports common image formats, PDFs including scans, documents such as TXT, Markdown, RTF, DOCX, ODT and HTML, plus audio and video of any length.</p>
+<p>Audio is processed in overlapping 30-second sections, while videos are indexed using sampled frames and their soundtracks.</p>
+<p>Optional code search can find functions by describing what they do. Results can open directly at the relevant line in editors including VS Code, Cursor, Zed, Sublime Text, and JetBrains IDEs.</p>
+<h2>Key Shortcuts</h2>
+<div>
+<div>
+<div>
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Mac</th>
+<th style="text-align: center">Windows and Linux</th>
+<th style="text-align: center">What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">⇧⌘Space</td>
+<td style="text-align: center">Ctrl+Shift+Space</td>
+<td style="text-align: center">Opens search from any app</td>
+</tr>
+<tr>
+<td style="text-align: center">↓ ↑</td>
+<td style="text-align: center">↓ ↑</td>
+<td style="text-align: center">Moves through results</td>
+</tr>
+<tr>
+<td style="text-align: center"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></td>
+<td style="text-align: center">Enter</td>
+<td style="text-align: center">Opens the matching page, moment, or code line</td>
+</tr>
+<tr>
+<td style="text-align: center">Space</td>
+<td style="text-align: center">Space</td>
+<td style="text-align: center">Opens a large preview</td>
+</tr>
+<tr>
+<td style="text-align: center">⌘<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></td>
+<td style="text-align: center">Ctrl+Enter</td>
+<td style="text-align: center">Shows the file in Finder or file manager</td>
+</tr>
+<tr>
+<td style="text-align: center">⌘O</td>
+<td style="text-align: center">Ctrl+O</td>
+<td style="text-align: center">Opens the full search window</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p>The first indexing pass can take anywhere from a few minutes to several hours depending on the number of files and available hardware. After that, newly added files usually become searchable within a few seconds.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/">This Free AI Tool Lets You Search Your Computer by Describing What’s Inside</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/this-free-ai-tool-lets-you-search-your-computer-by-describing-whats-inside/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/Digup.jpg" length="31384" type="image/jpeg"/>	</item>
+		<item>
+		<title>Two-Day Islamabad Non-Proliferation Conference 2026 Begins</title>
+		<link>https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/</link>
+					<comments>https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/#respond</comments>
+		
+		<dc:creator><![CDATA[ProPK Staff]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:20:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1103031</guid>
+
+					<description><![CDATA[<p>The Strategic Vision Institute (SVI), Islamabad, hosts the second iteration of the Islamabad Non-Proliferation Conference 2026, a two-day international event<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/">Two-Day Islamabad Non-Proliferation Conference 2026 Begins</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Strategic Vision Institute (SVI), Islamabad, hosts the second iteration of the Islamabad Non-Proliferation Conference 2026, a two-day international event bringing together a distinguished group of scholars and experts from around the world.</p>
+<p>The conference aims to foster constructive dialogue on global strategic issues and share Pakistan’s policy perspectives.</p>
+<p>Dr Naeem Salik, Executive Director (ED), SVI, welcomed the distinguished guests to the International Nonproliferation Conference (INC) 2026. Dr Nasir Hafeez, Director, SVI, subsequently introduced the conference to the esteemed audience.</p>
+<p>The inaugural address was delivered by Lt. Gen. Sarfraz Sattar, HI (M), (Retd.), Advisor, NCA. He mentioned that the disruptive technologies sit at the heart of the push towards bigger and better Nuclear Weapons, against the efforts of restraint or stability on the road to disarmament and sustained economic development.</p>
+
+<p>He said that there has been a shift in the nuclear age marked by the change of threat perception from rogue or non-state actors getting access to nuclear weapons towards the challenge of Great Power Competition and the possibility of interstate conflict in a more contested international system.</p>
+<p>He mentioned South Asia as a nuclear flashpoint, owing to India’s ultranationalist tendencies. We face Hindutva ideology, which is in pursuit of Akhand Bharat.</p>
+<p>He further mentioned that the nuclear non-use taboo seems to be weakening as we see the likelihood of interstate wars increasing both in lethality and expense. The sole function of the global nuclear order is also under extreme stress.</p>
+<p>Lt. Gen. Khalid Ahmed Kidwai, NI, HI, HI (M), (Retd.), Advisor Development, National Command Authority (NCA), delivered the keynote address. He examined Pakistan’s perspective on credible deterrence, strategic balance, and strategic stability in South Asia, tracing their evolution in the pre-May 2025 conflict period and assessing their implications in the post-conflict strategic environment.</p>
+<p>Lt Gen. Kidwai (Retd.) emphasized that Pakistan’s Full Spectrum Deterrence (FSD) is fundamentally defensive, aimed at preventing aggression across the entire spectrum of conflict and preserving strategic stability in South Asia.</p>
+<p><img decoding="async" class=" wp-image-1103035 aligncenter" src="https://propakistani.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-5.47.49-PM.jpeg" alt="" width="575" height="863" srcset="https://propakistani.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-5.47.49-PM.jpeg 1066w, https://propakistani.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-5.47.49-PM-1023x1536.jpeg 1023w, https://propakistani.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-5.47.49-PM.avif 1066w, https://propakistani.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-5.47.49-PM-1023x1536.avif 1023w" sizes="(max-width: 575px) 100vw, 575px" /></p>
+<p>Pakistan’s Full Spectrum Deterrence generated strategic effects in both regional and international arenas in the May 2025 India-Pakistan conflict, as the role of conventional and nuclear deterrence in limiting escalation was demonstrated.</p>
+<p>He highlighted SIPRI Yearbook 2026 findings on India’s deployment of approximately 12 nuclear warheads aboard a nuclear submarine for deterrence patrols, expressing concern that the absence of pre-notification of Indian SLBM tests could undermine South Asian strategic stability, raise questions about India’s NFU policy, and increase the risks of miscalculation and nuclear escalation.</p>
+<p>He reaffirmed Pakistan’s right to take appropriate measures to safeguard its national security and preserve the regional strategic balance. Furthermore, he stressed the importance of preventing technological imbalances from undermining strategic stability in South Asia.</p>
+
+<p>To comprehensively address the spectrum of challenges, the conference hosts seven working sessions on critical topics such as deterrence dynamics and escalation risks in South Asia, the evolving deterrence landscape in a transforming global nuclear order, and the collapse of the arms control architecture and challenges to the non-proliferation regime.</p>
+<p>Each session facilitates in-depth discussions, aiming at generating policy-relevant recommendations in both national and global security frameworks. The conference will be concluded with an address by Gen. Zubair Mahmood Hayat, NI (M), (Retd.), Former Chairman, Joint Chiefs of Staff Committee (CJCSC).</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/">Two-Day Islamabad Non-Proliferation Conference 2026 Begins</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/two-day-islamabad-non-proliferation-conference-2026-begins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/conference.jpg" length="301707" type="image/jpeg"/>	</item>
+		<item>
+		<title>Rupee to Achieve New Record Against Dollar Soon</title>
+		<link>https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/</link>
+					<comments>https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/#respond</comments>
+		
+		<dc:creator><![CDATA[Business Desk]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:09:11 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Gold & Money]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1103025</guid>
+
+					<description><![CDATA[<p>The Pakistani rupee (PKR) closed in green against the US Dollar (USD) for the 265th consecutive day on Tuesday. PKR<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/">Rupee to Achieve New Record Against Dollar Soon</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Pakistani rupee (PKR) closed in green against the US Dollar (USD) for the 265th consecutive day on Tuesday.</p>
+<p>PKR closed at 276.87 after gaining three paisas against the US Dollar today.</p>
+<p>&#8220;At current pace, PKR can cross 275/US$ by early 2027,&#8221; a day trader told ProPakistani.</p>
+
+<p>TRT World earlier reported that Pakistan is going to sign a massive defence deal with Turkey, Qatar and Indonesia. This supported currency trade ahead of the closing session.</p>
+<p>The rupee has consistently reported gains against the dollar since December 25, 2025.</p>
+<h3>Other Currencies</h3>
+<p>The rupee lost 62 paisas against GBP and 34 paisas against the Australian Dollar (AUD).</p>
+<p>It lost 14 paisas against the Euro (EUR) and 47 paisas against the Canadian Dollar (CAD).</p>
+<p>PKR was stable against the UAE Dirham (AED) but lost two paisas against the Saudi Riyal (SAR).</p>
+<table width="0">
+<tbody>
+<tr>
+<td width="98"><strong>Currency</strong></td>
+<td width="103"><strong>15-Oct</strong></p>
+<p><strong>2026</strong></td>
+<td width="103"><strong>16-Oct</strong></p>
+<p><strong>2026</strong></td>
+<td width="103"><strong>19-Oct</strong></p>
+<p><strong>2026</strong></td>
+<td width="103"><strong>20-Oct</strong></p>
+<p><strong>2026</strong></td>
+<td width="80"><strong>Change</strong></p>
+<p><strong>+</strong><strong>/</strong><strong>&#8211;</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>USD</strong></td>
+<td width="103"><strong>276.9221</strong></td>
+<td width="103"><strong>276.9115</strong></td>
+<td width="103"><strong>276.9022</strong></td>
+<td width="103"><strong>276.8714</strong></td>
+<td width="80"><strong>0.0308</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>EUR</strong></td>
+<td width="103"><strong>310.7759</strong></td>
+<td width="103"><strong>311.3316</strong></td>
+<td width="103"><strong>310.4213</strong></td>
+<td width="103"><strong>310.5667</strong></td>
+<td width="80"><strong>-0.1454</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>GBP</strong></td>
+<td width="103"><strong>367.1849</strong></td>
+<td width="103"><strong>368.8461</strong></td>
+<td width="103"><strong>368.8753</strong></td>
+<td width="103"><strong>369.4988</strong></td>
+<td width="80"><strong>-0.6235</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>AUD</strong></td>
+<td width="103"><strong>191.9070</strong></td>
+<td width="103"><strong>192.7027</strong></td>
+<td width="103"><strong>193.1947</strong></td>
+<td width="103"><strong>193.5331</strong></td>
+<td width="80"><strong>-0.3384</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>MYR</strong></td>
+<td width="103"><strong>67.8731</strong></td>
+<td width="103"><strong>67.8372</strong></td>
+<td width="103"><strong>67.8350</strong></td>
+<td width="103"><strong>67.8191</strong></td>
+<td width="80"><strong>0.0159</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>CNY</strong></td>
+<td width="103"><strong>41.3829</strong></td>
+<td width="103"><strong>41.4114</strong></td>
+<td width="103"><strong>41.4416</strong></td>
+<td width="103"><strong>41.4577</strong></td>
+<td width="80"><strong>-0.0161</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>CAD</strong></td>
+<td width="103"><strong>195.0225</strong></td>
+<td width="103"><strong>195.4900</strong></td>
+<td width="103"><strong>196.4961</strong></td>
+<td width="103"><strong>196.9704</strong></td>
+<td width="80"><strong>-0.4743</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>AED</strong></td>
+<td width="103"><strong>75.3930</strong></td>
+<td width="103"><strong>75.3993</strong></td>
+<td width="103"><strong>75.3927</strong></td>
+<td width="103"><strong>75.3884</strong></td>
+<td width="80"><strong>0.0043</strong></td>
+</tr>
+<tr>
+<td width="98"><strong>SAR</strong></td>
+<td width="103"><strong>73.7731</strong></td>
+<td width="103"><strong>73.7899</strong></td>
+<td width="103"><strong>73.7914</strong></td>
+<td width="103"><strong>73.8127</strong></td>
+<td width="80"><strong>-0.0213</strong></td>
+</tr>
+</tbody>
+</table>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/">Rupee to Achieve New Record Against Dollar Soon</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/rupee-to-achieve-new-record-against-dollar-soon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2023/08/dollar.jpg" length="96405" type="image/jpeg"/>	</item>
+		<item>
+		<title>HEC LAT Result Announced</title>
+		<link>https://propakistani.pk/2026/10/20/hec-lat-result-announced/</link>
+					<comments>https://propakistani.pk/2026/10/20/hec-lat-result-announced/#respond</comments>
+		
+		<dc:creator><![CDATA[Danial Saigra]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:03:29 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102920</guid>
+
+					<description><![CDATA[<p>The Higher Education Commission (HEC) has announced the results of the Law Admission Test (LAT) held on September 6, 2026.<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/hec-lat-result-announced/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/hec-lat-result-announced/">HEC LAT Result Announced</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Higher Education Commission (HEC) has announced the results of the Law Admission Test (LAT) held on September 6, 2026.</p>
+<p>According to an official announcement by HEC, candidates can now check their results through the Education Testing Council (ETC) portal.</p>
+
+<p>The commission confirmed that the results became available online on October 16, 2026.</p>
+<p>Candidates who appeared in the September 6 examination can access their results by logging into their accounts on the official ETC website.</p>
+<p>The Law Admission Test is conducted by HEC&#8217;s Education Testing Council for students seeking admission to undergraduate law degree programs in Pakistan.</p>
+
+<h2>How to Check HEC LAT Results 2026</h2>
+<p>Candidates can check their HEC LAT results by visiting the official <a href="https://etc.hec.gov.pk/" target="_blank" rel="nofollow noopener">ETC portal</a> at https://etc.hec.gov.pk/.</p>
+<p>Applicants must log in to their registered accounts using their credentials. They can then access the available result information through the portal.</p>
+<p>HEC has advised candidates to use the official ETC platform to access their results.</p>
+<hr />
+<p><em>Visit <a href="https://propakistani.pk/edunation/scholarships/" target="_blank" rel="noopener">EduNation</a> to find scholarships from around the world.</em></p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/hec-lat-result-announced/">HEC LAT Result Announced</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/hec-lat-result-announced/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/HEC-Announces-Scholarships-at-QS-Top-100-US-Universities-With-an-Annual-Stipend.jpg" length="48657" type="image/jpeg"/>	</item>
+		<item>
+		<title>Bank Alfalah Legends Arena to Promote Breast Cancer Awareness Through Padel Tournament</title>
+		<link>https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/</link>
+					<comments>https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/#respond</comments>
+		
+		<dc:creator><![CDATA[Press Release]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:02:24 +0000</pubDate>
+				<category><![CDATA[Banking & Fintech]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102851</guid>
+
+					<description><![CDATA[<p>On the occasion of Pinktober Breast Cancer Awareness month, Bank Alfalah Legends Arena partnered to promote the padel tournament in<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/">Bank Alfalah Legends Arena to Promote Breast Cancer Awareness Through Padel Tournament</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On the occasion of Pinktober Breast Cancer Awareness month, Bank Alfalah Legends Arena partnered to promote the padel tournament in collaboration with TAMS. The event was held on 17 October 2026, which brought together women and young participants to raise awareness of breast cancer and encourage community participation through sport.</p>
+<p>The tournament builds on Bank Alfalah’s previous partnerships supporting breast cancer awareness and treatment. In 2025, the Bank pledged PKR 14.6 million towards treatment for 37 breast cancer patients through its partnerships with Indus Hospital and Health Network and Cancer Foundation Hospital. The funding was intended to support diagnostics, surgery and medical care for patients requiring financial assistance.</p>
+<p>Earlier, in 2024, Bank Alfalah collaborated with Roche Pakistan and Cancer Foundation Hospital to support breast cancer treatment, with a combined contribution of PKR 10.75 million towards medication and treatment for five patients. The Bank has also conducted Pinktober awareness sessions in collaboration with healthcare organisations, including Shaukat Khanum Memorial Cancer Hospital, Chughtai Lab and the Samina Alvi Foundation.</p>
+<p><img decoding="async" class="alignnone wp-image-1103018 size-full" src="https://propakistani.pk/wp-content/uploads/2026/10/Bank-Alfalah-Pinkober-scaled.jpeg" alt="" width="2048" height="1365" srcset="https://propakistani.pk/wp-content/uploads/2026/10/Bank-Alfalah-Pinkober-scaled.jpeg 2048w, https://propakistani.pk/wp-content/uploads/2026/10/Bank-Alfalah-Pinkober-1536x1024.jpeg 1536w, https://propakistani.pk/wp-content/uploads/2026/10/Bank-Alfalah-Pinkober-scaled.avif 2048w, https://propakistani.pk/wp-content/uploads/2026/10/Bank-Alfalah-Pinkober-1536x1024.avif 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p>Mehreen Ahmed, Group Head of Retail Banking at Bank Alfalah, who also participated in the tournament, emphasised the importance of an active lifestyle for women and the role of early detection in saving lives.</p>
+<p>“Staying active is essential for women&#8217;s mental and physical health. In Pakistan, 1 in 9 women are at risk of developing breast cancer in their lifetime, which can be avoided. An early detection of this can save lives. Having cancer is a devastating condition for both the patients and their families, and clearly much more effort is required to arrest this.</p>
+<p>We should come forward not only to create awareness but also to work towards early detection of breast cancer. I am proud to be part of a Caring Bank that supports initiatives benefiting our communities,” she said.</p>
+<p>The tournament extends these efforts by using sports to promote breast cancer awareness and community participation. The tournament also supported Indus Hospital’s Al-Hasna’s program for early screening and treatment of breast cancer.</p>
+<p>Through its healthcare partnerships and community initiatives, Bank Alfalah continues to support breast cancer awareness, access to treatment and women&#8217;s participation in activities that promote health and wellbeing across Pakistan.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/">Bank Alfalah Legends Arena to Promote Breast Cancer Awareness Through Padel Tournament</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/bank-alfalah-legends-arena-to-promote-breast-cancer-awareness-through-padel-tournament/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/Alfalah-Pintober.jpg.jpeg" length="288028" type="image/jpeg"/>	</item>
+		<item>
+		<title>JazzWorld and UNICEF Collaborate to Advance Digital Inclusion and Build Foundations for Inclusive AI</title>
+		<link>https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/</link>
+					<comments>https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[Press Release]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:55:36 +0000</pubDate>
+				<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Tech and Telecom]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102995</guid>
+
+					<description><![CDATA[<p>JazzWorld, Pakistan’s leading digital services platform, has signed a Letter of Intent with UNICEF to explore initiatives that advance digital<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/">JazzWorld and UNICEF Collaborate to Advance Digital Inclusion and Build Foundations for Inclusive AI</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>JazzWorld, Pakistan’s leading digital services platform, has signed a Letter of Intent with UNICEF to explore initiatives that advance digital inclusion, empower young people, promote online safety and strengthen technology-enabled humanitarian response across Pakistan.</p>
+<p>The proposed partnership will bring together the organizations’ strengths in technology, connectivity, innovation and advocacy to explore scalable initiatives supporting children, young people, women and underserved communities. As AI reshapes learning, work and access to services, expanding digital access and capabilities will be essential to ensuring these communities can participate in and benefit from an increasingly AI-enabled world.</p>
+<p>JazzWorld and UNICEF will explore opportunities for collaboration in four priority areas: digital inclusion and youth empowerment, online safety and digital well-being, humanitarian response and disaster preparedness, and advocacy and public engagement.</p>
+<p>Under the digital inclusion agenda, the organizations will explore opportunities to expand access to digital education, literacy and skills development, particularly for young people from underserved communities. These capabilities are also foundational to helping young people understand, use and benefit from AI safely and responsibly.</p>
+<p>The collaboration will explore ways to strengthen Pakistan’s Digital Youth Hub, established by the Prime Minister’s Youth Program in partnership with UNICEF, by drawing on JazzWorld’s technical capabilities to support learning, employability and participation in the digital economy.</p>
+<p>The organizations will also explore initiatives to promote safer and more responsible digital participation, particularly among children, adolescents and girls, through online safety awareness, digital literacy and efforts to address online harassment, abuse and other technology-facilitated risks. In parallel, they will assess opportunities to use mobile connectivity and digital communication platforms to strengthen disaster preparedness, disseminate early warnings and improve access to timely information for communities affected by humanitarian emergencies.</p>
+<p>Commenting on the collaboration, Syed Zaheer Mehdi, Group Chief Corporate &amp; Regulatory Affairs, JazzWorld, said: “Bridging the digital divide is essential to bridging the emerging AI divide. Young people need access, skills and safe digital environments to benefit from the opportunities AI can create. Our intent to partner with UNICEF reflects a shared ambition to expand opportunities for underserved communities, protect children online and strengthen community resilience. By combining our technology and connectivity capabilities with UNICEF’s expertise in child rights and development, we hope to help build the foundations for an inclusive AI future in Pakistan.”</p>
+<p>The proposed partnership will also explore public advocacy, cause-related campaigns, customer and employee engagement, and other initiatives aligned with shared priorities for children, young people, women and underserved communities. Through this collaboration, JazzWorld and UNICEF aim to identify practical ways to help communities learn, earn, stay safe and respond to crises, contributing to a more inclusive and resilient Pakistan.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/">JazzWorld and UNICEF Collaborate to Advance Digital Inclusion and Build Foundations for Inclusive AI</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/jazzworld-and-unicef-collaborate-to-advance-digital-inclusion-and-build-foundations-for-inclusive-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/jazzworld-1.jpg" length="141659" type="image/jpeg"/>	</item>
+		<item>
+		<title>Lahore Police Propose Making Section 420 Cases Non-Bailable Offenses</title>
+		<link>https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/</link>
+					<comments>https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/#respond</comments>
+		
+		<dc:creator><![CDATA[Arooj Fatima]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:52:59 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102930</guid>
+
+					<description><![CDATA[<p>Lahore police have proposed amendments to Section 420 of the Pakistan Penal Code (PPC) to make fraud and cheating offenses<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/">Lahore Police Propose Making Section 420 Cases Non-Bailable Offenses</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lahore police have proposed amendments to Section 420 of the Pakistan Penal Code (PPC) to make fraud and cheating offenses non-bailable amid rising complaints of financial scams and property disputes.</p>
+<p>The proposal aims to provide greater legal protection to fraud victims by introducing stricter provisions under the existing law.</p>
+
+<p>The move follows concerns raised by the higher judiciary over the misuse of Section 406 of the PPC, which deals with criminal breach of trust.</p>
+<p>Courts have observed that many cases registered under Section 406 do not meet the legal requirements for criminal breach of trust, resulting in individuals being jailed for offenses that are not established at the initial stage.</p>
+<p>Following these observations, the Lahore police&#8217;s investigation wing has canceled more than 200 cases registered under Section 406 across the city and issued new Standard Operating Procedures (SOPs) for investigating similar complaints.</p>
+
+<p>A senior police official said most fraud and cheating complaints should be handled under Section 420. However, police have frequently registered cases under the non-bailable Section 406, particularly in financial and property disputes.</p>
+<p>The official said the proposed amendment would allow authorities to take stricter action against fraud suspects while addressing concerns over the misuse of Section 406.</p>
+<p>The proposal was discussed during a meeting chaired by Lahore Capital City Police Officer (CCPO) Bilal Siddique Kamyana, attended by senior investigation officials.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/">Lahore Police Propose Making Section 420 Cases Non-Bailable Offenses</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/lahore-police-propose-making-section-420-cases-non-bailable-offenses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/fraud.jpg" length="92048" type="image/jpeg"/>	</item>
+		<item>
+		<title>Punjab Govt to Finally Change 61-Year-Old Law</title>
+		<link>https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/</link>
+					<comments>https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/#respond</comments>
+		
+		<dc:creator><![CDATA[Rija Sohaib]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:52:01 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1103013</guid>
+
+					<description><![CDATA[<p>The Punjab government is preparing legislation to amend the Punjab Arms Ordinance, 1965, and introduce the Punjab Arms Amendment Act,<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/">Punjab Govt to Finally Change 61-Year-Old Law</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Punjab government is preparing legislation to amend the Punjab Arms Ordinance, 1965, and introduce the Punjab Arms Amendment Act, 2026, aiming to tighten penalties for the possession and sale of illegal weapons.</p>
+<p>According to sources, the proposed amendments include a new Section 14-A. The government is also considering making illegal-arms cases non-bailable and removing the option of settling such cases through compromise.</p>
+
+<p>Under the proposal, cases involving illegal weapons alongside murder or robbery would be heard by the same court. Pending illegal-arms cases in different courts would also be transferred to a central court.</p>
+<p>The proposed changes have not yet been presented as enacted law.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/">Punjab Govt to Finally Change 61-Year-Old Law</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/punjab-govt-to-finally-change-61-year-old-law/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/09/lawsuit.jpg" length="63211" type="image/jpeg"/>	</item>
+		<item>
+		<title>New Pakistan Defence Deal Can Outclass US-Israel Alliance</title>
+		<link>https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/</link>
+					<comments>https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/#respond</comments>
+		
+		<dc:creator><![CDATA[Muhammad Bilal]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:43:20 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<guid isPermaLink="false">https://propakistani.pk/?p=1102941</guid>
+
+					<description><![CDATA[<p>Pakistan, Türkiye, Qatar and Indonesia are expected to sign a defence industry cooperation agreement on Wednesday, according to TRT World.<span class="exp-dots">…</span> <a class="propakistani-read-more-link" href="https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/">Read More</a></p>
+<p>The post <a href="https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/">New Pakistan Defence Deal Can Outclass US-Israel Alliance</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Pakistan, Türkiye, Qatar and Indonesia are expected to sign a defence industry cooperation agreement on Wednesday, according to TRT World.</p>
+<p>Many analysts on X suggest this deal could outclass the current US-Israel military partnership.</p>
+<p>Türkiye’s Defence Minister Yasar Guler is scheduled to travel to Qatar for the signing, according to Anadolu Agency. Guler was expected to depart for Doha on Tuesday afternoon.</p>
+
+<h3>Qatar Plans Domestic Defence Production Hub</h3>
+<p>The planned agreement comes as Qatar prepares to announce a new initiative to expand its domestic defence manufacturing capabilities.</p>
+<p>Qatar’s Minister of State for Defence Affairs, Sheikh Saoud bin Abdulrahman Al Thani, said Monday at the Global Security Forum in Doha that the country would soon announce plans for a local defence production hub.</p>
+<p>Al Thani said Qatar was working with regional and international partners, including the United States, the United Kingdom and France, to develop its defence capabilities and explore investment opportunities in defence companies.</p>
+<p>He also indicated that Qatar would announce a separate partnership aimed at strengthening defences against ballistic missiles, drones and cyberattacks. He did not provide further details about that initiative.</p>
+
+<h3>Regional Security</h3>
+<p>The announcements come amid the U.S.-Israeli war on Iran, which has affected Qatar’s energy infrastructure and maritime trade.</p>
+<p>Qatar shut down much of its main liquefied natural gas complex at Ras Laffan shortly after hostilities began, while restrictions on shipping through the Strait of Hormuz disrupted trade through the strategic waterway.</p>
+<p>These developments have added to regional security concerns as countries explore ways to strengthen their defence capabilities and protect critical infrastructure.</p>
+<p>Türkiye and Qatar have expanded their strategic partnership in recent years, increasing cooperation in defence, security, trade and investment.</p>
+
+<p>The two countries maintain a joint military command in Doha and coordinate on regional issues. In October 2025, they signed a memorandum of understanding on defence industry cooperation as part of broader efforts to deepen bilateral relations.</p>
+<p>The proposed four-country agreement would bring Pakistan and Indonesia into a wider framework for defence industry cooperation with Türkiye and Qatar. However, the specific commitments and practical outcomes of the planned memorandum have yet to be announced.</p>
+<span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><span class="tve-leads-two-step-trigger tl-2step-trigger-0"></span><p>The post <a href="https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/">New Pakistan Defence Deal Can Outclass US-Israel Alliance</a> appeared first on <a href="https://propakistani.pk">ProPakistani</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://propakistani.pk/2026/10/20/new-pakistan-defence-deal-can-outclass-us-israel-alliance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://propakistani.pk/wp-content/uploads/2026/10/Pakistan-Turkiye-Qatar-and-Indonesia-to-Sign-Defense-Deal.jpg" length="263187" type="image/jpeg"/>	</item>
+	</channel>
+</rss>
