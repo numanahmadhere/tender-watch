@@ -1,12 +1,201 @@
 {
- "run_at": "2026-10-20T18:46+05:00",
+ "run_at": "2026-10-21T13:37+05:00",
  "sources": {
-  "down": {
+  "worldbank": {
+   "status": "ok",
+   "message": "",
+   "fetched": 300,
+   "relevant": 2,
+   "sample_titles": [
+    "Procurement of Microsoft 365 E3 Office (150 licenses) for PPMC",
+    "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk an",
+    "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk an",
+    "Procurement of Kaspersky Business Endpoint Security (150 licenses) for PPMC"
+   ]
+  },
+  "epms_tenders": {
+   "status": "ok",
+   "message": "",
+   "fetched": 2186,
+   "relevant": 8,
+   "sample_titles": [
+    "Advertisement Tender Notice",
+    "Stitching of Uniform Sector M-3 Nankana Sahib NHMP",
+    "Construction of Civil Works in Creeks AoR",
+    "SSGC/SC/NR/EPADS2/14508 Renovation / Re-Construction of Boundary Wall at Rs-Golarchi and Paver Block"
+   ]
+  },
+  "epads_federal": {
+   "status": "ok",
+   "message": "",
+   "fetched": 113,
+   "relevant": 1,
+   "sample_titles": [
+    "TENDER NO 1423/26 HIRING OF CONSULTANCY SERVICES FOR ASSESSMENT & VALUATION OF UNWANTED S...",
+    "RFP for Engagement of Senior Advisor on Improvement of Air Transport Operations",
+    "RFP FOR HIRING OF CONSULTANTS FOR STUDY AND ASSESMENT OF TRANSMISSION & DISTRIBUTION (T&...",
+    "RFP For Engagement of Senior Aviation Advisor"
+   ]
+  },
+  "epads_kp": {
    "status": "error",
-   "message": "network: ConnectionError",
+   "message": "parser: 0 opportunities parsed from page 1; the table layout may have changed",
    "fetched": 0,
    "relevant": 0,
    "sample_titles": []
+  },
+  "epms_awards": {
+   "status": "ok",
+   "message": "",
+   "fetched": 499,
+   "relevant": 3,
+   "sample_titles": [
+    "Pakistan Security Printing Corporaion (PSPC) T-4206-FA-REQ-0826-1-00072 - Supply and Services (Fabri",
+    "Ministry of Commerce Stata Life / Skt / Printing Tender 5-2026 M/s Herman Traders, Sialkot Rehmat El",
+    "Ministry of Planning, Development & Special Initiatives  Hiring of Vehicles Services on Rental Basi",
+    "Ministry of Interior and Narcotics Control Office Stationery Items Tender for FY 2026-27 M/s Firdous"
+   ]
+  },
+  "punjab_eproc": {
+   "status": "error",
+   "message": "network: ConnectTimeout",
+   "fetched": 0,
+   "relevant": 0,
+   "sample_titles": []
+  },
+  "kppra": {
+   "status": "error",
+   "message": "network: ConnectTimeout",
+   "fetched": 0,
+   "relevant": 0,
+   "sample_titles": []
+  },
+  "sindh_ppms": {
+   "status": "error",
+   "message": "network: SSLError",
+   "fetched": 0,
+   "relevant": 0,
+   "sample_titles": []
+  },
+  "balochistan": {
+   "status": "error",
+   "message": "network: ConnectTimeout",
+   "fetched": 0,
+   "relevant": 0,
+   "sample_titles": []
+  },
+  "gb_ppra": {
+   "status": "ok",
+   "message": "",
+   "fetched": 59,
+   "relevant": 0,
+   "sample_titles": [
+    "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
+    "Auction of unserviceable materials",
+    "Re-Construction of retaining wall/ cleaning of public channel and cutting of vertical cliff adjacent",
+    "Final Evaluation Report"
+   ]
+  },
+  "ajk_ppra": {
+   "status": "ok",
+   "message": "",
+   "fetched": 32,
+   "relevant": 0,
+   "sample_titles": [
+    "Hiring of Consultancy Services for Master Planning of Tourist Potential Sites of AJ&K",
+    "Hiring of Consultancy Services for Clean Tourism AJK Programme",
+    "Hiring Services of Reputed Testing Agency to Conduct Tets for Recruitment",
+    "Tender for Services (2)"
+   ]
+  },
+  "ted": {
+   "status": "ok",
+   "message": "",
+   "fetched": 1,
+   "relevant": 0,
+   "sample_titles": [
+    "Pakistan – Energy and related services – Technical Assistance for Post-Floods Rural Economic Recover"
+   ]
+  },
+  "contracts_finder": {
+   "status": "ok",
+   "message": "",
+   "fetched": 3,
+   "relevant": 0,
+   "sample_titles": [
+    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
+    "Supply of Bus Shelters, Real Time Passenger Information Systems (RTPI) and Associated Services Y2203",
+    "Framework for Drawdown Technical Assistance - Transaction Advisory, Finance and Investment Support ("
+   ]
+  },
+  "wb_pipeline": {
+   "status": "ok",
+   "message": "",
+   "fetched": 2,
+   "relevant": 0,
+   "sample_titles": [
+    "Pakistan Program for Affordable and Clean Energy (PACE) - II",
+    "Pakistan: Resilient and Accessible Microfinance (RAM) Project"
+   ]
+  },
+  "pitb": {
+   "status": "ok",
+   "message": "",
+   "fetched": 30,
+   "relevant": 0,
+   "sample_titles": [
+    "PROCUREMENT OF FURNITURE & RENOVATION WORK ON A TURNKEY BASIS UNDER ONE-MAP AND IPAS PROJECTS (NDP -",
+    "PROVISIONING OF HR OUT-SOURCING, SCANNING, AND DATA ENTRY SERVICES FOR VARIOUS PROJECTS UNDER THE FR",
+    "PROCUREMENT OF IT EQUIPMENT AND HARDWARE FOR CFSC PROJECT (EGOV - 20)",
+    "PROVISIONING OF HR OUT-SOURCING (OFFICE BOYS, JANITORS, SECURITY GUARDS & DRIVERS) FOR PITB NDP UNDE"
+   ]
+  },
+  "fbr": {
+   "status": "ok",
+   "message": "",
+   "fetched": 2122,
+   "relevant": 1,
+   "sample_titles": [
+    "Tender Notice purchase of Stationery at Directorate General Intelligence Risk Management Customs Isl",
+    "Tender Notice of purchase/Supply of \"Repair of Transport\" for the Directorate General Intelligence &",
+    "Tender Notice to purchase/supply of \"Uniforms Protective Clothing\" for the Directorate General Intel",
+    "Tender Notice to Purchase/supply of \"Repair of Furniture\" for the Directorate General Intelligence &"
+   ]
+  },
+  "news": {
+   "status": "ok",
+   "message": "",
+   "fetched": 3,
+   "relevant": 0,
+   "sample_titles": [
+    "PM warns against resistance to FBR reforms",
+    "Growers end losers in ‘flawed’ wheat market reform",
+    "FinMin seeks BB rating, $1.5b financing"
+   ]
+  },
+  "moitt": {
+   "status": "ok",
+   "message": "",
+   "fetched": 23,
+   "relevant": 0,
+   "sample_titles": [
+    "Invitation for Bids-Provision of Rental Vehicles Services(DEEP)",
+    "Request for Quotation (RFQ)-DEEP",
+    "Request for Quotation (RFQ) Hardwares and Softwares",
+    "Procurement of Hardware Under the Project NAAI"
+   ]
+  },
+  "navttc": {
+   "status": "ok",
+   "message": "",
+   "fetched": 96,
+   "relevant": 3,
+   "sample_titles": [
+    "About Vision, mission & mandate",
+    "TVET Sector Ecosystem overview",
+    "Accreditation & Certification Accreditation, Certification & International Collaboration",
+    "Admin & Finance Wing Administration & Finance"
+   ]
   }
  }
 }

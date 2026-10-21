@@ -4,7 +4,7 @@
    "deadline": "2026-10-23T11:30",
    "first": "2026-10-20",
    "fp": "f7fa9d9b2630",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "Networking and Electrical Works at AI Lab \u2013 BULC"
   },
@@ -12,7 +12,7 @@
    "deadline": "2026-10-26T12:00",
    "first": "2026-10-20",
    "fp": "76141632dbee",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published Corrigendum",
    "title": "PROCUREMENT OF ENTERPRISE-LEVEL ERP IMPLEMENTATION, INTEGRATION, MIGRATION, HOSTING, TRAINING AND SUPPORT SERVICES"
   },
@@ -20,7 +20,7 @@
    "deadline": "2026-10-21T11:00",
    "first": "2026-10-20",
    "fp": "33a446542107",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published Corrigendum",
    "title": "Provision & Implementation of Back Office Operations & Workflow Automation System for CDNS"
   },
@@ -28,7 +28,7 @@
    "deadline": "2026-10-23T11:30",
    "first": "2026-10-20",
    "fp": "6a197912e975",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published Corrigendum",
    "title": "Networking and Electrical Work for AI Lab"
   },
@@ -52,7 +52,7 @@
    "deadline": "2026-10-26T15:00",
    "first": "2026-10-20",
    "fp": "1015af538deb",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "TENDER NO. P-76/2026 PROVISION OF NPU-BASED INFRASTRUCTURE AS A SERVICE (IAAS) FOR ENTERPRISE AI USE CASES"
   },
@@ -60,7 +60,7 @@
    "deadline": "2026-10-30T11:00",
    "first": "2026-10-20",
    "fp": "e9dcfad92e30",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published Corrigendum",
    "title": "PROCUREMENT OF ERP MANAGEMENT SYSTEM FOR HR AND ACCOUNTS"
   },
@@ -76,7 +76,7 @@
    "deadline": "2026-10-26T15:00",
    "first": "2026-10-20",
    "fp": "950b70755b3f",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "Tender No. P-79/2026 Procurement and Implementation of Enterprise Resource Planning (ERP) System"
   },
@@ -84,7 +84,7 @@
    "deadline": "2026-11-05T10:30",
    "first": "2026-10-20",
    "fp": "1d05f197aff7",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "PROVISION INSTALLATION COMMISSIONING AND INTEGRATION OF AI ENABLED ELECTRONIC SMART WORKBENCH FOR DEFECT DIAGNOSIS ONBOARD PN SHIPS"
   },
@@ -92,7 +92,7 @@
    "deadline": "2026-11-03T11:00",
    "first": "2026-10-20",
    "fp": "b0792769dd13",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "PROCUREMENT OF 75 X AI-ENABLED BUSINESS DESKTOP COMPUTER SYSTEMS OR ALLOW EQUIVALENT SYSTEMS FROM ESTABLISHED OEMS. FOR \u2013 BUIC E-8 ISLAMABAD"
   },
@@ -132,7 +132,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "b498d84795e3",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "",
    "title": "Renewal of Oracle Support Services for ERP, DWH, CBA and Advanced Security"
   },
@@ -156,7 +156,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "84e329fcac3d",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "",
    "title": "Selection of firm for the Establishment of National Artificial Intelligence Hubs (AI-Hubs) across Pakistan"
   },
@@ -188,7 +188,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "8ed9fa2d7cfe",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "",
    "title": "Sui Northern Gas Pipelines Limited (SNGPL) Cloud Meeting Kit for Video Conferencing M/s. Orient AV Pvt Ltd., Lahore Lahore"
   },
@@ -204,9 +204,33 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "d930550405b2",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "",
    "title": "TORs - Junior Associate HR Data Analytics"
+  },
+  "navttc:2c266cfd266a": {
+   "deadline": "",
+   "first": "2026-10-21",
+   "fp": "20b06d0ef4d5",
+   "last": "2026-10-21",
+   "status": "",
+   "title": "Extension ERP End2 End Turnkey"
+  },
+  "navttc:6ee1ad1d3873": {
+   "deadline": "",
+   "first": "2026-10-21",
+   "fp": "56ae01358a2e",
+   "last": "2026-10-21",
+   "status": "",
+   "title": "Re Firms AI Driven Trg Grad Mphil Phd Csit"
+  },
+  "navttc:c336d395fe5d": {
+   "deadline": "",
+   "first": "2026-10-21",
+   "fp": "a1240c8002b4",
+   "last": "2026-10-21",
+   "status": "",
+   "title": "Final Evaluationreportof IT Consultancy Firm"
   },
   "news:https://www.dawn.com/news/2037909/competition-commission-of-pakistan-deploys-ai-against-bid-rigging": {
    "deadline": "",
@@ -220,7 +244,7 @@
    "deadline": "2026-10-29",
    "first": "2026-10-20",
    "fp": "87948f4affef",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "Completion of Land Records Digitization for Consolidation and Remaining Mauzas"
   },
@@ -236,7 +260,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "281f12d1a63e",
-   "last": "2026-10-20",
+   "last": "2026-10-21",
    "status": "Published",
    "title": "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk and Assets Management Lot-3: Email Services"
   },
