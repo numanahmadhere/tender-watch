@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-21T13:37+05:00",
+ "run_at": "2026-10-22T13:39+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of Microsoft 365 E3 Office (150 licenses) for PPMC",
-    "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk an",
-    "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk an",
-    "Procurement of Kaspersky Business Endpoint Security (150 licenses) for PPMC"
+    "Procurement of critical IT infrastructure for NE-Plan PIU",
+    "Procurement of Student Learning Kits (Stationery, Printed Materials) and Water Coolers",
+    "Procurement of PLEXOs License for CPPA/ISMO",
+    "Procurement of Microsoft 365 E3 Office (150 licenses) for PPMC"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2186,
+   "fetched": 2281,
    "relevant": 8,
    "sample_titles": [
-    "Advertisement Tender Notice",
-    "Stitching of Uniform Sector M-3 Nankana Sahib NHMP",
-    "Construction of Civil Works in Creeks AoR",
-    "SSGC/SC/NR/EPADS2/14508 Renovation / Re-Construction of Boundary Wall at Rs-Golarchi and Paver Block"
+    "Procurement of Spare part for Ultrasound Machine",
+    "PROCUREMENT OF LUBRICANT SULLUBE (COMPRESSOR OIL)",
+    "PROCUREMENT OF MISC SUBASSEMBLY COMMON TOOLS",
+    "TENDER NO.4448 PROCUREMENT OF T&P ITEMS"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 113,
+   "fetched": 111,
    "relevant": 1,
    "sample_titles": [
-    "TENDER NO 1423/26 HIRING OF CONSULTANCY SERVICES FOR ASSESSMENT & VALUATION OF UNWANTED S...",
-    "RFP for Engagement of Senior Advisor on Improvement of Air Transport Operations",
-    "RFP FOR HIRING OF CONSULTANTS FOR STUDY AND ASSESMENT OF TRANSMISSION & DISTRIBUTION (T&...",
-    "RFP For Engagement of Senior Aviation Advisor"
+    "Hiring of Consultancy Srvices for Estimation of Maintenance and Renovation work of the Uni...",
+    "Hiring of Individual Legal Consultants for Provision of Legal Consultancy Services to the ...",
+    "314-Procurement of Consultancy Services – Renovation of SBP Main Building Floors, Head O...",
+    "Hiring of consultancy services for Feasibility Studies, Planning / Designing and Engineeri..."
    ]
   },
   "epads_kp": {
@@ -50,10 +50,10 @@
    "fetched": 499,
    "relevant": 3,
    "sample_titles": [
+    "Ministry of Planning, Development & Special Initiatives  Supply of Computer and IT Parts and Access",
+    "Ministry of Planning, Development & Special Initiatives Supply of Electronic/Electrical & Telecommun",
     "Pakistan Security Printing Corporaion (PSPC) T-4206-FA-REQ-0826-1-00072 - Supply and Services (Fabri",
-    "Ministry of Commerce Stata Life / Skt / Printing Tender 5-2026 M/s Herman Traders, Sialkot Rehmat El",
-    "Ministry of Planning, Development & Special Initiatives  Hiring of Vehicles Services on Rental Basi",
-    "Ministry of Interior and Narcotics Control Office Stationery Items Tender for FY 2026-27 M/s Firdous"
+    "Ministry of Commerce Stata Life / Skt / Printing Tender 5-2026 M/s Herman Traders, Sialkot Rehmat El"
    ]
   },
   "punjab_eproc": {
@@ -87,25 +87,25 @@
   "gb_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 59,
+   "fetched": 60,
    "relevant": 0,
    "sample_titles": [
     "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
     "Auction of unserviceable materials",
-    "Re-Construction of retaining wall/ cleaning of public channel and cutting of vertical cliff adjacent",
-    "Final Evaluation Report"
+    "Inter provincial Connectivity Economic Corridor Through Gilgit- Baltistan and AJ&K (Dismantling and ",
+    "Invitation to bids (SSOE) Corrigendum"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 32,
+   "fetched": 36,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Consultancy Services for Master Planning of Tourist Potential Sites of AJ&K",
-    "Hiring of Consultancy Services for Clean Tourism AJK Programme",
-    "Hiring Services of Reputed Testing Agency to Conduct Tets for Recruitment",
-    "Tender for Services (2)"
+    "Tender Notice for Works (3)",
+    "Maintenance of Vehicle",
+    "Supply Installation Testing, Commissioning and Support Services for CIR Connectivity",
+    "Tender for Works (2)"
    ]
   },
   "ted": {
@@ -165,12 +165,13 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
-   "relevant": 0,
+   "fetched": 6,
+   "relevant": 2,
    "sample_titles": [
     "PM warns against resistance to FBR reforms",
-    "Growers end losers in ‘flawed’ wheat market reform",
-    "FinMin seeks BB rating, $1.5b financing"
+    "South Korea's KOCOPIA tenders for about 55,000 tons corn, traders say",
+    "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+    "Japan's Nikkei slips as chip shares pressured by AI capex caution"
    ]
   },
   "moitt": {
