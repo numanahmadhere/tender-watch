@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-22T13:39+05:00",
+ "run_at": "2026-10-23T13:35+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of critical IT infrastructure for NE-Plan PIU",
-    "Procurement of Student Learning Kits (Stationery, Printed Materials) and Water Coolers",
-    "Procurement of PLEXOs License for CPPA/ISMO",
-    "Procurement of Microsoft 365 E3 Office (150 licenses) for PPMC"
+    "Wall/ Stone Chalking for Information Dissemination in Project Area",
+    "Procurement of three (03) PSSE dongles for ISMO",
+    "Reconstruction of Flood effected schools district Swabi (Package-3)",
+    "Reconstruction of Flood effected schools district Swabi (Package-1)"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2281,
+   "fetched": 2274,
    "relevant": 8,
    "sample_titles": [
-    "Procurement of Spare part for Ultrasound Machine",
-    "PROCUREMENT OF LUBRICANT SULLUBE (COMPRESSOR OIL)",
-    "PROCUREMENT OF MISC SUBASSEMBLY COMMON TOOLS",
-    "TENDER NO.4448 PROCUREMENT OF T&P ITEMS"
+    "Tank Spares, Medicine, Med, Medical Disposable Items & Lab Kit & Implant",
+    "Engr store, Sig Eqpt, GS&C, POL, Medicine, Medical, Med Disposable, Lab Kit & Implants",
+    "PROCUREMENT OF MISC STORE / GOODS",
+    "Repair/Maint Works"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 111,
-   "relevant": 1,
+   "fetched": 101,
+   "relevant": 0,
    "sample_titles": [
-    "Hiring of Consultancy Srvices for Estimation of Maintenance and Renovation work of the Uni...",
-    "Hiring of Individual Legal Consultants for Provision of Legal Consultancy Services to the ...",
-    "314-Procurement of Consultancy Services – Renovation of SBP Main Building Floors, Head O...",
-    "Hiring of consultancy services for Feasibility Studies, Planning / Designing and Engineeri..."
+    "repair of transport",
+    "Hiring of Consultancy Services for Detailed Architectural & Engineering Design, Preparatio...",
+    "Tender No. 4457 IT Cybersecurity Audit & NEPRA Compliance For LESCO Primary Data Center (P...",
+    "Hiring the Services of an “Audit Firm” For Internal Audit Function for 03 Years"
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 3,
+   "relevant": 2,
    "sample_titles": [
     "Ministry of Planning, Development & Special Initiatives  Supply of Computer and IT Parts and Access",
     "Ministry of Planning, Development & Special Initiatives Supply of Electronic/Electrical & Telecommun",
@@ -91,21 +91,21 @@
    "relevant": 0,
    "sample_titles": [
     "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
-    "Auction of unserviceable materials",
-    "Inter provincial Connectivity Economic Corridor Through Gilgit- Baltistan and AJ&K (Dismantling and ",
-    "Invitation to bids (SSOE) Corrigendum"
+    "Auction Notice",
+    "General Overhauling of Govt. Vehicle registration No-GLT B-159 in W&P Kharmang",
+    "Auction of unserviceable materials"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 36,
+   "fetched": 34,
    "relevant": 0,
    "sample_titles": [
+    "Transport of Wood",
     "Tender Notice for Works (3)",
     "Maintenance of Vehicle",
-    "Supply Installation Testing, Commissioning and Support Services for CIR Connectivity",
-    "Tender for Works (2)"
+    "Supply Installation Testing, Commissioning and Support Services for CIR Connectivity"
    ]
   },
   "ted": {
@@ -144,16 +144,16 @@
    "fetched": 30,
    "relevant": 0,
    "sample_titles": [
-    "PROCUREMENT OF FURNITURE & RENOVATION WORK ON A TURNKEY BASIS UNDER ONE-MAP AND IPAS PROJECTS (NDP -",
-    "PROVISIONING OF HR OUT-SOURCING, SCANNING, AND DATA ENTRY SERVICES FOR VARIOUS PROJECTS UNDER THE FR",
-    "PROCUREMENT OF IT EQUIPMENT AND HARDWARE FOR CFSC PROJECT (EGOV - 20)",
-    "PROVISIONING OF HR OUT-SOURCING (OFFICE BOYS, JANITORS, SECURITY GUARDS & DRIVERS) FOR PITB NDP UNDE"
+    "Establishment of Disaster Recovery Data Center at PITB Multan (DC-07)",
+    "PROCUREMENT OF LAPTOPS, DESKTOPS & ACCESSORIES FOR VARIOUS PROJECTS OF ITOP WING - PITB (ITOPS - 13)",
+    "PROCUREMENT OF LAPTOPS & DESKTOP FOR ADVANCED BOOTCAMPS AND FREELANCING TRAINING PROJECT (EGOV - 22)",
+    "PROCUREMENT OF IT HARDWARE / IT EQUIPMENT FOR VARIOUS PROJECTS UNDER ITSOL WING PITB (ITSOL - 01)"
    ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2122,
+   "fetched": 2125,
    "relevant": 1,
    "sample_titles": [
     "Tender Notice purchase of Stationery at Directorate General Intelligence Risk Management Customs Isl",
@@ -165,13 +165,10 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 6,
-   "relevant": 2,
+   "fetched": 1,
+   "relevant": 0,
    "sample_titles": [
-    "PM warns against resistance to FBR reforms",
-    "South Korea's KOCOPIA tenders for about 55,000 tons corn, traders say",
-    "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
-    "Japan's Nikkei slips as chip shares pressured by AI capex caution"
+    "PM warns against resistance to FBR reforms"
    ]
   },
   "moitt": {
