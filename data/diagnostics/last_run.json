@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-23T13:35+05:00",
+ "run_at": "2026-10-24T13:10+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,22 +7,22 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Procurement of Design, printing and Scanning of approved Training Manuals for PMU",
+    "Development of Scanning and Data Entry Application",
     "Wall/ Stone Chalking for Information Dissemination in Project Area",
-    "Procurement of three (03) PSSE dongles for ISMO",
-    "Reconstruction of Flood effected schools district Swabi (Package-3)",
-    "Reconstruction of Flood effected schools district Swabi (Package-1)"
+    "Procurement of three (03) PSSE dongles for ISMO"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2274,
-   "relevant": 8,
+   "fetched": 2190,
+   "relevant": 7,
    "sample_titles": [
-    "Tank Spares, Medicine, Med, Medical Disposable Items & Lab Kit & Implant",
-    "Engr store, Sig Eqpt, GS&C, POL, Medicine, Medical, Med Disposable, Lab Kit & Implants",
-    "PROCUREMENT OF MISC STORE / GOODS",
-    "Repair/Maint Works"
+    "Tender Notice for Selection of EPC Contractor for the Construction of Jinnah Medical Complex and Res",
+    "NCB-265 Shifting of 132kV D/C University to F-6 & G-5 to E-8 Circuit (from location No. 139 to 147) ",
+    "MT Spares, Avn, Armnt, Tank Spares, Medicine & Lab Kits & Implants",
+    "MT Spres, Avn Stores, GS&C, Medicine, Electro Medical & Lab Kits & Implants"
    ]
   },
   "epads_federal": {
@@ -34,7 +34,7 @@
     "repair of transport",
     "Hiring of Consultancy Services for Detailed Architectural & Engineering Design, Preparatio...",
     "Tender No. 4457 IT Cybersecurity Audit & NEPRA Compliance For LESCO Primary Data Center (P...",
-    "Hiring the Services of an “Audit Firm” For Internal Audit Function for 03 Years"
+    "Hiring of a Consulting Firm for Organizational Review, Workload & FTE Assessment, and Work..."
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 2,
+   "relevant": 1,
    "sample_titles": [
     "Ministry of Planning, Development & Special Initiatives  Supply of Computer and IT Parts and Access",
     "Ministry of Planning, Development & Special Initiatives Supply of Electronic/Electrical & Telecommun",
@@ -91,21 +91,21 @@
    "relevant": 0,
    "sample_titles": [
     "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
-    "Auction Notice",
-    "General Overhauling of Govt. Vehicle registration No-GLT B-159 in W&P Kharmang",
-    "Auction of unserviceable materials"
+    "Final Evaluation Report B&R Division Ghizer",
+    "Notice Inviting Tenders",
+    "Auction Notice"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 34,
+   "fetched": 36,
    "relevant": 0,
    "sample_titles": [
-    "Transport of Wood",
-    "Tender Notice for Works (3)",
-    "Maintenance of Vehicle",
-    "Supply Installation Testing, Commissioning and Support Services for CIR Connectivity"
+    "Supply of Tyres and Tubes",
+    "Supply of Printing Items (Answer Sheets and Envelopes)",
+    "Supply & Installation of Furniture and Wood Work at Al-Aziz Plaza Bela Noor Shah & Apex Tower Gharip",
+    "Transport of Wood"
    ]
   },
   "ted": {
@@ -120,9 +120,10 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
+   "fetched": 4,
    "relevant": 0,
    "sample_titles": [
+    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
     "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
     "Supply of Bus Shelters, Real Time Passenger Information Systems (RTPI) and Associated Services Y2203",
     "Framework for Drawdown Technical Assistance - Transaction Advisory, Finance and Investment Support ("
@@ -145,15 +146,15 @@
    "relevant": 0,
    "sample_titles": [
     "Establishment of Disaster Recovery Data Center at PITB Multan (DC-07)",
-    "PROCUREMENT OF LAPTOPS, DESKTOPS & ACCESSORIES FOR VARIOUS PROJECTS OF ITOP WING - PITB (ITOPS - 13)",
-    "PROCUREMENT OF LAPTOPS & DESKTOP FOR ADVANCED BOOTCAMPS AND FREELANCING TRAINING PROJECT (EGOV - 22)",
-    "PROCUREMENT OF IT HARDWARE / IT EQUIPMENT FOR VARIOUS PROJECTS UNDER ITSOL WING PITB (ITSOL - 01)"
+    "PROCUREMENT OF IT HARDWARE / IT EQUIPMENT FOR VARIOUS PROJECTS UNDER ITSOL WING PITB (ITSOL - 01)",
+    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP – ",
+    "PROCUREMENT OF LAPTOPS, DESKTOPS & ACCESSORIES FOR VARIOUS PROJECTS OF ITOP WING - PITB (ITOPS - 13)"
    ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2125,
+   "fetched": 2126,
    "relevant": 1,
    "sample_titles": [
     "Tender Notice purchase of Stationery at Directorate General Intelligence Risk Management Customs Isl",
@@ -165,10 +166,13 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
+   "fetched": 4,
    "relevant": 0,
    "sample_titles": [
-    "PM warns against resistance to FBR reforms"
+    "Lahore Seeks Over Rs. 1 Billion in Funds for Basant 2027",
+    "PM sets indicative wheat price at Rs4,500 per maund for 2027",
+    "North Korea's Kim calls for training world's 'strongest' military",
+    "Public transport carries less than 1% of commuters"
    ]
   },
   "moitt": {
