@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-24T13:10+05:00",
+ "run_at": "2026-10-25T13:28+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,28 +7,28 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Hiring of Third Party Validation (TPV) Firm for Verification of PBC-7 Target",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 11) Phase-II",
     "Procurement of Design, printing and Scanning of approved Training Manuals for PMU",
-    "Development of Scanning and Data Entry Application",
-    "Wall/ Stone Chalking for Information Dissemination in Project Area",
-    "Procurement of three (03) PSSE dongles for ISMO"
+    "Development of Scanning and Data Entry Application"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2190,
-   "relevant": 7,
+   "fetched": 2121,
+   "relevant": 8,
    "sample_titles": [
-    "Tender Notice for Selection of EPC Contractor for the Construction of Jinnah Medical Complex and Res",
-    "NCB-265 Shifting of 132kV D/C University to F-6 & G-5 to E-8 Circuit (from location No. 139 to 147) ",
-    "MT Spares, Avn, Armnt, Tank Spares, Medicine & Lab Kits & Implants",
-    "MT Spres, Avn Stores, GS&C, Medicine, Electro Medical & Lab Kits & Implants"
+    "Procurement of materials and consumables for MRC Workshop Practice classes",
+    "Procurement of IT Equipment for BS Robotics and AI - Computer Systems",
+    "Purchase of 30KVA UPS + Installation",
+    "Hiring of Courier Company for CMU"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 101,
+   "fetched": 102,
    "relevant": 0,
    "sample_titles": [
     "repair of transport",
@@ -140,16 +140,11 @@
    ]
   },
   "pitb": {
-   "status": "ok",
-   "message": "",
-   "fetched": 30,
+   "status": "error",
+   "message": "network: ConnectTimeout",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Establishment of Disaster Recovery Data Center at PITB Multan (DC-07)",
-    "PROCUREMENT OF IT HARDWARE / IT EQUIPMENT FOR VARIOUS PROJECTS UNDER ITSOL WING PITB (ITSOL - 01)",
-    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP – ",
-    "PROCUREMENT OF LAPTOPS, DESKTOPS & ACCESSORIES FOR VARIOUS PROJECTS OF ITOP WING - PITB (ITOPS - 13)"
-   ]
+   "sample_titles": []
   },
   "fbr": {
    "status": "ok",
@@ -169,10 +164,10 @@
    "fetched": 4,
    "relevant": 0,
    "sample_titles": [
-    "Lahore Seeks Over Rs. 1 Billion in Funds for Basant 2027",
+    "DeepSeek Just Doubled Its Fundraising Goal and Investors Are Fighting to Get In",
     "PM sets indicative wheat price at Rs4,500 per maund for 2027",
-    "North Korea's Kim calls for training world's 'strongest' military",
-    "Public transport carries less than 1% of commuters"
+    "'Indian duty-free access threatens GSP Plus edge'",
+    "NHA told to classify projects by viability"
    ]
   },
   "moitt": {
