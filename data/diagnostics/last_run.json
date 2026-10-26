@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-25T13:28+05:00",
+ "run_at": "2026-10-26T13:59+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,25 +16,25 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2121,
+   "fetched": 2024,
    "relevant": 8,
    "sample_titles": [
-    "Procurement of materials and consumables for MRC Workshop Practice classes",
-    "Procurement of IT Equipment for BS Robotics and AI - Computer Systems",
-    "Purchase of 30KVA UPS + Installation",
-    "Hiring of Courier Company for CMU"
+    "Welder/ Fitter Tool Kits",
+    "Socket Welding Elbows 3/4\" & 1\"",
+    "Welding Plants",
+    "Dry Test Meters"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 102,
+   "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "repair of transport",
-    "Hiring of Consultancy Services for Detailed Architectural & Engineering Design, Preparatio...",
     "Tender No. 4457 IT Cybersecurity Audit & NEPRA Compliance For LESCO Primary Data Center (P...",
-    "Hiring of a Consulting Firm for Organizational Review, Workload & FTE Assessment, and Work..."
+    "Hiring the Services of an “Audit Firm” For Internal Audit Function for 03 Years",
+    "Hiring of a Consulting Firm for Organizational Review, Workload & FTE Assessment, and Work...",
+    "Hiring of consultancy services for System Augmentation Program HT/LT (DOP/ELR), SDGs / SAP..."
    ]
   },
   "epads_kp": {
@@ -47,8 +47,8 @@
   "epms_awards": {
    "status": "ok",
    "message": "",
-   "fetched": 499,
-   "relevant": 1,
+   "fetched": 500,
+   "relevant": 2,
    "sample_titles": [
     "Ministry of Planning, Development & Special Initiatives  Supply of Computer and IT Parts and Access",
     "Ministry of Planning, Development & Special Initiatives Supply of Electronic/Electrical & Telecommun",
@@ -93,7 +93,7 @@
     "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
     "Final Evaluation Report B&R Division Ghizer",
     "Notice Inviting Tenders",
-    "Auction Notice"
+    "Pakistan Asan Khidmat Center at Skardu"
    ]
   },
   "ajk_ppra": {
@@ -149,24 +149,23 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2126,
+   "fetched": 2128,
    "relevant": 1,
    "sample_titles": [
+    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for Expenditure of Confisca",
+    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for the Transportation of G",
     "Tender Notice purchase of Stationery at Directorate General Intelligence Risk Management Customs Isl",
-    "Tender Notice of purchase/Supply of \"Repair of Transport\" for the Directorate General Intelligence &",
-    "Tender Notice to purchase/supply of \"Uniforms Protective Clothing\" for the Directorate General Intel",
-    "Tender Notice to Purchase/supply of \"Repair of Furniture\" for the Directorate General Intelligence &"
+    "Tender Notice of purchase/Supply of \"Repair of Transport\" for the Directorate General Intelligence &"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 4,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "DeepSeek Just Doubled Its Fundraising Goal and Investors Are Fighting to Get In",
+    "World Bank Targets Pakistan Startup Funding Gap With $50 Million Plan",
     "PM sets indicative wheat price at Rs4,500 per maund for 2027",
-    "'Indian duty-free access threatens GSP Plus edge'",
     "NHA told to classify projects by viability"
    ]
   },
