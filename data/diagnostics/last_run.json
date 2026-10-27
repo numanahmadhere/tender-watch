@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-26T13:59+05:00",
+ "run_at": "2026-10-27T14:03+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,13 +16,13 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2024,
-   "relevant": 8,
+   "fetched": 2019,
+   "relevant": 7,
    "sample_titles": [
-    "Welder/ Fitter Tool Kits",
-    "Socket Welding Elbows 3/4\" & 1\"",
-    "Welding Plants",
-    "Dry Test Meters"
+    "Cold Applied Visco Elastic Tape (Inner Wrap) & Cold Applied Mechanical Protection Tape (Outer Wrap)",
+    "Domestic Gas Meters G-1.6 & G-4",
+    "Welding Cables",
+    "Welding Gloves, 14\" Long"
    ]
   },
   "epads_federal": {
@@ -31,10 +31,10 @@
    "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "Tender No. 4457 IT Cybersecurity Audit & NEPRA Compliance For LESCO Primary Data Center (P...",
-    "Hiring the Services of an “Audit Firm” For Internal Audit Function for 03 Years",
-    "Hiring of a Consulting Firm for Organizational Review, Workload & FTE Assessment, and Work...",
-    "Hiring of consultancy services for System Augmentation Program HT/LT (DOP/ELR), SDGs / SAP..."
+    "Hiring of Individual Legal Consultants for Provision of Legal Consultancy Services to the ...",
+    "CONSULTANCY SERVICES FOR ORGANIZATIONAL TRANSFORMATION OF PAKISTAN AIRPORTS AUTHORITY",
+    "HIring of CA Firm for Audit of NCCPL",
+    "Consultancy Services for Construction of Bahria University Lahore Campus"
    ]
   },
   "epads_kp": {
@@ -91,21 +91,21 @@
    "relevant": 0,
    "sample_titles": [
     "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
-    "Final Evaluation Report B&R Division Ghizer",
-    "Notice Inviting Tenders",
-    "Pakistan Asan Khidmat Center at Skardu"
+    "Cont./Improvement of Existing Link Roads, New Foot Bridges, Vocational Centers, Filtration Plants Tr",
+    "Const. of Protective bunds, Channelization's, water supply, Improvement and Construction of Irrigati",
+    "INVITATION FOR BIDS FOR CONSTRUCTION OF STONE MASONRY PUBLIC TOILETS IN DEOSAI NATIONAL PARK"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 36,
+   "fetched": 34,
    "relevant": 0,
    "sample_titles": [
+    "Construction, Upgradation & Improvement of Education Facilities in AJ&K",
     "Supply of Tyres and Tubes",
     "Supply of Printing Items (Answer Sheets and Envelopes)",
-    "Supply & Installation of Furniture and Wood Work at Al-Aziz Plaza Bela Noor Shah & Apex Tower Gharip",
-    "Transport of Wood"
+    "Supply & Installation of Furniture and Wood Work at Al-Aziz Plaza Bela Noor Shah & Apex Tower Gharip"
    ]
   },
   "ted": {
@@ -120,13 +120,13 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 4,
+   "fetched": 5,
    "relevant": 0,
    "sample_titles": [
-    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
+    "NAO Case Management Solution for Financial Audits",
     "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
-    "Supply of Bus Shelters, Real Time Passenger Information Systems (RTPI) and Associated Services Y2203",
-    "Framework for Drawdown Technical Assistance - Transaction Advisory, Finance and Investment Support ("
+    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
+    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P"
    ]
   },
   "wb_pipeline": {
@@ -141,7 +141,7 @@
   },
   "pitb": {
    "status": "error",
-   "message": "network: ConnectTimeout",
+   "message": "HTTP 404 from https://pitb.gov.pk/tendernotices",
    "fetched": 0,
    "relevant": 0,
    "sample_titles": []
@@ -149,13 +149,13 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2128,
+   "fetched": 2130,
    "relevant": 1,
    "sample_titles": [
+    "Tender Notice No. 01/2026-27 for purchase of Uniform Items 2026-27 in respect of Collectorate of Cus",
+    "Re-Tender Notice for Auction of Remaining Material for the Customs House Building Recovered in Phase",
     "Re-Tender - Invitation for Prequalification for Open Framework Agreement for Expenditure of Confisca",
-    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for the Transportation of G",
-    "Tender Notice purchase of Stationery at Directorate General Intelligence Risk Management Customs Isl",
-    "Tender Notice of purchase/Supply of \"Repair of Transport\" for the Directorate General Intelligence &"
+    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for the Transportation of G"
    ]
   },
   "news": {
@@ -164,9 +164,9 @@
    "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "World Bank Targets Pakistan Startup Funding Gap With $50 Million Plan",
-    "PM sets indicative wheat price at Rs4,500 per maund for 2027",
-    "NHA told to classify projects by viability"
+    "Central Development Working Party refers 3 KP infrastructure projects worth Rs100bn to Ecnec",
+    "NHA told to classify projects by viability",
+    "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
   "moitt": {
