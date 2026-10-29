@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-28T14:43+05:00",
+ "run_at": "2026-10-29T15:01+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Reconstruction of flood affected schools in District Haripur (Package 01)",
     "Procurement of Advanced Survey Equipment",
     "System Integration Specialist",
-    "Procurement for Drones",
-    "Procurement of Workstations and Mobile Workstations"
+    "Procurement for Drones"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2067,
+   "fetched": 2151,
    "relevant": 8,
    "sample_titles": [
-    "Steel Line Pipe 1\", 2\" & 4\"",
-    "P.E. Fittings",
-    "SCADA Enabled High Pressure Dual Sensing LF EVCs",
-    "THREADOLETS 1/4\" on 4\"-6\""
+    "Acoustic Decoys Rocket (RAD8E), Acoustic Jammer Rocket (RAJ9E), Smoke Screen Rocket (PJ46G-Y",
+    "Pump Liquid Operated Portable Diesel Motopump",
+    "Titan Supersyn F ECO-DT SAE 5W-30",
+    "HF TX/ RX M3SR (15W) INCLUDING SECOM-H ACCESSORIES"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 106,
+   "fetched": 102,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Individual Legal Consultants for Provision of Legal Consultancy Services to the ...",
-    "CONSULTANCY SERVICES FOR ORGANIZATIONAL TRANSFORMATION OF PAKISTAN AIRPORTS AUTHORITY",
-    "Consultancy Services for Construction of Bahria University Lahore Campus",
-    "HIring of CA Firm for Audit of NCCPL"
+    "Procurement of Consultancy Services for Shariah-Compliant Transformation of EXIM Bank’s ...",
+    "Consultancy Services For the Development & Modification of the Various Locations / Project...",
+    "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
+    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ..."
    ]
   },
   "epads_kp": {
@@ -50,10 +50,10 @@
    "fetched": 500,
    "relevant": 3,
    "sample_titles": [
+    "Sui Northern Gas Pipelines Limited (SNGPL) Digital AC DC Clamp on Meter and Digital Soil Resistivity",
     "Pakistan Meteorological Department Purchase of Vehicles Under NCRE Project M/s Toyota Islamabad Moto",
     "Ministry of Information and Broadcasting TENDER FOR THE PURCHASE OF STATIONERY ITEMS, COMPUTER/IT EQ",
-    "Pakistan Security Printing Corporaion (PSPC) PROCUREMENT OF ISO PROPYL ALCOHOL M/s. Naveed Chemicals",
-    "Ministry of Planning, Development & Special Initiatives  Supply of Computer and IT Parts and Access"
+    "Pakistan Security Printing Corporaion (PSPC) PROCUREMENT OF ISO PROPYL ALCOHOL M/s. Naveed Chemicals"
    ]
   },
   "punjab_eproc": {
@@ -90,22 +90,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "IMPROVEMENT/ WIDENING OF ROAD FROM JSR TO LAGAF STAK EMS NO.1149 PORTION (III).",
     "\"Capacity Building of Youth of GB in digital skills\"",
-    "\"Capacity Building of Youth in Digital Skills\"",
-    "Diversion & Regulation of Discharge of 1.2 MW Raikote Muthat portion (B)",
-    "Procurement, Import & Transportation of Registered Pedigree Certified Jersey Cattle from Source Coun"
+    "\"Upgradation of NATCO Pump at Jutial, Gilgit calibration with \"Shell Pakistan Ltd\"",
+    "wheat supply"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 37,
+   "fetched": 42,
    "relevant": 0,
    "sample_titles": [
-    "Electrification of Remaining Areas in District Mzd, Jhelum Valley & Bagh (Opr. Div. Jhelum Valley)",
-    "Resurfacing/ Reconditioning of Green Bus Route (Part-1, Part-2, Part-3) (3)",
-    "Renovation/ Uplifting of Asan Khidmat Centre at New PM House Narrul Muzaffarabad",
-    "Construction, Upgradation & Improvement of Education Facilities in AJ&K"
+    "Tender for Services",
+    "Resurfacing/ Resurfacing of Green Bus Route, Urban Drainage & Flood Protection Programme City Dist. ",
+    "Tender for Goods/Services (Inventory Control Inspection)",
+    "Tender for Goods/Services (Inventory Control Inspection)"
    ]
   },
   "ted": {
@@ -149,22 +149,23 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2130,
+   "fetched": 2136,
    "relevant": 1,
    "sample_titles": [
-    "Tender Notice No. 01/2026-27 for purchase of Uniform Items 2026-27 in respect of Collectorate of Cus",
-    "Re-Tender Notice for Auction of Remaining Material for the Customs House Building Recovered in Phase",
-    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for Expenditure of Confisca",
-    "Re-Tender - Invitation for Prequalification for Open Framework Agreement for the Transportation of G"
+    "Tender Notice the Contract for the Outsourcing of NFC Staff Cafe, Staff Canteen and Staff Lounge",
+    "Standard Bidding Document",
+    "Tender Notice the Contract for the \"Procurement of Building Maintenance Services for the National Fa",
+    "Standard Bidding Document"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "Central Development Working Party refers 3 KP infrastructure projects worth Rs100bn to Ecnec",
+    "Govt Changes Mandatory Vaccination Process for Overseas Travellers",
+    "Empathy and purpose drive Los Javis' Oscar hopeful 'La Bola Negra'",
     "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
