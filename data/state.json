@@ -60,7 +60,7 @@
    "deadline": "2026-10-30T11:00",
    "first": "2026-10-20",
    "fp": "e9dcfad92e30",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published Corrigendum",
    "title": "PROCUREMENT OF ERP MANAGEMENT SYSTEM FOR HR AND ACCOUNTS"
   },
@@ -76,7 +76,7 @@
    "deadline": "2026-11-06T15:00",
    "first": "2026-10-20",
    "fp": "de202397f85a",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published Corrigendum",
    "title": "Tender No. P-79/2026 Procurement and Implementation of Enterprise Resource Planning (ERP) System"
   },
@@ -84,7 +84,7 @@
    "deadline": "2026-11-05T10:30",
    "first": "2026-10-20",
    "fp": "1d05f197aff7",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "PROVISION INSTALLATION COMMISSIONING AND INTEGRATION OF AI ENABLED ELECTRONIC SMART WORKBENCH FOR DEFECT DIAGNOSIS ONBOARD PN SHIPS"
   },
@@ -92,7 +92,7 @@
    "deadline": "2026-11-03T11:00",
    "first": "2026-10-20",
    "fp": "b0792769dd13",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "PROCUREMENT OF 75 X AI-ENABLED BUSINESS DESKTOP COMPUTER SYSTEMS OR ALLOW EQUIVALENT SYSTEMS FROM ESTABLISHED OEMS. FOR \u2013 BUIC E-8 ISLAMABAD"
   },
@@ -100,7 +100,7 @@
    "deadline": "2026-11-04T14:15",
    "first": "2026-10-22",
    "fp": "521891d94cc5",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "OT related VAPT and Security Review Engagement for Automation at Faisalabad, Keamari (KTA) & Machike"
   },
@@ -108,7 +108,7 @@
    "deadline": "2026-11-12T11:00",
    "first": "2026-10-25",
    "fp": "9e8a45250b05",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "Procurement of IT Equipment for BS Robotics and AI - Computer Systems"
   },
@@ -116,7 +116,7 @@
    "deadline": "2026-11-13T11:00",
    "first": "2026-10-27",
    "fp": "219e9b17eea8",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "RFP-NOR-IT-39-2026 Procurement of Consultancy Services for Vulnerability Assessment and Penetration Testing (VAPT) for Network Infrastructure and Web Applications of National Grid Company"
   },
@@ -124,9 +124,17 @@
    "deadline": "2026-11-12T10:30",
    "first": "2026-10-28",
    "fp": "cd10d4254ae1",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "ACs & Networking Equipment for AI Computer Lab (MG-03), Shared Block, IIUI"
+  },
+  "epms:TS0000017077E": {
+   "deadline": "2026-11-11T11:00",
+   "first": "2026-10-30",
+   "fp": "cd3cefe4567c",
+   "last": "2026-10-30",
+   "status": "Published",
+   "title": "HIRING OF DATA ENTRY OPERATORS FOR ERP OPERATIONS AT PRCL KARACHI."
   },
   "epms_awards:EVL00000004120": {
    "deadline": "",
@@ -220,7 +228,7 @@
    "deadline": "",
    "first": "2026-10-26",
    "fp": "d0136741a954",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "Renewal of Support and License Subscription for Web Application Firewall (WAF)"
   },
@@ -228,7 +236,7 @@
    "deadline": "",
    "first": "2026-10-28",
    "fp": "80fa10735c2b",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "SUPPLY,INSTALLATION, CONFIGURATION OF AI SERVER MACHINES FOR ISLAMABAD DATACENTER"
   },
@@ -252,7 +260,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "d930550405b2",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "TORs - Junior Associate HR Data Analytics"
   },
@@ -260,7 +268,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "20b06d0ef4d5",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "Extension ERP End2 End Turnkey"
   },
@@ -268,7 +276,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "56ae01358a2e",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "Re Firms AI Driven Trg Grad Mphil Phd Csit"
   },
@@ -276,7 +284,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "a1240c8002b4",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "",
    "title": "Final Evaluationreportof IT Consultancy Firm"
   },
@@ -304,6 +312,14 @@
    "status": "",
    "title": "Competition Commission of Pakistan deploys AI against bid rigging"
   },
+  "news:https://www.techjuice.pk/lahore-ai-traffic-signal-project-faces-funding-shortfall/": {
+   "deadline": "",
+   "first": "2026-10-30",
+   "fp": "09c57d53d370",
+   "last": "2026-10-30",
+   "status": "",
+   "title": "Lahore AI Traffic Signal Project Faces Funding Shortfall"
+  },
   "worldbank:OP00475658": {
    "deadline": "2026-10-29",
    "first": "2026-10-20",
@@ -324,7 +340,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "281f12d1a63e",
-   "last": "2026-10-29",
+   "last": "2026-10-30",
    "status": "Published",
    "title": "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk and Assets Management Lot-3: Email Services"
   },

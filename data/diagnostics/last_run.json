@@ -1,40 +1,40 @@
 {
- "run_at": "2026-10-29T15:01+05:00",
+ "run_at": "2026-10-30T15:04+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
    "message": "",
    "fetched": 300,
-   "relevant": 2,
+   "relevant": 1,
    "sample_titles": [
-    "Reconstruction of flood affected schools in District Haripur (Package 01)",
-    "Procurement of Advanced Survey Equipment",
-    "System Integration Specialist",
-    "Procurement for Drones"
+    "Procurement of vehicles for PCMU",
+    "Reconstruction of flood affected schools in District Haripur (Package 02)",
+    "Hiring of Senior Financial Management Specialist (PCMU), KP-RIISP",
+    "Reconstruction of flood affected schools in District Haripur (Package 01)"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2151,
-   "relevant": 8,
+   "fetched": 2138,
+   "relevant": 9,
    "sample_titles": [
-    "Acoustic Decoys Rocket (RAD8E), Acoustic Jammer Rocket (RAJ9E), Smoke Screen Rocket (PJ46G-Y",
-    "Pump Liquid Operated Portable Diesel Motopump",
-    "Titan Supersyn F ECO-DT SAE 5W-30",
-    "HF TX/ RX M3SR (15W) INCLUDING SECOM-H ACCESSORIES"
+    "MT Spares, Avn, Armnt, Tank Spares, Medicine & Lab Kits & Implants",
+    "Engrs, Sig, Armt, Tank Spares, GS&C, Medicine, Med, Med Disposable and Lab Kit & Implant",
+    "MT, AVN, FCI, Tank Spares, GS&C, Ration, POL, Medicine, & Med Disposable Items",
+    "APDS Rounds 7 x 30MM Naval Gun"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 102,
+   "fetched": 116,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Consultancy Services for Shariah-Compliant Transformation of EXIM Bank’s ...",
     "Consultancy Services For the Development & Modification of the Various Locations / Project...",
     "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
-    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ..."
+    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
+    "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL..."
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 500,
-   "relevant": 3,
+   "relevant": 2,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Digital AC DC Clamp on Meter and Digital Soil Resistivity",
     "Pakistan Meteorological Department Purchase of Vehicles Under NCRE Project M/s Toyota Islamabad Moto",
@@ -90,22 +90,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "IMPROVEMENT/ WIDENING OF ROAD FROM JSR TO LAGAF STAK EMS NO.1149 PORTION (III).",
-    "\"Capacity Building of Youth of GB in digital skills\"",
-    "\"Upgradation of NATCO Pump at Jutial, Gilgit calibration with \"Shell Pakistan Ltd\"",
-    "wheat supply"
+    "Consultancy services for Provision of Clean Drinking Water Supply to Skawar and Minawar area Gilgit",
+    "IMPROVEMENT/ WIDENING OF ROAD FROM JSR TO LAGAF STAK EMS NO.1149 PORTION (II).",
+    "NOTICE INVITATING TENDER (SSOE)",
+    "Notice Inviting Tenders"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 42,
+   "fetched": 43,
    "relevant": 0,
    "sample_titles": [
+    "Procurement of Electro Medical Equipment/Instruments for OT and Nursery Units in THQ Hospitals (DG H",
+    "Beautification of Mzd City & Beautification, Development of Parks, and Green Areas in Mzd City",
     "Tender for Services",
-    "Resurfacing/ Resurfacing of Green Bus Route, Urban Drainage & Flood Protection Programme City Dist. ",
-    "Tender for Goods/Services (Inventory Control Inspection)",
-    "Tender for Goods/Services (Inventory Control Inspection)"
+    "Resurfacing/ Resurfacing of Green Bus Route, Urban Drainage & Flood Protection Programme City Dist. "
    ]
   },
   "ted": {
@@ -120,7 +120,7 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 6,
+   "fetched": 5,
    "relevant": 0,
    "sample_titles": [
     "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
@@ -149,23 +149,22 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2136,
+   "fetched": 2141,
    "relevant": 1,
    "sample_titles": [
-    "Tender Notice the Contract for the Outsourcing of NFC Staff Cafe, Staff Canteen and Staff Lounge",
+    "Request for Proposals - Hiring of Chartered Accountant Firms for Third-Party Comprehensive Audit of ",
     "Standard Bidding Document",
-    "Tender Notice the Contract for the \"Procurement of Building Maintenance Services for the National Fa",
-    "Standard Bidding Document"
+    "Corrigendum No. 1",
+    "Tender Notice the Contract for the Outsourcing of NFC Staff Cafe, Staff Canteen and Staff Lounge"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
-   "relevant": 0,
+   "fetched": 2,
+   "relevant": 1,
    "sample_titles": [
-    "Govt Changes Mandatory Vaccination Process for Overseas Travellers",
-    "Empathy and purpose drive Los Javis' Oscar hopeful 'La Bola Negra'",
+    "Lahore AI Traffic Signal Project Faces Funding Shortfall",
     "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
