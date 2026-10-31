@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-30T15:04+05:00",
+ "run_at": "2026-10-31T14:41+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,33 +7,33 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
-    "Procurement of vehicles for PCMU",
-    "Reconstruction of flood affected schools in District Haripur (Package 02)",
-    "Hiring of Senior Financial Management Specialist (PCMU), KP-RIISP",
-    "Reconstruction of flood affected schools in District Haripur (Package 01)"
+    "Procurement of SD-WAN for field offices",
+    "Revamping and uplifting of PMD-PIU Office",
+    "Procurement of Video conferencing material/ ICT Material for PCU, PIU and DPIUs",
+    "Supply and Installation of Specialized Museum Showcases at Peshawar Museum"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2138,
+   "fetched": 2060,
    "relevant": 9,
    "sample_titles": [
-    "MT Spares, Avn, Armnt, Tank Spares, Medicine & Lab Kits & Implants",
-    "Engrs, Sig, Armt, Tank Spares, GS&C, Medicine, Med, Med Disposable and Lab Kit & Implant",
-    "MT, AVN, FCI, Tank Spares, GS&C, Ration, POL, Medicine, & Med Disposable Items",
-    "APDS Rounds 7 x 30MM Naval Gun"
+    "Miscellaneous Works",
+    "Pre-Qualification of Firms - Provn/Const of Certain Svcs/Facilities/Bldgs and Repair/Repl of Furnitu",
+    "Procurement of Misc Stores",
+    "Procurement of Lime unslaked, Standard instruments/Gauges/Metes, Welding Material, V belts & Sealing"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 116,
+   "fetched": 105,
    "relevant": 0,
    "sample_titles": [
     "Consultancy Services For the Development & Modification of the Various Locations / Project...",
-    "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
     "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
+    "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
     "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL..."
    ]
   },
@@ -48,12 +48,12 @@
    "status": "ok",
    "message": "",
    "fetched": 500,
-   "relevant": 2,
+   "relevant": 4,
    "sample_titles": [
-    "Sui Northern Gas Pipelines Limited (SNGPL) Digital AC DC Clamp on Meter and Digital Soil Resistivity",
-    "Pakistan Meteorological Department Purchase of Vehicles Under NCRE Project M/s Toyota Islamabad Moto",
-    "Ministry of Information and Broadcasting TENDER FOR THE PURCHASE OF STATIONERY ITEMS, COMPUTER/IT EQ",
-    "Pakistan Security Printing Corporaion (PSPC) PROCUREMENT OF ISO PROPYL ALCOHOL M/s. Naveed Chemicals"
+    "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requ",
+    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SECURITY ADHESIVE TAPE M/s. Goodman Traders B",
+    "Trading Corporation of Pakistan (TCP) HIRING OF VEHICLES WITH DRIVERS FOR EMPLOYEES PICK & DROP SERV",
+    "Sui Northern Gas Pipelines Limited (SNGPL) Digital AC DC Clamp on Meter and Digital Soil Resistivity"
    ]
   },
   "punjab_eproc": {
@@ -99,13 +99,13 @@
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 43,
+   "fetched": 45,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Electro Medical Equipment/Instruments for OT and Nursery Units in THQ Hospitals (DG H",
-    "Beautification of Mzd City & Beautification, Development of Parks, and Green Areas in Mzd City",
-    "Tender for Services",
-    "Resurfacing/ Resurfacing of Green Bus Route, Urban Drainage & Flood Protection Programme City Dist. "
+    "Hiring of Solid Waste Management Services for Bagh City",
+    "Procurement & Supply of Winter Uniforms/ Liveries for Non-Clerical Staff",
+    "Procurement of Vehicle",
+    "Construction of Multi Span Culvert Link Road Machia (LA-7) Tehsil & District Bhimber"
    ]
   },
   "ted": {
@@ -161,24 +161,20 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
-   "relevant": 1,
+   "fetched": 3,
+   "relevant": 0,
    "sample_titles": [
-    "Lahore AI Traffic Signal Project Faces Funding Shortfall",
+    "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
+    "OpenAI slashes funding target by $10 billion amid tech rout, reports",
     "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
   "moitt": {
-   "status": "ok",
-   "message": "",
-   "fetched": 23,
+   "status": "error",
+   "message": "network: ConnectionError",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Invitation for Bids-Provision of Rental Vehicles Services(DEEP)",
-    "Request for Quotation (RFQ)-DEEP",
-    "Request for Quotation (RFQ) Hardwares and Softwares",
-    "Procurement of Hardware Under the Project NAAI"
-   ]
+   "sample_titles": []
   },
   "navttc": {
    "status": "ok",
