@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-31T14:41+05:00",
+ "run_at": "2026-11-01T15:30+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,28 +7,28 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
-    "Procurement of SD-WAN for field offices",
-    "Revamping and uplifting of PMD-PIU Office",
-    "Procurement of Video conferencing material/ ICT Material for PCU, PIU and DPIUs",
-    "Supply and Installation of Specialized Museum Showcases at Peshawar Museum"
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 9) Phase-II",
+    "Supply and Installation of Specialized Museum Showcases at Peshawar Museum",
+    "Hiring of Gender Based Violence (GBV) Firm (Phase-II)",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 10) Phase-II"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2060,
+   "fetched": 1987,
    "relevant": 9,
    "sample_titles": [
-    "Miscellaneous Works",
-    "Pre-Qualification of Firms - Provn/Const of Certain Svcs/Facilities/Bldgs and Repair/Repl of Furnitu",
-    "Procurement of Misc Stores",
-    "Procurement of Lime unslaked, Standard instruments/Gauges/Metes, Welding Material, V belts & Sealing"
+    "Supply, Installation, Testing and Commissioning of Blow Moulding Machine with Moulds and Utility Equ",
+    "Procurement of Consumable Items",
+    "Medium Term commercial Leasing OF PAKISTAN RAILWAY LAND FOR MIX-USE COMMERCIAL PURPOSE",
+    "Supply of Hydraulic Hoist for PSO Retail Outlets at Central Store KTB."
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 105,
+   "fetched": 111,
    "relevant": 0,
    "sample_titles": [
     "Consultancy Services For the Development & Modification of the Various Locations / Project...",
@@ -161,32 +161,33 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
+   "fetched": 4,
    "relevant": 0,
    "sample_titles": [
+    "Crypto exchanges call for quick moves to bolster defences after Binance heist",
     "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
-    "OpenAI slashes funding target by $10 billion amid tech rout, reports",
+    "WB okays $150m for raising revenue",
     "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
   "moitt": {
-   "status": "error",
-   "message": "network: ConnectionError",
+   "status": "ok",
+   "message": "",
+   "fetched": 23,
+   "relevant": 0,
+   "sample_titles": [
+    "Invitation for Bids-Provision of Rental Vehicles Services(DEEP)",
+    "Request for Quotation (RFQ)-DEEP",
+    "Request for Quotation (RFQ) Hardwares and Softwares",
+    "Procurement of Hardware Under the Project NAAI"
+   ]
+  },
+  "navttc": {
+   "status": "experimental",
+   "message": "no records parsed yet; run in discover mode and share the snapshot",
    "fetched": 0,
    "relevant": 0,
    "sample_titles": []
-  },
-  "navttc": {
-   "status": "ok",
-   "message": "",
-   "fetched": 96,
-   "relevant": 3,
-   "sample_titles": [
-    "About Vision, mission & mandate",
-    "TVET Sector Ecosystem overview",
-    "Accreditation & Certification Accreditation, Certification & International Collaboration",
-    "Admin & Finance Wing Administration & Finance"
-   ]
   }
  }
 }
