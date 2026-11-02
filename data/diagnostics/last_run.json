@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-01T15:30+05:00",
+ "run_at": "2026-11-02T16:13+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,24 +16,24 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1987,
+   "fetched": 1910,
    "relevant": 9,
    "sample_titles": [
-    "Supply, Installation, Testing and Commissioning of Blow Moulding Machine with Moulds and Utility Equ",
-    "Procurement of Consumable Items",
-    "Medium Term commercial Leasing OF PAKISTAN RAILWAY LAND FOR MIX-USE COMMERCIAL PURPOSE",
-    "Supply of Hydraulic Hoist for PSO Retail Outlets at Central Store KTB."
+    "MT, Sig, Test Eqpt, Tank Spares, Medicine, Med, Med Disposable Items",
+    "Hiring of Independent Technical Consultant for Monitoring of Refinery Upgrade Projects",
+    "Restructring and Renovation of C3A Offices at NUST H-12, Islamabad",
+    "Tender for fur work Gar Fur yard Hyd"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 111,
+   "fetched": 108,
    "relevant": 0,
    "sample_titles": [
     "Consultancy Services For the Development & Modification of the Various Locations / Project...",
-    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
     "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
+    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
     "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL..."
    ]
   },
@@ -50,10 +50,10 @@
    "fetched": 500,
    "relevant": 4,
    "sample_titles": [
+    "Ministry of Planning, Development & Special Initiatives HIRING OF VEHICLES SERVICES ON RENTAL BASIS ",
+    "Ministry of Communications Tender for Prequalification (Open Frame Work Agreement) of Automobile Wor",
     "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requ",
-    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SECURITY ADHESIVE TAPE M/s. Goodman Traders B",
-    "Trading Corporation of Pakistan (TCP) HIRING OF VEHICLES WITH DRIVERS FOR EMPLOYEES PICK & DROP SERV",
-    "Sui Northern Gas Pipelines Limited (SNGPL) Digital AC DC Clamp on Meter and Digital Soil Resistivity"
+    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SECURITY ADHESIVE TAPE M/s. Goodman Traders B"
    ]
   },
   "punjab_eproc": {
@@ -90,10 +90,10 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Consultancy services for Provision of Clean Drinking Water Supply to Skawar and Minawar area Gilgit",
-    "IMPROVEMENT/ WIDENING OF ROAD FROM JSR TO LAGAF STAK EMS NO.1149 PORTION (II).",
-    "NOTICE INVITATING TENDER (SSOE)",
-    "Notice Inviting Tenders"
+    "Hiring of International/National Carbon Market Consultant/Firm for Development, Registration, Valida",
+    "tenders from well-reputed, experienced, licensed, and registered firms, distributors, dealers, manuf",
+    "Emergency Works",
+    "Consultancy services for Provision of Clean Drinking Water Supply to Skawar and Minawar area Gilgit"
    ]
   },
   "ajk_ppra": {
@@ -120,13 +120,13 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 5,
+   "fetched": 6,
    "relevant": 0,
    "sample_titles": [
+    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
     "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
     "NAO Case Management Solution for Financial Audits",
-    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
-    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi"
+    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P"
    ]
   },
   "wb_pipeline": {
@@ -149,24 +149,23 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2141,
+   "fetched": 2142,
    "relevant": 1,
    "sample_titles": [
+    "Tender Notice for Procurement of Supply of Uniforms in Respect of RTO, Multan",
     "Request for Proposals - Hiring of Chartered Accountant Firms for Third-Party Comprehensive Audit of ",
     "Standard Bidding Document",
-    "Corrigendum No. 1",
-    "Tender Notice the Contract for the Outsourcing of NFC Staff Cafe, Staff Canteen and Staff Lounge"
+    "Corrigendum No. 1"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 4,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
     "Crypto exchanges call for quick moves to bolster defences after Binance heist",
-    "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
-    "WB okays $150m for raising revenue",
+    "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb",
     "CDWP approves 10 projects worth Rs40.9b"
    ]
   },
@@ -183,11 +182,16 @@
    ]
   },
   "navttc": {
-   "status": "experimental",
-   "message": "no records parsed yet; run in discover mode and share the snapshot",
-   "fetched": 0,
-   "relevant": 0,
-   "sample_titles": []
+   "status": "ok",
+   "message": "",
+   "fetched": 96,
+   "relevant": 3,
+   "sample_titles": [
+    "About Vision, mission & mandate",
+    "TVET Sector Ecosystem overview",
+    "Accreditation & Certification Accreditation, Certification & International Collaboration",
+    "Admin & Finance Wing Administration & Finance"
+   ]
   }
  }
 }
