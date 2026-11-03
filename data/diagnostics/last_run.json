@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-02T16:13+05:00",
+ "run_at": "2026-11-03T15:55+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,22 +7,22 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
+    "Procurement of Consulting firm for preparation of “Basic Schedule of Rates (BSR) 2023” and “Composit",
     "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 9) Phase-II",
     "Supply and Installation of Specialized Museum Showcases at Peshawar Museum",
-    "Hiring of Gender Based Violence (GBV) Firm (Phase-II)",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 10) Phase-II"
+    "Hiring of Gender Based Violence (GBV) Firm (Phase-II)"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1910,
+   "fetched": 1900,
    "relevant": 9,
    "sample_titles": [
-    "MT, Sig, Test Eqpt, Tank Spares, Medicine, Med, Med Disposable Items",
-    "Hiring of Independent Technical Consultant for Monitoring of Refinery Upgrade Projects",
-    "Restructring and Renovation of C3A Offices at NUST H-12, Islamabad",
-    "Tender for fur work Gar Fur yard Hyd"
+    "Engrs, Sig, Armt, Tank Spares, GS&C, Medicine, Med, Med Disposable and Lab Kit & Implant",
+    "Procurement of LED Street lights and ceiling lights, Three phase motor for water feed pump & spares ",
+    "BRANDING RIGHTS AT PAKISTAN RAILWAY STATIONS",
+    "Purchase of different medical equipments"
    ]
   },
   "epads_federal": {
@@ -31,10 +31,10 @@
    "fetched": 108,
    "relevant": 0,
    "sample_titles": [
-    "Consultancy Services For the Development & Modification of the Various Locations / Project...",
     "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
     "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
-    "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL..."
+    "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL...",
+    "CONSULTANCY SERVICES FOR INTERIOR DESIGN, SERVICES DESIGN AND SUPERVISION SERVICES FOR OFF..."
    ]
   },
   "epads_kp": {
@@ -48,12 +48,12 @@
    "status": "ok",
    "message": "",
    "fetched": 500,
-   "relevant": 4,
+   "relevant": 5,
    "sample_titles": [
+    "Ministry of Planning, Development & Special Initiatives Acquisition of Secondary Internet Link Deplo",
     "Ministry of Planning, Development & Special Initiatives HIRING OF VEHICLES SERVICES ON RENTAL BASIS ",
     "Ministry of Communications Tender for Prequalification (Open Frame Work Agreement) of Automobile Wor",
-    "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requ",
-    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SECURITY ADHESIVE TAPE M/s. Goodman Traders B"
+    "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requ"
    ]
   },
   "punjab_eproc": {
@@ -90,22 +90,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "Printing of Question Papers and Answer Scripts for upcoming examinations, including all related prin",
     "Hiring of International/National Carbon Market Consultant/Firm for Development, Registration, Valida",
-    "tenders from well-reputed, experienced, licensed, and registered firms, distributors, dealers, manuf",
-    "Emergency Works",
-    "Consultancy services for Provision of Clean Drinking Water Supply to Skawar and Minawar area Gilgit"
+    "LOCAL PURCHASE OF MEDICINE AND SURGICAL ITEMS FOR PRIME MINISTER SEHAT SAHULAT PROGRAM (PMSSP).",
+    "Emergency Works"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 45,
+   "fetched": 43,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Solid Waste Management Services for Bagh City",
-    "Procurement & Supply of Winter Uniforms/ Liveries for Non-Clerical Staff",
-    "Procurement of Vehicle",
-    "Construction of Multi Span Culvert Link Road Machia (LA-7) Tehsil & District Bhimber"
+    "Tender Services (Welfare Petrol Pump)",
+    "Procurement of Lab Equipment",
+    "Electrification of Remaining Areas in District Haveli Kahuta",
+    "Hiring of Solid Waste Management Services for Bagh City"
    ]
   },
   "ted": {
@@ -140,34 +140,35 @@
    ]
   },
   "pitb": {
-   "status": "error",
-   "message": "HTTP 404 from https://pitb.gov.pk/tendernotices",
-   "fetched": 0,
+   "status": "ok",
+   "message": "",
+   "fetched": 29,
    "relevant": 0,
-   "sample_titles": []
+   "sample_titles": [
+    "PROCUREMENT OF TABLETS & IT HARDWARE FOR RESOURCE CENTER AND TRAINING SYSTEM FOR PARLIAMENTARIANS IN",
+    "PROCUREMENT OF SAN STORAGE & SWITCHES FOR CFSC PROJECT (EGOV - 23)",
+    "EXPRESSION OF INTEREST - HIRING OF TRAINING PARTNERS FOR THE TRAINING PROGRAMME TITLED “ADVANCED BOO",
+    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP – "
+   ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2142,
+   "fetched": 2145,
    "relevant": 1,
    "sample_titles": [
-    "Tender Notice for Procurement of Supply of Uniforms in Respect of RTO, Multan",
-    "Request for Proposals - Hiring of Chartered Accountant Firms for Third-Party Comprehensive Audit of ",
+    "Procurement of Security Services for the National Faceless Centre",
     "Standard Bidding Document",
-    "Corrigendum No. 1"
+    "Tender Notice for Pre-Qualification for Repair of Furniture, I.T Equipment, Hardware and Machinery E",
+    "Tender Notice for Procurement of Supply of Uniforms in Respect of RTO, Multan"
    ]
   },
   "news": {
-   "status": "ok",
-   "message": "",
-   "fetched": 3,
+   "status": "experimental",
+   "message": "no records parsed yet; run in discover mode and share the snapshot",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Crypto exchanges call for quick moves to bolster defences after Binance heist",
-    "Pakistan explores tokenisation of existing Eurobond debt, says Aurangzeb",
-    "CDWP approves 10 projects worth Rs40.9b"
-   ]
+   "sample_titles": []
   },
   "moitt": {
    "status": "ok",
