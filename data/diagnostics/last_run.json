@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-03T15:55+05:00",
+ "run_at": "2026-11-05T15:59+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
-    "Procurement of Consulting firm for preparation of “Basic Schedule of Rates (BSR) 2023” and “Composit",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Swat (Package 9) Phase-II",
-    "Supply and Installation of Specialized Museum Showcases at Peshawar Museum",
-    "Hiring of Gender Based Violence (GBV) Firm (Phase-II)"
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 1) Phase",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 5) Phase",
+    "Procurement of LED TVs and Wireless Walkie Talkie Sets",
+    "Procurement of furniture, fixture along with glass partitions for PIU Consultants/ staff"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1900,
-   "relevant": 9,
+   "fetched": 2031,
+   "relevant": 7,
    "sample_titles": [
-    "Engrs, Sig, Armt, Tank Spares, GS&C, Medicine, Med, Med Disposable and Lab Kit & Implant",
-    "Procurement of LED Street lights and ceiling lights, Three phase motor for water feed pump & spares ",
-    "BRANDING RIGHTS AT PAKISTAN RAILWAY STATIONS",
-    "Purchase of different medical equipments"
+    "Construction of Jamia Masjid Noor at plot No. B-12, Boat Building Yard West Wharf, Karachi",
+    "Vertical Scrubbers",
+    "Metallic Blast Clearing Abrasives",
+    "Indigenous Development of Non-Critical Aviation Spares (Batch-V) Spares-30 (Qty 2 x Each=60)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 108,
+   "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "DETAILED DESIGNING AND CONSTRUCTION SUPERVISION OF “TRANSNATIONAL THREAT ELIMINATION TRA...",
-    "HIRING OF FIRM FOR DATA VALIDATION, MODELING AND DESIGNING OF MITIGATION STRATEGY AGAINST ...",
-    "APPOINTMENT OF AUDIT/TECHNICAL FIRM FOR CARRYING OUT RETAINAGE AUDIT OF PGPCL LNG TERMINAL...",
-    "CONSULTANCY SERVICES FOR INTERIOR DESIGN, SERVICES DESIGN AND SUPERVISION SERVICES FOR OFF..."
+    "Junior Corporate Legal Consultant",
+    "Senior Corporate Legal Consultant",
+    "Hiring of Communication & Media Firm",
+    "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat..."
    ]
   },
   "epads_kp": {
@@ -48,12 +48,12 @@
    "status": "ok",
    "message": "",
    "fetched": 500,
-   "relevant": 5,
+   "relevant": 3,
    "sample_titles": [
-    "Ministry of Planning, Development & Special Initiatives Acquisition of Secondary Internet Link Deplo",
-    "Ministry of Planning, Development & Special Initiatives HIRING OF VEHICLES SERVICES ON RENTAL BASIS ",
-    "Ministry of Communications Tender for Prequalification (Open Frame Work Agreement) of Automobile Wor",
-    "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requ"
+    "Pakistan Security Printing Corporaion (PSPC) T-4216/26/MK M/s. Naveed Chemicals Plot # St-2/8 Sec 16",
+    "Pakistan Post Office Auction of unserviceable Vehicles and motorbikes Mr. Mudasir Khan 2. Mr. Ajmad.",
+    "Ministry of Energy (Power Division) (29/27) D-SHACKLE ASSEMBLY M/s SIS Electric Works Private Limite",
+    "Ministry of Energy (Power Division) (28/27) STEEL PINS FOR STEEL CROSS ARMS M/s SIS Electric Works P"
    ]
   },
   "punjab_eproc": {
@@ -90,22 +90,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Printing of Question Papers and Answer Scripts for upcoming examinations, including all related prin",
-    "Hiring of International/National Carbon Market Consultant/Firm for Development, Registration, Valida",
-    "LOCAL PURCHASE OF MEDICINE AND SURGICAL ITEMS FOR PRIME MINISTER SEHAT SAHULAT PROGRAM (PMSSP).",
-    "Emergency Works"
+    "Construction/ Rehabilitation of Mirmalik Irrigation Channel District Astore",
+    "FEASIBILITY STUDY FOR 1.5 MW HYDROPOWER PROJECT (HPP) NILIT & 1.5 MW HYDROPOWER PROJECT (HPP) CHAPRO",
+    "Procurement of Goods and Services",
+    "Fabrication of Ambulance District Health Office Hunza"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 43,
+   "fetched": 41,
    "relevant": 0,
    "sample_titles": [
-    "Tender Services (Welfare Petrol Pump)",
-    "Procurement of Lab Equipment",
-    "Electrification of Remaining Areas in District Haveli Kahuta",
-    "Hiring of Solid Waste Management Services for Bagh City"
+    "Procurement of Miscellaneous Items (6)",
+    "Supply, Installation, Testing and Commissioning of IT Equipment, CCTV Cameras, Sound Systems and Net",
+    "Outsourcing of Solid Waste Management Services (Alongwith available resources) of Municipal Corporat",
+    "Purchase of Miscellaneous Items (Cardiac Hospital Muzaffarabad) (11)"
    ]
   },
   "ted": {
@@ -120,7 +120,7 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 6,
+   "fetched": 5,
    "relevant": 0,
    "sample_titles": [
     "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
@@ -142,13 +142,13 @@
   "pitb": {
    "status": "ok",
    "message": "",
-   "fetched": 29,
+   "fetched": 30,
    "relevant": 0,
    "sample_titles": [
-    "PROCUREMENT OF TABLETS & IT HARDWARE FOR RESOURCE CENTER AND TRAINING SYSTEM FOR PARLIAMENTARIANS IN",
-    "PROCUREMENT OF SAN STORAGE & SWITCHES FOR CFSC PROJECT (EGOV - 23)",
+    "PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER GLOBAL IT PRO",
     "EXPRESSION OF INTEREST - HIRING OF TRAINING PARTNERS FOR THE TRAINING PROGRAMME TITLED “ADVANCED BOO",
-    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP – "
+    "PROCUREMENT OF TABLETS & IT HARDWARE FOR RESOURCE CENTER AND TRAINING SYSTEM FOR PARLIAMENTARIANS IN",
+    "PROCUREMENT OF SAN STORAGE & SWITCHES FOR CFSC PROJECT (EGOV - 23)"
    ]
   },
   "fbr": {
@@ -164,23 +164,22 @@
    ]
   },
   "news": {
-   "status": "experimental",
-   "message": "no records parsed yet; run in discover mode and share the snapshot",
+   "status": "ok",
+   "message": "",
+   "fetched": 3,
+   "relevant": 1,
+   "sample_titles": [
+    "Republicans call for Trump to change course after midterm drubbing",
+    "AI, Gulf policy shifts threaten migrant jobs",
+    "'Climate finance must go beyond green investment'"
+   ]
+  },
+  "moitt": {
+   "status": "error",
+   "message": "network: SSLError",
    "fetched": 0,
    "relevant": 0,
    "sample_titles": []
-  },
-  "moitt": {
-   "status": "ok",
-   "message": "",
-   "fetched": 23,
-   "relevant": 0,
-   "sample_titles": [
-    "Invitation for Bids-Provision of Rental Vehicles Services(DEEP)",
-    "Request for Quotation (RFQ)-DEEP",
-    "Request for Quotation (RFQ) Hardwares and Softwares",
-    "Procurement of Hardware Under the Project NAAI"
-   ]
   },
   "navttc": {
    "status": "ok",
