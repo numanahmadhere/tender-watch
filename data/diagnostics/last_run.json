@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-05T15:59+05:00",
+ "run_at": "2026-11-06T15:56+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,22 +7,22 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 1) Phase",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 5) Phase",
-    "Procurement of LED TVs and Wireless Walkie Talkie Sets",
-    "Procurement of furniture, fixture along with glass partitions for PIU Consultants/ staff"
+    "Hiring of IT Firm for the Development and Integration of Digital Fund Utilization Tracking Module fo",
+    "Procurement of Identity Verification/ Biometric Devices",
+    "Procurement of Identity Verification/ Biometric Devices",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Dir lower (Package 4) Phase-"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2031,
-   "relevant": 7,
+   "fetched": 2003,
+   "relevant": 6,
    "sample_titles": [
-    "Construction of Jamia Masjid Noor at plot No. B-12, Boat Building Yard West Wharf, Karachi",
-    "Vertical Scrubbers",
-    "Metallic Blast Clearing Abrasives",
-    "Indigenous Development of Non-Critical Aviation Spares (Batch-V) Spares-30 (Qty 2 x Each=60)"
+    "Engr store, Sig Eqpt, GS&C, POL, Medicine, Medical, Med Disposable, Lab Kit & Implants",
+    "Tank Spares, Medicine, Med, Medical Disposable Items & Lab Kit & Implant",
+    "MT, AVN, FCI, Tank Spares, GS&C, Ration, POL, Medicine, & Med Disposable Items",
+    "MT, Avn, Sig, Engrs, Tank Spares, GS&C, Medicine, Med, Med Disposable items & Lab Kit & Implant"
    ]
   },
   "epads_federal": {
@@ -31,18 +31,20 @@
    "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "Junior Corporate Legal Consultant",
-    "Senior Corporate Legal Consultant",
     "Hiring of Communication & Media Firm",
+    "HIRING OF A THIRD-PARTY FIRM FOR IMPACT ASSESSMENT OF FOODAG PAKISTAN 2026",
+    "Hiring of Cyber Security Consultant",
     "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat..."
    ]
   },
   "epads_kp": {
-   "status": "error",
-   "message": "parser: 0 opportunities parsed from page 1; the table layout may have changed",
-   "fetched": 0,
+   "status": "ok",
+   "message": "",
+   "fetched": 1,
    "relevant": 0,
-   "sample_titles": []
+   "sample_titles": [
+    "Testing of Goods SS1E"
+   ]
   },
   "epms_awards": {
    "status": "ok",
@@ -90,22 +92,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Construction/ Rehabilitation of Mirmalik Irrigation Channel District Astore",
-    "FEASIBILITY STUDY FOR 1.5 MW HYDROPOWER PROJECT (HPP) NILIT & 1.5 MW HYDROPOWER PROJECT (HPP) CHAPRO",
-    "Procurement of Goods and Services",
-    "Fabrication of Ambulance District Health Office Hunza"
+    "Social Health Protection Phase-II (OPD Health Insurance Sheme)",
+    "Supply and Installation of 08Nos of Solar Pumping System in various Districts of GB",
+    "Procurement of Round the Clock (24/7) Janitorial and Cleaning Services for Government Hospitals",
+    "Construction/ Rehabilitation of Mirmalik Irrigation Channel District Astore"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 41,
+   "fetched": 35,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Miscellaneous Items (6)",
-    "Supply, Installation, Testing and Commissioning of IT Equipment, CCTV Cameras, Sound Systems and Net",
-    "Outsourcing of Solid Waste Management Services (Alongwith available resources) of Municipal Corporat",
-    "Purchase of Miscellaneous Items (Cardiac Hospital Muzaffarabad) (11)"
+    "Construction of Government Boys Inter College Nagdar District Neelum",
+    "Procurement of Dental materials/ medicines, general medicines & electro medical equipment (Jinanah D",
+    "Tender Notice for Services (8)",
+    "Feasibility Study & Design of By-Passes of Towers Located along Major Roads in AJ&K"
    ]
   },
   "ted": {
@@ -154,24 +156,22 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2145,
+   "fetched": 2148,
    "relevant": 1,
    "sample_titles": [
-    "Procurement of Security Services for the National Faceless Centre",
+    "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light",
     "Standard Bidding Document",
-    "Tender Notice for Pre-Qualification for Repair of Furniture, I.T Equipment, Hardware and Machinery E",
-    "Tender Notice for Procurement of Supply of Uniforms in Respect of RTO, Multan"
+    "Procurement of Security Services for the National Faceless Centre",
+    "Standard Bidding Document"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
-   "relevant": 1,
+   "fetched": 1,
+   "relevant": 0,
    "sample_titles": [
-    "Republicans call for Trump to change course after midterm drubbing",
-    "AI, Gulf policy shifts threaten migrant jobs",
-    "'Climate finance must go beyond green investment'"
+    "U.S. Chargé d’Affaires Marks Multimillion-Dollar Cisco Network Deployment at State Bank of Pakistan"
    ]
   },
   "moitt": {
