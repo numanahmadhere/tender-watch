@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-06T15:56+05:00",
+ "run_at": "2026-11-07T15:15+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
+    "Hiring of Consultant Firm for the Establishment of Digital Content HUB",
+    "Hiring of Consultancy Firm to Conduct an Independent Technical Review of Newly Developed Curriculum",
     "Hiring of IT Firm for the Development and Integration of Digital Fund Utilization Tracking Module fo",
-    "Procurement of Identity Verification/ Biometric Devices",
-    "Procurement of Identity Verification/ Biometric Devices",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Dir lower (Package 4) Phase-"
+    "Procurement of Identity Verification/ Biometric Devices"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2003,
-   "relevant": 6,
+   "fetched": 1949,
+   "relevant": 5,
    "sample_titles": [
-    "Engr store, Sig Eqpt, GS&C, POL, Medicine, Medical, Med Disposable, Lab Kit & Implants",
-    "Tank Spares, Medicine, Med, Medical Disposable Items & Lab Kit & Implant",
-    "MT, AVN, FCI, Tank Spares, GS&C, Ration, POL, Medicine, & Med Disposable Items",
-    "MT, Avn, Sig, Engrs, Tank Spares, GS&C, Medicine, Med, Med Disposable items & Lab Kit & Implant"
+    "Procurement of Equipment",
+    "Procurement of One (01) CBU 150 KVA Diesel Generator set (DG Set) with Build-in Fuel Tank and Outsid",
+    "Invitation for Electronics Bids for Pre-Qualification, PTV HQ Islamabad",
+    "PURCHASE OF WHEELCHAIRS FOR NADRA HQs & RHOs"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 100,
+   "fetched": 110,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Communication & Media Firm",
+    "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat...",
     "HIRING OF A THIRD-PARTY FIRM FOR IMPACT ASSESSMENT OF FOODAG PAKISTAN 2026",
     "Hiring of Cyber Security Consultant",
-    "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat..."
+    "Hiring of Communication & Media Firm"
    ]
   },
   "epads_kp": {
@@ -111,18 +111,16 @@
    ]
   },
   "ted": {
-   "status": "ok",
-   "message": "",
-   "fetched": 1,
+   "status": "experimental",
+   "message": "no records parsed yet; run in discover mode and share the snapshot",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Pakistan – Energy and related services – Technical Assistance for Post-Floods Rural Economic Recover"
-   ]
+   "sample_titles": []
   },
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 5,
+   "fetched": 4,
    "relevant": 0,
    "sample_titles": [
     "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
@@ -156,13 +154,13 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2148,
+   "fetched": 2149,
    "relevant": 1,
    "sample_titles": [
     "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light",
     "Standard Bidding Document",
-    "Procurement of Security Services for the National Faceless Centre",
-    "Standard Bidding Document"
+    "Tender Notice for Procurement of Supply of Uniforms for Regional Tax Office Multan",
+    "Procurement of Security Services for the National Faceless Centre"
    ]
   },
   "news": {
@@ -171,7 +169,7 @@
    "fetched": 1,
    "relevant": 0,
    "sample_titles": [
-    "U.S. Chargé d’Affaires Marks Multimillion-Dollar Cisco Network Deployment at State Bank of Pakistan"
+    "LPG availability, fair pricing among govt priorities, says petroleum minister"
    ]
   },
   "moitt": {
