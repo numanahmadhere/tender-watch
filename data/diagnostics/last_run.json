@@ -1,40 +1,40 @@
 {
- "run_at": "2026-11-07T15:15+05:00",
+ "run_at": "2026-11-08T15:26+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
    "message": "",
    "fetched": 300,
-   "relevant": 1,
+   "relevant": 2,
    "sample_titles": [
-    "Hiring of Consultant Firm for the Establishment of Digital Content HUB",
-    "Hiring of Consultancy Firm to Conduct an Independent Technical Review of Newly Developed Curriculum",
-    "Hiring of IT Firm for the Development and Integration of Digital Fund Utilization Tracking Module fo",
-    "Procurement of Identity Verification/ Biometric Devices"
+    "Procurement of Tablets for AMIS",
+    "Flow Measurement Specialist",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 1) Phase",
+    "Hiring of Individual consultant (advisor to Project Director SWAT) on Operation"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1949,
+   "fetched": 1871,
    "relevant": 5,
    "sample_titles": [
-    "Procurement of Equipment",
-    "Procurement of One (01) CBU 150 KVA Diesel Generator set (DG Set) with Build-in Fuel Tank and Outsid",
-    "Invitation for Electronics Bids for Pre-Qualification, PTV HQ Islamabad",
-    "PURCHASE OF WHEELCHAIRS FOR NADRA HQs & RHOs"
+    "HIRING OF TECHNICAL SERVICES UNDER OPEN FRAMEWORK AGREEMENTS FOR POWER INFRASTRUCTURE PROJECTS",
+    "HIRING OF TECHNICAL SERVICES UNDER OPEN FRAMEWORK AGREEMENTS FOR POWER INFRASTRUCTURE PROJECTS",
+    "Provn of office/unit fur against newly const of 4 x E type Flats at Zhob Cantt, 6 x D type flats at ",
+    "Arrangements for the Passing Out Parade of the 63rd Batch of PMA Cadets"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 110,
+   "fetched": 111,
    "relevant": 0,
    "sample_titles": [
     "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat...",
-    "HIRING OF A THIRD-PARTY FIRM FOR IMPACT ASSESSMENT OF FOODAG PAKISTAN 2026",
     "Hiring of Cyber Security Consultant",
-    "Hiring of Communication & Media Firm"
+    "Hiring of Communication & Media Firm",
+    "HIRING OF A THIRD-PARTY FIRM FOR IMPACT ASSESSMENT OF FOODAG PAKISTAN 2026"
    ]
   },
   "epads_kp": {
@@ -101,7 +101,7 @@
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 35,
+   "fetched": 34,
    "relevant": 0,
    "sample_titles": [
     "Construction of Government Boys Inter College Nagdar District Neelum",
