@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-08T15:26+05:00",
+ "run_at": "2026-11-09T16:37+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of Tablets for AMIS",
-    "Flow Measurement Specialist",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 1) Phase",
-    "Hiring of Individual consultant (advisor to Project Director SWAT) on Operation"
+    "Procurement of ECE-TLM for ECE Classrooms under STEP-B.",
+    "Procurement of School Furniture for ECE Classrooms under STEP-B.",
+    "Consultancy services for the Akram Wah Social Management and Resettlement Plan (SMRP).",
+    "Hiring of INDIVIDUAL CONSULTANT WATER RESOURCE EXPERT to implement the modernization concept and int"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1871,
+   "fetched": 1777,
    "relevant": 5,
    "sample_titles": [
-    "HIRING OF TECHNICAL SERVICES UNDER OPEN FRAMEWORK AGREEMENTS FOR POWER INFRASTRUCTURE PROJECTS",
-    "HIRING OF TECHNICAL SERVICES UNDER OPEN FRAMEWORK AGREEMENTS FOR POWER INFRASTRUCTURE PROJECTS",
-    "Provn of office/unit fur against newly const of 4 x E type Flats at Zhob Cantt, 6 x D type flats at ",
-    "Arrangements for the Passing Out Parade of the 63rd Batch of PMA Cadets"
+    "Pre-qualification for Transportation Services across Pakistan",
+    "Auction of tenancy Rights of CB Medical Centre Building (Specified Portion), Iqbal Park Colony, Nows",
+    "Auction of Tenancy Rights of Cantt Fund Properties",
+    "Procurement of Color Printer (TU-5142-2026)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 111,
+   "fetched": 106,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Individual Engineering Consultant for Design, Cost Estimation, Tender Documentat...",
-    "Hiring of Cyber Security Consultant",
-    "Hiring of Communication & Media Firm",
-    "HIRING OF A THIRD-PARTY FIRM FOR IMPACT ASSESSMENT OF FOODAG PAKISTAN 2026"
+    "Procurement of Consultancy Services (MPD&SI) Pre-Qualified Firms for Third-Party Validatio...",
+    "Hiring of Individual / Consultant for Agro Food Products at TDAP",
+    "REQUEST FOR FINANCIAL PROPOSAL FROM THE PRE-QUALIFIED CONSULTING FIRMS FOR UNDERTAKING THI...",
+    "Appointment of Transaction Advisor for the Proposed Joint Venture at Mouza Charahan, Angor..."
    ]
   },
   "epads_kp": {
@@ -166,10 +166,11 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "LPG availability, fair pricing among govt priorities, says petroleum minister"
+    "LPG availability, fair pricing among govt priorities, says petroleum minister",
+    "Greece recovers 12 dead migrants from boat off of Crete, coast guard says"
    ]
   },
   "moitt": {
