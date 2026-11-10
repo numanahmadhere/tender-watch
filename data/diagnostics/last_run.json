@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-09T16:37+05:00",
+ "run_at": "2026-11-10T16:15+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,25 +16,25 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1777,
+   "fetched": 1782,
    "relevant": 5,
    "sample_titles": [
-    "Pre-qualification for Transportation Services across Pakistan",
-    "Auction of tenancy Rights of CB Medical Centre Building (Specified Portion), Iqbal Park Colony, Nows",
-    "Auction of Tenancy Rights of Cantt Fund Properties",
-    "Procurement of Color Printer (TU-5142-2026)"
+    "CONSULTANCY SERVICES FOR INTEGRATED NATIONAL URBAN REGENERATION IN ISLAMABAD AND OTHER MAJOR CITIES ",
+    "MT, Avn, Sig, Tank Spares, Medicine, Med Disposable Items",
+    "Procurement of Cutting Disc and Purified & Bleached 2nd Cut Cotton Linter",
+    "Directorate of Procurement (Air)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 106,
+   "fetched": 101,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Consultancy Services (MPD&SI) Pre-Qualified Firms for Third-Party Validatio...",
-    "Hiring of Individual / Consultant for Agro Food Products at TDAP",
-    "REQUEST FOR FINANCIAL PROPOSAL FROM THE PRE-QUALIFIED CONSULTING FIRMS FOR UNDERTAKING THI...",
-    "Appointment of Transaction Advisor for the Proposed Joint Venture at Mouza Charahan, Angor..."
+    "Hiring The Services of Tax Consultant (For One Year)",
+    "Hiring of Individual / Consultant for GSP Matter & Trade Facilitation",
+    "HIRING OF CONSULTANT FOR ESTABLISHMENT OF NATIONAL DAY CARE FUND AND ITS FRAMEWORK",
+    "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve..."
    ]
   },
   "epads_kp": {
@@ -50,12 +50,12 @@
    "status": "ok",
    "message": "",
    "fetched": 500,
-   "relevant": 3,
+   "relevant": 5,
    "sample_titles": [
+    "National Bank of Pakistan (NBP) Procurement of Services for provision of Human Resource at NBP Call ",
     "Pakistan Security Printing Corporaion (PSPC) T-4216/26/MK M/s. Naveed Chemicals Plot # St-2/8 Sec 16",
     "Pakistan Post Office Auction of unserviceable Vehicles and motorbikes Mr. Mudasir Khan 2. Mr. Ajmad.",
-    "Ministry of Energy (Power Division) (29/27) D-SHACKLE ASSEMBLY M/s SIS Electric Works Private Limite",
-    "Ministry of Energy (Power Division) (28/27) STEEL PINS FOR STEEL CROSS ARMS M/s SIS Electric Works P"
+    "Ministry of Energy (Power Division) (29/27) D-SHACKLE ASSEMBLY M/s SIS Electric Works Private Limite"
    ]
   },
   "punjab_eproc": {
@@ -92,10 +92,10 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "Extension of road from Phuruchi Sherqillah",
     "Social Health Protection Phase-II (OPD Health Insurance Sheme)",
     "Supply and Installation of 08Nos of Solar Pumping System in various Districts of GB",
-    "Procurement of Round the Clock (24/7) Janitorial and Cleaning Services for Government Hospitals",
-    "Construction/ Rehabilitation of Mirmalik Irrigation Channel District Astore"
+    "Procurement of Round the Clock (24/7) Janitorial and Cleaning Services for Government Hospitals"
    ]
   },
   "ajk_ppra": {
@@ -104,10 +104,10 @@
    "fetched": 34,
    "relevant": 0,
    "sample_titles": [
+    "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap",
     "Construction of Government Boys Inter College Nagdar District Neelum",
     "Procurement of Dental materials/ medicines, general medicines & electro medical equipment (Jinanah D",
-    "Tender Notice for Services (8)",
-    "Feasibility Study & Design of By-Passes of Towers Located along Major Roads in AJ&K"
+    "Tender Notice for Services (8)"
    ]
   },
   "ted": {
@@ -120,13 +120,12 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 4,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
     "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
     "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
-    "NAO Case Management Solution for Financial Audits",
-    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P"
+    "NAO Case Management Solution for Financial Audits"
    ]
   },
   "wb_pipeline": {
@@ -154,7 +153,7 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2149,
+   "fetched": 2150,
    "relevant": 1,
    "sample_titles": [
     "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light",
@@ -170,7 +169,7 @@
    "relevant": 0,
    "sample_titles": [
     "LPG availability, fair pricing among govt priorities, says petroleum minister",
-    "Greece recovers 12 dead migrants from boat off of Crete, coast guard says"
+    "ASEAN countries need up to $7.1 trillion for infrastructure but face funding gap, ADB says"
    ]
   },
   "moitt": {
