@@ -108,7 +108,7 @@
    "deadline": "2026-11-12T11:00",
    "first": "2026-10-25",
    "fp": "9e8a45250b05",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "Procurement of IT Equipment for BS Robotics and AI - Computer Systems"
   },
@@ -116,7 +116,7 @@
    "deadline": "2026-11-13T11:00",
    "first": "2026-10-27",
    "fp": "219e9b17eea8",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "RFP-NOR-IT-39-2026 Procurement of Consultancy Services for Vulnerability Assessment and Penetration Testing (VAPT) for Network Infrastructure and Web Applications of National Grid Company"
   },
@@ -124,7 +124,7 @@
    "deadline": "2026-11-12T10:30",
    "first": "2026-10-28",
    "fp": "cd10d4254ae1",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "ACs & Networking Equipment for AI Computer Lab (MG-03), Shared Block, IIUI"
   },
@@ -132,7 +132,7 @@
    "deadline": "2026-11-11T11:00",
    "first": "2026-10-30",
    "fp": "cd3cefe4567c",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "HIRING OF DATA ENTRY OPERATORS FOR ERP OPERATIONS AT PRCL KARACHI."
   },
@@ -148,7 +148,7 @@
    "deadline": "2026-11-16T11:00",
    "first": "2026-11-02",
    "fp": "f76400e40da1",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "Tender for Digital Transformation and Integrated Enterprise Resource Planning (ERP) System in Pakistan Civil Aviation Authority (PCAA)"
   },
@@ -276,7 +276,7 @@
    "deadline": "",
    "first": "2026-11-03",
    "fp": "8b7661d39582",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "TENDER NO. P-76/2026 PROVISION OF NPU-BASED INFRASTRUCTURE AS A SERVICE (IAAS) FOR ENTERPRISE AI USE CASES"
   },
@@ -284,9 +284,17 @@
    "deadline": "",
    "first": "2026-11-10",
    "fp": "cc1e3704d1d6",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "Hiring of Services for Record Digitization, Archiving & Intelligent Record Retrieval"
+  },
+  "epms_awards:EVL00000005016": {
+   "deadline": "",
+   "first": "2026-11-11",
+   "fp": "2023cbdf162f",
+   "last": "2026-11-11",
+   "status": "",
+   "title": "Procurement of GPU Services (IaaS) & AI / ML Model Hosting Services for NTC"
   },
   "epms_awards:PCN-3904322272": {
    "deadline": "",
@@ -300,7 +308,7 @@
    "deadline": "",
    "first": "2026-11-10",
    "fp": "5507ff03902d",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "Sui Northern Gas Pipelines Limited (SNGPL) PHOTOCOPY MACHINE M/s. Office Group AUtomation, Lahore Lahore"
   },
@@ -316,7 +324,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "d930550405b2",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "TORs - Junior Associate HR Data Analytics"
   },
@@ -324,7 +332,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "20b06d0ef4d5",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "Extension ERP End2 End Turnkey"
   },
@@ -332,7 +340,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "56ae01358a2e",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "Re Firms AI Driven Trg Grad Mphil Phd Csit"
   },
@@ -340,7 +348,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "a1240c8002b4",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "",
    "title": "Final Evaluationreportof IT Consultancy Firm"
   },
@@ -404,7 +412,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "281f12d1a63e",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk and Assets Management Lot-3: Email Services"
   },
@@ -420,7 +428,7 @@
    "deadline": "2026-11-19",
    "first": "2026-11-08",
    "fp": "ef23d3de8b60",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "Published",
    "title": "Sediment Specialist"
   }

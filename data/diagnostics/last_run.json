@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-10T16:15+05:00",
+ "run_at": "2026-11-11T16:00+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,24 +16,24 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1782,
+   "fetched": 1843,
    "relevant": 5,
    "sample_titles": [
-    "CONSULTANCY SERVICES FOR INTEGRATED NATIONAL URBAN REGENERATION IN ISLAMABAD AND OTHER MAJOR CITIES ",
-    "MT, Avn, Sig, Tank Spares, Medicine, Med Disposable Items",
-    "Procurement of Cutting Disc and Purified & Bleached 2nd Cut Cotton Linter",
-    "Directorate of Procurement (Air)"
+    "Services Required of Freight Forwarder",
+    "Overall Blue 100% Cotton",
+    "Repair / Maint of Certain Facilities of PAF \"MM\"",
+    "Invitation to Bid for provision of construction of Record room, Removal of abondoned HVAC duct and c"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 101,
+   "fetched": 104,
    "relevant": 0,
    "sample_titles": [
-    "Hiring The Services of Tax Consultant (For One Year)",
     "Hiring of Individual / Consultant for GSP Matter & Trade Facilitation",
     "HIRING OF CONSULTANT FOR ESTABLISHMENT OF NATIONAL DAY CARE FUND AND ITS FRAMEWORK",
+    "Supply of Bitumen / Asphalt Grade 80/100 (NRL) Approximate weight/210 KG/Drum for use in r...",
     "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve..."
    ]
   },
@@ -49,13 +49,13 @@
   "epms_awards": {
    "status": "ok",
    "message": "",
-   "fetched": 500,
-   "relevant": 5,
+   "fetched": 499,
+   "relevant": 4,
    "sample_titles": [
-    "National Bank of Pakistan (NBP) Procurement of Services for provision of Human Resource at NBP Call ",
-    "Pakistan Security Printing Corporaion (PSPC) T-4216/26/MK M/s. Naveed Chemicals Plot # St-2/8 Sec 16",
-    "Pakistan Post Office Auction of unserviceable Vehicles and motorbikes Mr. Mudasir Khan 2. Mr. Ajmad.",
-    "Ministry of Energy (Power Division) (29/27) D-SHACKLE ASSEMBLY M/s SIS Electric Works Private Limite"
+    "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
+    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20",
+    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20",
+    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20"
    ]
   },
   "punjab_eproc": {
@@ -92,16 +92,16 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Extension of road from Phuruchi Sherqillah",
-    "Social Health Protection Phase-II (OPD Health Insurance Sheme)",
-    "Supply and Installation of 08Nos of Solar Pumping System in various Districts of GB",
-    "Procurement of Round the Clock (24/7) Janitorial and Cleaning Services for Government Hospitals"
+    "Re Construction of Damaged Water Channel Murtaza abad District",
+    "(Printing and Publication) of Question Papers and Answer Scripts for upcoming examinations, includin",
+    "scheduled Banks functioning in Gilgit-Baltistan, including KCBL for investment of 200 million Endowm",
+    "IMPROVEMENT / CONSTRUCTION OF ROAD THOWAR TO LASHITHANG & BAGHICHA TO KHOMRAH ROUNDU (PORTION-III)"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 34,
+   "fetched": 32,
    "relevant": 0,
    "sample_titles": [
     "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap",
@@ -120,12 +120,10 @@
   "contracts_finder": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
+   "fetched": 1,
    "relevant": 0,
    "sample_titles": [
-    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi",
-    "Institutional Strengthening and Capability Development Plan for Disaster Risk Management in Khyber P",
-    "NAO Case Management Solution for Financial Audits"
+    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi"
    ]
   },
   "wb_pipeline": {
@@ -153,23 +151,25 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2150,
+   "fetched": 2152,
    "relevant": 1,
    "sample_titles": [
+    "Tender Notice for Repair/Replacement of an entire sewerage/water supply (both internal and external)",
+    "Tender Notice for \"Procurement of Office Stationery for Financial Year 2026-27 at Collectorate of Cu",
     "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light",
-    "Standard Bidding Document",
-    "Tender Notice for Procurement of Supply of Uniforms for Regional Tax Office Multan",
-    "Procurement of Security Services for the National Faceless Centre"
+    "Standard Bidding Document"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
+   "fetched": 5,
    "relevant": 0,
    "sample_titles": [
-    "LPG availability, fair pricing among govt priorities, says petroleum minister",
-    "ASEAN countries need up to $7.1 trillion for infrastructure but face funding gap, ADB says"
+    "Pakistan Secures $500 Million ADB Funding to Tackle Natural Disasters",
+    "TotalEnergies Wins Two Pakistan LNG Cargoes, Beats QatarEnergy",
+    "Millers demand market-driven wheat policy, targeted subsidy",
+    "Chinese university bought Nvidia H200 chips despite US blacklist"
    ]
   },
   "moitt": {
