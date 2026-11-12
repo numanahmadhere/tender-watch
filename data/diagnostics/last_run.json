@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-11T16:00+05:00",
+ "run_at": "2026-11-12T16:16+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of ECE-TLM for ECE Classrooms under STEP-B.",
-    "Procurement of School Furniture for ECE Classrooms under STEP-B.",
-    "Consultancy services for the Akram Wah Social Management and Resettlement Plan (SMRP).",
-    "Hiring of INDIVIDUAL CONSULTANT WATER RESOURCE EXPERT to implement the modernization concept and int"
+    "Procurement of Load Balancer/WAF, Offline Backup Solution, and Existing HCI Warranty & Support Renew",
+    "Construction of Gauge Wells at Kotri Barrage",
+    "Procurement of Catering Services for Training Programs of GTs, SCs, and STs in 232 Clusters",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 2) Phase"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1843,
+   "fetched": 1925,
    "relevant": 5,
    "sample_titles": [
-    "Services Required of Freight Forwarder",
-    "Overall Blue 100% Cotton",
-    "Repair / Maint of Certain Facilities of PAF \"MM\"",
-    "Invitation to Bid for provision of construction of Record room, Removal of abondoned HVAC duct and c"
+    "Procurement of 100 x Bullet Proof Inflatable Floattion Vests (IFVs) after successful tests/trials",
+    "Multiple Tenders for Procurement of Goods & Services",
+    "Fish Plate (Insulated joint) made of Impregnated etc",
+    "NIV DRESSING (24x Items)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 104,
+   "fetched": 105,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Individual / Consultant for GSP Matter & Trade Facilitation",
     "HIRING OF CONSULTANT FOR ESTABLISHMENT OF NATIONAL DAY CARE FUND AND ITS FRAMEWORK",
     "Supply of Bitumen / Asphalt Grade 80/100 (NRL) Approximate weight/210 KG/Drum for use in r...",
-    "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve..."
+    "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve...",
+    "D(P)-EHV-II-NGC-HYD-03-2026"
    ]
   },
   "epads_kp": {
@@ -53,9 +53,9 @@
    "relevant": 4,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
-    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20",
-    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20",
-    "Pakistan Rangers (Punjab) BULK PURCHASE OF MEDICINE AND LABORATORY KITS / ITEMS FOR THE FY 2026 - 20"
+    "Pakistan Security Printing Corporaion (PSPC) T-4198/26/MK M/s. Khan Enterprises D6/4 Suit # 303 3rd ",
+    "Pakistan Security Printing Corporaion (PSPC) LP/T-4202/26/AA Procurement of Two Side White Coated Co",
+    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SAFETY SHOES Atlas Industrial Supplies (Pvt) "
    ]
   },
   "punjab_eproc": {
@@ -92,16 +92,16 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Re Construction of Damaged Water Channel Murtaza abad District",
-    "(Printing and Publication) of Question Papers and Answer Scripts for upcoming examinations, includin",
-    "scheduled Banks functioning in Gilgit-Baltistan, including KCBL for investment of 200 million Endowm",
-    "IMPROVEMENT / CONSTRUCTION OF ROAD THOWAR TO LASHITHANG & BAGHICHA TO KHOMRAH ROUNDU (PORTION-III)"
+    "Establishment of Pakistan Asaan Khidmat Centre (PAKC), Gilgit-Baltistan (Gilgit Centre)",
+    "Purchasing of missing facilities in PEADS Section of PHQ Hospital Gilgit",
+    "Purchase OF BIOMEDICAL EQUIPMENT-PURCHASE OF ETT MACHINE",
+    "Printing of Question Papers and Answer Scripts for upcoming examinations, including all related prin"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 32,
+   "fetched": 28,
    "relevant": 0,
    "sample_titles": [
     "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap",
@@ -137,39 +137,32 @@
    ]
   },
   "pitb": {
-   "status": "ok",
-   "message": "",
-   "fetched": 30,
+   "status": "error",
+   "message": "network: SSLError",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER GLOBAL IT PRO",
-    "EXPRESSION OF INTEREST - HIRING OF TRAINING PARTNERS FOR THE TRAINING PROGRAMME TITLED “ADVANCED BOO",
-    "PROCUREMENT OF TABLETS & IT HARDWARE FOR RESOURCE CENTER AND TRAINING SYSTEM FOR PARLIAMENTARIANS IN",
-    "PROCUREMENT OF SAN STORAGE & SWITCHES FOR CFSC PROJECT (EGOV - 23)"
-   ]
+   "sample_titles": []
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2152,
+   "fetched": 2153,
    "relevant": 1,
    "sample_titles": [
+    "Tender Notice Inviting for Procurement of Uniforms for Custom Officers and Officials, Financial Year",
     "Tender Notice for Repair/Replacement of an entire sewerage/water supply (both internal and external)",
     "Tender Notice for \"Procurement of Office Stationery for Financial Year 2026-27 at Collectorate of Cu",
-    "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light",
-    "Standard Bidding Document"
+    "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 5,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "Pakistan Secures $500 Million ADB Funding to Tackle Natural Disasters",
-    "TotalEnergies Wins Two Pakistan LNG Cargoes, Beats QatarEnergy",
     "Millers demand market-driven wheat policy, targeted subsidy",
-    "Chinese university bought Nvidia H200 chips despite US blacklist"
+    "PM Shehbaz calls for grant-based climate finance, increased adaptation funds at COP31"
    ]
   },
   "moitt": {
