@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-12T16:16+05:00",
+ "run_at": "2026-11-13T16:02+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of Load Balancer/WAF, Offline Backup Solution, and Existing HCI Warranty & Support Renew",
-    "Construction of Gauge Wells at Kotri Barrage",
-    "Procurement of Catering Services for Training Programs of GTs, SCs, and STs in 232 Clusters",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 2) Phase"
+    "Supply of School Furniture for 25 Schools in District Qambar ShidadKort- Lot-1 & Supply of School Fu",
+    "Procurement of Diesel Generators for 26x CFCs",
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 4) Phase",
+    "Reconstruction of Flood Affected Schools in District Dir Lower (Package 02)"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1925,
-   "relevant": 5,
+   "fetched": 1874,
+   "relevant": 3,
    "sample_titles": [
-    "Procurement of 100 x Bullet Proof Inflatable Floattion Vests (IFVs) after successful tests/trials",
-    "Multiple Tenders for Procurement of Goods & Services",
-    "Fish Plate (Insulated joint) made of Impregnated etc",
-    "NIV DRESSING (24x Items)"
+    "Repair and Maintenance work of Sangar Boat of GPA",
+    "PROCUREMENT OF NEW LAB EQUIPMENT FOR AEROSPACE DEPARTMENT OF NUST, SMME",
+    "HOSE REEL PIPE (150 FT)",
+    "SPARES FOR CNC MACHINES"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 105,
+   "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "HIRING OF CONSULTANT FOR ESTABLISHMENT OF NATIONAL DAY CARE FUND AND ITS FRAMEWORK",
     "Supply of Bitumen / Asphalt Grade 80/100 (NRL) Approximate weight/210 KG/Drum for use in r...",
     "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve...",
-    "D(P)-EHV-II-NGC-HYD-03-2026"
+    "D(P)-EHV-II-NGC-HYD-03-2026",
+    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES"
    ]
   },
   "epads_kp": {
@@ -53,9 +53,9 @@
    "relevant": 4,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
+    "Pakistan Security Printing Corporaion (PSPC) LP/T-2431/26/AA Procurement of Artificial Art Paper M/s",
     "Pakistan Security Printing Corporaion (PSPC) T-4198/26/MK M/s. Khan Enterprises D6/4 Suit # 303 3rd ",
-    "Pakistan Security Printing Corporaion (PSPC) LP/T-4202/26/AA Procurement of Two Side White Coated Co",
-    "Pakistan Security Printing Corporaion (PSPC) SUPPLY OF SAFETY SHOES Atlas Industrial Supplies (Pvt) "
+    "Pakistan Security Printing Corporaion (PSPC) LP/T-4202/26/AA Procurement of Two Side White Coated Co"
    ]
   },
   "punjab_eproc": {
@@ -92,22 +92,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "Cancellation of Civil Work",
+    "Purchase of Veterinary Drugs & Medicines",
     "Establishment of Pakistan Asaan Khidmat Centre (PAKC), Gilgit-Baltistan (Gilgit Centre)",
-    "Purchasing of missing facilities in PEADS Section of PHQ Hospital Gilgit",
-    "Purchase OF BIOMEDICAL EQUIPMENT-PURCHASE OF ETT MACHINE",
-    "Printing of Question Papers and Answer Scripts for upcoming examinations, including all related prin"
+    "Purchasing of missing facilities in PEADS Section of PHQ Hospital Gilgit"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 28,
+   "fetched": 31,
    "relevant": 0,
    "sample_titles": [
-    "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap",
-    "Construction of Government Boys Inter College Nagdar District Neelum",
-    "Procurement of Dental materials/ medicines, general medicines & electro medical equipment (Jinanah D",
-    "Tender Notice for Services (8)"
+    "Printing of Envelope, Paper, Answer Sheets etc",
+    "Auction of Wood",
+    "Procurement of Desktop Computers",
+    "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap"
    ]
   },
   "ted": {
@@ -137,32 +137,39 @@
    ]
   },
   "pitb": {
-   "status": "error",
-   "message": "network: SSLError",
-   "fetched": 0,
+   "status": "ok",
+   "message": "",
+   "fetched": 29,
    "relevant": 0,
-   "sample_titles": []
+   "sample_titles": [
+    "PROCUREMENT OF RENOVATION WORK AND R&M SERVICES FOR FURNITURE, CIVIL & ELECTRICAL ITEMS FOR PITB NDP",
+    "PROVISIONING OF CONSULTANCY SERVICES FOR PAYMENT CARD INDUSTRY (“PCI”) AND DATA SECURITY STANDARDS (",
+    "PROVISIONING OF SERVICES (CONTACT CENTER AGENTS - BASIC PROFICIENCY) FOR PROJECT TITLED “CM COMPLAIN",
+    "PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER GLOBAL IT PRO"
+   ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2153,
-   "relevant": 1,
+   "fetched": 2160,
+   "relevant": 2,
    "sample_titles": [
-    "Tender Notice Inviting for Procurement of Uniforms for Custom Officers and Officials, Financial Year",
-    "Tender Notice for Repair/Replacement of an entire sewerage/water supply (both internal and external)",
-    "Tender Notice for \"Procurement of Office Stationery for Financial Year 2026-27 at Collectorate of Cu",
-    "Procurement notice for the Procurement of Interior Finishing Works: Wall Panelling, Linear LED Light"
+    "Procurement of General Order Supplies for the National Faceless Centre",
+    "Standard Bidding Document",
+    "Tender Notice for Procurement of Civil Works of RTO Multan",
+    "Invitation to Bid/Proposal from Eligible State-Owned Entity:Provision of End-to-End Unique Identific"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
+   "fetched": 4,
    "relevant": 0,
    "sample_titles": [
+    "Japan Announces US$4.3 Million Grant to Support Pakistan’s Polio Programme",
+    "Zakat Payments Suspended for 35,000 Families Across Rawalpindi Division",
     "Millers demand market-driven wheat policy, targeted subsidy",
-    "PM Shehbaz calls for grant-based climate finance, increased adaptation funds at COP31"
+    "67% Pakistanis see climate as lost cause"
    ]
   },
   "moitt": {
