@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-13T16:02+05:00",
+ "run_at": "2026-11-14T15:29+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Engagement of a Third-Party Validation (TPV) Firm for Verification of Community-Based School Sites I",
     "Supply of School Furniture for 25 Schools in District Qambar ShidadKort- Lot-1 & Supply of School Fu",
     "Procurement of Diesel Generators for 26x CFCs",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 4) Phase",
-    "Reconstruction of Flood Affected Schools in District Dir Lower (Package 02)"
+    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 4) Phase"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1874,
+   "fetched": 1830,
    "relevant": 3,
    "sample_titles": [
-    "Repair and Maintenance work of Sangar Boat of GPA",
-    "PROCUREMENT OF NEW LAB EQUIPMENT FOR AEROSPACE DEPARTMENT OF NUST, SMME",
-    "HOSE REEL PIPE (150 FT)",
-    "SPARES FOR CNC MACHINES"
+    "GE NAvy Maintenance Ormara",
+    "Procurement of Workstations and Desktop for Cad / Cam.",
+    "Installation of Solar System and Laboratory/ Field Testing Equipment",
+    "SSGC/SC/NR/EPADS2/14455Hiring of Retainer Doctor For OPD Clinic In Mirpur (as per BOQ) (Under Single"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 100,
+   "fetched": 102,
    "relevant": 0,
    "sample_titles": [
-    "Supply of Bitumen / Asphalt Grade 80/100 (NRL) Approximate weight/210 KG/Drum for use in r...",
-    "Supply of Ordinary Cement (D.G) for use in repairing/overhauling of road surfacing of Leve...",
     "D(P)-EHV-II-NGC-HYD-03-2026",
-    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES"
+    "Hiring of Individual / Consultant for Pharmaceutical Sector at TDAP",
+    "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua...",
+    "Consultancy Services for design and preparation of Complete Tender Documents for Main Entr..."
    ]
   },
   "epads_kp": {
@@ -50,7 +50,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 4,
+   "relevant": 5,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Pakistan Security Printing Corporaion (PSPC) LP/T-2431/26/AA Procurement of Artificial Art Paper M/s",
@@ -101,7 +101,7 @@
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 31,
+   "fetched": 26,
    "relevant": 0,
    "sample_titles": [
     "Printing of Envelope, Paper, Answer Sheets etc",
@@ -163,13 +163,12 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 4,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "Japan Announces US$4.3 Million Grant to Support Pakistan’s Polio Programme",
-    "Zakat Payments Suspended for 35,000 Families Across Rawalpindi Division",
-    "Millers demand market-driven wheat policy, targeted subsidy",
-    "67% Pakistanis see climate as lost cause"
+    "Asia Pacific’s ageing population faces rising chronic disease crisis as experts call for early actio",
+    "Trump official seeks $50 billion for air traffic control after outage",
+    "Govt meets IMF fiscal conditions"
    ]
   },
   "moitt": {
