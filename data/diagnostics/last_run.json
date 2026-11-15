@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-14T15:29+05:00",
+ "run_at": "2026-11-15T15:57+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,22 +7,22 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Procurement of Enterprise Grade Storage Area Network (SAN) for SAMRS/CPD Data Storage Infrastructure",
+    "Procurement and Delivery of Social-Emotional Support (SES) Material Boards for 150 Schools under Bat",
     "Engagement of a Third-Party Validation (TPV) Firm for Verification of Community-Based School Sites I",
-    "Supply of School Furniture for 25 Schools in District Qambar ShidadKort- Lot-1 & Supply of School Fu",
-    "Procurement of Diesel Generators for 26x CFCs",
-    "Reconstruction and Rehabilitation of Flood Affected Schools in District Abbottabad (Package 4) Phase"
+    "Supply of School Furniture for 25 Schools in District Qambar ShidadKort- Lot-1 & Supply of School Fu"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1830,
+   "fetched": 1794,
    "relevant": 3,
    "sample_titles": [
-    "GE NAvy Maintenance Ormara",
-    "Procurement of Workstations and Desktop for Cad / Cam.",
-    "Installation of Solar System and Laboratory/ Field Testing Equipment",
-    "SSGC/SC/NR/EPADS2/14455Hiring of Retainer Doctor For OPD Clinic In Mirpur (as per BOQ) (Under Single"
+    "Repair Maintenance Work",
+    "Requisition for Advertisement Notice of Tender",
+    "HIRING OF CONSULTANCY SERVICES FOR THE PLANNING, DESIGN, AND ESTABLISHMENT OF ADVANCED SKILL DEVELOP",
+    "Rights For Collection of Maintenance Charges from the Visitors of Bagh-e-Quaid-i-Azam"
    ]
   },
   "epads_federal": {
@@ -32,9 +32,9 @@
    "relevant": 0,
    "sample_titles": [
     "D(P)-EHV-II-NGC-HYD-03-2026",
+    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES",
     "Hiring of Individual / Consultant for Pharmaceutical Sector at TDAP",
-    "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua...",
-    "Consultancy Services for design and preparation of Complete Tender Documents for Main Entr..."
+    "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua..."
    ]
   },
   "epads_kp": {
@@ -163,12 +163,11 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "Asia Pacific’s ageing population faces rising chronic disease crisis as experts call for early actio",
-    "Trump official seeks $50 billion for air traffic control after outage",
-    "Govt meets IMF fiscal conditions"
+    "Punjab Approves Rs18.86 Billion for University of Technology",
+    "Govt defers ML-3 for third time"
    ]
   },
   "moitt": {
