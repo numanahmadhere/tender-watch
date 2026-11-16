@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-15T15:57+05:00",
+ "run_at": "2026-11-16T16:24+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,25 +16,25 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1794,
-   "relevant": 3,
+   "fetched": 1788,
+   "relevant": 4,
    "sample_titles": [
-    "Repair Maintenance Work",
-    "Requisition for Advertisement Notice of Tender",
-    "HIRING OF CONSULTANCY SERVICES FOR THE PLANNING, DESIGN, AND ESTABLISHMENT OF ADVANCED SKILL DEVELOP",
-    "Rights For Collection of Maintenance Charges from the Visitors of Bagh-e-Quaid-i-Azam"
+    "PROCUREMENT OF COPPER CRUSHER (QTY 480 NOS), CRUSHER GAUGE (135 NOS) & Chrome Plated Proofing Gun Ba",
+    "Directorate of Procurement (Air)",
+    "Provision of Field Cable",
+    "Tender Notice"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 102,
+   "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "D(P)-EHV-II-NGC-HYD-03-2026",
-    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES",
-    "Hiring of Individual / Consultant for Pharmaceutical Sector at TDAP",
-    "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua..."
+    "Procurement of Services of a Consultancy firm for Conducting Compensation and Benefits Sur...",
+    "INDEPENDENT THIRD-PARTY REVIEW OF THE HIGHER EDUCATION COMMISSION AND HEC-FUNDED HIGHER ED...",
+    "ESTABLISHMENT OF 200 HOUSES AT DERA MURAD JAMALI",
+    "ESTABLISHMENT OF 500 LABOUR QUARTERS AT HUB"
    ]
   },
   "epads_kp": {
@@ -53,9 +53,9 @@
    "relevant": 5,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
+    "Federal Board of Revenue (FBR) PRE QUALIFICATION FOR REPAIR OF OPERATIONAL VEHICLES M/S S.K OLD AUTO",
     "Pakistan Security Printing Corporaion (PSPC) LP/T-2431/26/AA Procurement of Artificial Art Paper M/s",
-    "Pakistan Security Printing Corporaion (PSPC) T-4198/26/MK M/s. Khan Enterprises D6/4 Suit # 303 3rd ",
-    "Pakistan Security Printing Corporaion (PSPC) LP/T-4202/26/AA Procurement of Two Side White Coated Co"
+    "Pakistan Security Printing Corporaion (PSPC) T-4198/26/MK M/s. Khan Enterprises D6/4 Suit # 303 3rd "
    ]
   },
   "punjab_eproc": {
@@ -92,10 +92,10 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Cancellation of Civil Work",
-    "Purchase of Veterinary Drugs & Medicines",
-    "Establishment of Pakistan Asaan Khidmat Centre (PAKC), Gilgit-Baltistan (Gilgit Centre)",
-    "Purchasing of missing facilities in PEADS Section of PHQ Hospital Gilgit"
+    "Repair Maintenance of Govt Vehicles water and Power Division Nagar--S/O Stationery for Divisional Of",
+    "Hiring of Contractor for the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
+    "Hiring of Contractor for the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
+    "AUCTION OF UNSERVICEABLE STORE ITEMS / VEHICLE SPARE PARTS"
    ]
   },
   "ajk_ppra": {
@@ -104,10 +104,10 @@
    "fetched": 26,
    "relevant": 0,
    "sample_titles": [
+    "Construction, Upgradation & Improvement of Education Facilities in AJK District Bagh (EEC)",
     "Printing of Envelope, Paper, Answer Sheets etc",
     "Auction of Wood",
-    "Procurement of Desktop Computers",
-    "Auction of Furniture, Electrical Machinery, Tyres, Batteries, Answer Sheets, Scrap"
+    "Procurement of Desktop Computers"
    ]
   },
   "ted": {
@@ -163,11 +163,10 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
-   "relevant": 0,
+   "fetched": 1,
+   "relevant": 1,
    "sample_titles": [
-    "Punjab Approves Rs18.86 Billion for University of Technology",
-    "Govt defers ML-3 for third time"
+    "Indian Chip Startup Bharat Semi Raises $24M to Build AI Sensors That “See and Think”"
    ]
   },
   "moitt": {
