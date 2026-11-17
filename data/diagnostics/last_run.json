@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-16T16:24+05:00",
+ "run_at": "2026-11-17T16:55+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of Enterprise Grade Storage Area Network (SAN) for SAMRS/CPD Data Storage Infrastructure",
-    "Procurement and Delivery of Social-Emotional Support (SES) Material Boards for 150 Schools under Bat",
-    "Engagement of a Third-Party Validation (TPV) Firm for Verification of Community-Based School Sites I",
-    "Supply of School Furniture for 25 Schools in District Qambar ShidadKort- Lot-1 & Supply of School Fu"
+    "Hiring of Graphic Design Firm (SAMR Launching Event)",
+    "Procurement of IT Equipment / Gadgets for the Implementation of DHIS-2 Daily Reporting in remaining ",
+    "Establishment of community capacity building center for cyclone prone areas at DPIU Thatta/ Sujawal ",
+    "Procurement of Enterprise Grade Storage Area Network (SAN) for SAMRS/CPD Data Storage Infrastructure"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1788,
-   "relevant": 4,
+   "fetched": 1815,
+   "relevant": 5,
    "sample_titles": [
-    "PROCUREMENT OF COPPER CRUSHER (QTY 480 NOS), CRUSHER GAUGE (135 NOS) & Chrome Plated Proofing Gun Ba",
-    "Directorate of Procurement (Air)",
-    "Provision of Field Cable",
-    "Tender Notice"
+    "G.I. Fittings",
+    "Gas Meter Diaphragm Type Cl:400",
+    "Gas Meters Diaphragm Type Cl:250/G-6",
+    "Gas Service Valves 1\" (With Tail Piece)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 100,
+   "fetched": 103,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Services of a Consultancy firm for Conducting Compensation and Benefits Sur...",
-    "INDEPENDENT THIRD-PARTY REVIEW OF THE HIGHER EDUCATION COMMISSION AND HEC-FUNDED HIGHER ED...",
-    "ESTABLISHMENT OF 200 HOUSES AT DERA MURAD JAMALI",
-    "ESTABLISHMENT OF 500 LABOUR QUARTERS AT HUB"
+    "Hiring of Individual / Consultant for Pharmaceutical Sector at TDAP",
+    "EXPRESSIONS OF INTEREST (EOI) FOR ECOSYSTEM DEVELOPMENT (Policy Analysis, Formulation, Re...",
+    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES",
+    "Collections & Recovery Services"
    ]
   },
   "epads_kp": {
@@ -92,22 +92,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Repair Maintenance of Govt Vehicles water and Power Division Nagar--S/O Stationery for Divisional Of",
-    "Hiring of Contractor for the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
-    "Hiring of Contractor for the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
-    "AUCTION OF UNSERVICEABLE STORE ITEMS / VEHICLE SPARE PARTS"
+    "Hiring of Contractor fcr the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
+    "CONSTRUCTION AND METALLING OF LINK ROAD MANGER, SIOPIA AND OTHES HALQA- II SKARDU.",
+    "Establishment of Hard Coating Room at GBHEW Division Gilgit",
+    "Preparation of Master Plan for Gilgit Division, including Review and Updation of the Existing Master"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 26,
+   "fetched": 28,
    "relevant": 0,
    "sample_titles": [
-    "Construction, Upgradation & Improvement of Education Facilities in AJK District Bagh (EEC)",
-    "Printing of Envelope, Paper, Answer Sheets etc",
-    "Auction of Wood",
-    "Procurement of Desktop Computers"
+    "Lease of Government Tourism Infrastructure/ Properties on Rehabilitate, Operate and Transfer Basis",
+    "Construction, Improvement, Reconditioning & Blacktopping of Roads Length 30 km LA-28 & LA-31",
+    "Supply & Delivery of Hydraulic Oil",
+    "Construction, Upgradation & Improvement of Education Facilities in AJK District Bagh (EEC)"
    ]
   },
   "ted": {
@@ -118,13 +118,11 @@
    "sample_titles": []
   },
   "contracts_finder": {
-   "status": "ok",
-   "message": "",
-   "fetched": 1,
+   "status": "experimental",
+   "message": "no records parsed yet; run in discover mode and share the snapshot",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Framework for Call-down Technical Assistance - Engineering and Climate-Resilient Infrastructure Advi"
-   ]
+   "sample_titles": []
   },
   "wb_pipeline": {
    "status": "ok",
@@ -139,19 +137,19 @@
   "pitb": {
    "status": "ok",
    "message": "",
-   "fetched": 29,
+   "fetched": 30,
    "relevant": 0,
    "sample_titles": [
+    "Corrigendum - HIRING OF TRAINING PARTNERS FOR THE TRAINING PROGRAMME TITLED “ADVANCED BOOTCAMPS & FR",
     "PROCUREMENT OF RENOVATION WORK AND R&M SERVICES FOR FURNITURE, CIVIL & ELECTRICAL ITEMS FOR PITB NDP",
     "PROVISIONING OF CONSULTANCY SERVICES FOR PAYMENT CARD INDUSTRY (“PCI”) AND DATA SECURITY STANDARDS (",
-    "PROVISIONING OF SERVICES (CONTACT CENTER AGENTS - BASIC PROFICIENCY) FOR PROJECT TITLED “CM COMPLAIN",
-    "PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER GLOBAL IT PRO"
+    "PROVISIONING OF SERVICES (CONTACT CENTER AGENTS - BASIC PROFICIENCY) FOR PROJECT TITLED “CM COMPLAIN"
    ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2160,
+   "fetched": 2161,
    "relevant": 2,
    "sample_titles": [
     "Procurement of General Order Supplies for the National Faceless Centre",
@@ -163,10 +161,12 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
-   "relevant": 1,
+   "fetched": 3,
+   "relevant": 0,
    "sample_titles": [
-    "Indian Chip Startup Bharat Semi Raises $24M to Build AI Sensors That “See and Think”"
+    "HEC opens GRE training portal under US-Pakistan Knowledge Corridor",
+    "At ECO moot, Dar calls for translating 'collective commitments into concrete action'",
+    "Financing for export sector raised to Rs1.5tr"
    ]
   },
   "moitt": {
