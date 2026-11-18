@@ -116,7 +116,7 @@
    "deadline": "2026-11-20T11:00",
    "first": "2026-10-27",
    "fp": "c93eb6c934e8",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published Corrigendum",
    "title": "RFP-NOR-IT-39-2026 Procurement of Consultancy Services for Vulnerability Assessment and Penetration Testing (VAPT) for Network Infrastructure and Web Applications of National Grid Company"
   },
@@ -148,7 +148,7 @@
    "deadline": "2026-11-25T11:00",
    "first": "2026-11-02",
    "fp": "8b1132889564",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published Corrigendum",
    "title": "Tender for Digital Transformation and Integrated Enterprise Resource Planning (ERP) System in Pakistan Civil Aviation Authority (PCAA)"
   },
@@ -156,7 +156,7 @@
    "deadline": "2026-11-23T11:00",
    "first": "2026-11-12",
    "fp": "e2368200c7da",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published",
    "title": "SECOND ROUND (2026): AUTHORIZATION OF ADDITIONAL VENDORS FOR INSTALLATION AND MAINTENANCE OF VIDEO ANALYTICS SYSTEM FOR COTTON BALES COUNTING IN TEXTILE SECTOR"
   },
@@ -164,7 +164,7 @@
    "deadline": "2026-11-30T11:00",
    "first": "2026-11-16",
    "fp": "cf62f57e76d2",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published",
    "title": "Deployment of Fingerprint and Face Biometric Verification SDK(s) in National Savings Digital Mobile App and Provisioning of Allied Services on Managed Services Model"
   },
@@ -172,9 +172,17 @@
    "deadline": "2026-11-27T11:00",
    "first": "2026-11-17",
    "fp": "0de601028f72",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published",
    "title": "Procurement of DNS Security Solution, Web Application Penetration Testing Tool, VAPT Services Kaspersky Antivirus Licenses and Trainings"
+  },
+  "epms:TS0000018397E": {
+   "deadline": "2026-12-09T15:00",
+   "first": "2026-11-18",
+   "fp": "d5fb8ee6a4ea",
+   "last": "2026-11-18",
+   "status": "Published",
+   "title": "RFP for PSEB Web Portals Hosting, Support & Maintenance and Upgradation"
   },
   "epms_awards:EVL00000004120": {
    "deadline": "",
@@ -316,7 +324,7 @@
    "deadline": "",
    "first": "2026-11-11",
    "fp": "2023cbdf162f",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Procurement of GPU Services (IaaS) & AI / ML Model Hosting Services for NTC"
   },
@@ -324,7 +332,7 @@
    "deadline": "",
    "first": "2026-11-12",
    "fp": "e1b02ef704b6",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Procurement of Consultancy Services for Design, Configuration and Deployment of a Web-Based Project Monitoring and Performance Dashboard for SMEDA Business Plan"
   },
@@ -332,9 +340,17 @@
    "deadline": "",
    "first": "2026-11-14",
    "fp": "7f030cb9fdc3",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "expansion in management nodes for orchestration software of existing AirGap on-premises cloud"
+  },
+  "epms_awards:EVL00000005241": {
+   "deadline": "",
+   "first": "2026-11-18",
+   "fp": "8b7661d39582",
+   "last": "2026-11-18",
+   "status": "",
+   "title": "TENDER NO. P-76/2026 PROVISION OF NPU-BASED INFRASTRUCTURE AS A SERVICE (IAAS) FOR ENTERPRISE AI USE CASES"
   },
   "epms_awards:PCN-3904322272": {
    "deadline": "",
@@ -348,7 +364,7 @@
    "deadline": "",
    "first": "2026-11-10",
    "fp": "5507ff03902d",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Sui Northern Gas Pipelines Limited (SNGPL) PHOTOCOPY MACHINE M/s. Office Group AUtomation, Lahore Lahore"
   },
@@ -364,7 +380,7 @@
    "deadline": "2026-11-23",
    "first": "2026-11-13",
    "fp": "56955023dd1a",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Bidding Document for Second Round (2026): Authorization of Additional Vendors for Installation and Maintenance of Video Analytics System for Cotton Bales Counting in Textile Sector"
   },
@@ -372,7 +388,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "d930550405b2",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "TORs - Junior Associate HR Data Analytics"
   },
@@ -380,7 +396,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "20b06d0ef4d5",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Extension ERP End2 End Turnkey"
   },
@@ -388,7 +404,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "56ae01358a2e",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Re Firms AI Driven Trg Grad Mphil Phd Csit"
   },
@@ -396,7 +412,7 @@
    "deadline": "",
    "first": "2026-10-21",
    "fp": "a1240c8002b4",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "",
    "title": "Final Evaluationreportof IT Consultancy Firm"
   },
@@ -468,7 +484,7 @@
    "deadline": "",
    "first": "2026-10-20",
    "fp": "281f12d1a63e",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published",
    "title": "Procurement of Software for PPMC Lot-1: Microsoft Power BI Premium Lot-2: InvGate Online Helpdesk and Assets Management Lot-3: Email Services"
   },
@@ -484,7 +500,7 @@
    "deadline": "2026-11-19",
    "first": "2026-11-08",
    "fp": "ef23d3de8b60",
-   "last": "2026-11-17",
+   "last": "2026-11-18",
    "status": "Published",
    "title": "Sediment Specialist"
   }

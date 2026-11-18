@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-17T16:55+05:00",
+ "run_at": "2026-11-18T16:46+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 2,
    "sample_titles": [
+    "Hiring of a Firm for Vulnerability Assessment & Penetration Testing (VAPT) and ISO 27001 Controls As",
     "Hiring of Graphic Design Firm (SAMR Launching Event)",
     "Procurement of IT Equipment / Gadgets for the Implementation of DHIS-2 Daily Reporting in remaining ",
-    "Establishment of community capacity building center for cyclone prone areas at DPIU Thatta/ Sujawal ",
-    "Procurement of Enterprise Grade Storage Area Network (SAN) for SAMRS/CPD Data Storage Infrastructure"
+    "Establishment of community capacity building center for cyclone prone areas at DPIU Thatta/ Sujawal "
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1815,
-   "relevant": 5,
+   "fetched": 1926,
+   "relevant": 6,
    "sample_titles": [
-    "G.I. Fittings",
-    "Gas Meter Diaphragm Type Cl:400",
-    "Gas Meters Diaphragm Type Cl:250/G-6",
-    "Gas Service Valves 1\" (With Tail Piece)"
+    "Tender Notice No. 03/2026",
+    "Gas Service Valves 3/4\" (Without Tail Piece)",
+    "Cold Applied Polymeric Tape (Inner & Outer Wrap) and Primer",
+    "Domestic Gas Meter Rotary Type"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 103,
+   "fetched": 102,
    "relevant": 0,
    "sample_titles": [
-    "Hiring of Individual / Consultant for Pharmaceutical Sector at TDAP",
-    "EXPRESSIONS OF INTEREST (EOI) FOR ECOSYSTEM DEVELOPMENT (Policy Analysis, Formulation, Re...",
+    "Collections & Recovery Services",
     "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES",
-    "Collections & Recovery Services"
+    "CONSULTANCY SERVICES FOR ENGAGEMENT OF LEGAL CONSULTANT IN PAKISTAN AIRPORTS AUTHORITY",
+    "Consultancy Services for Design Vetting and Construction Supervision for “Construction o..."
    ]
   },
   "epads_kp": {
@@ -92,22 +92,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "supply of Gass and etc. stuff",
+    "supply of Gass etc necessary stuff",
     "Hiring of Contractor fcr the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
-    "CONSTRUCTION AND METALLING OF LINK ROAD MANGER, SIOPIA AND OTHES HALQA- II SKARDU.",
-    "Establishment of Hard Coating Room at GBHEW Division Gilgit",
-    "Preparation of Master Plan for Gilgit Division, including Review and Updation of the Existing Master"
+    "CONSTRUCTION AND METALLING OF LINK ROAD MANGER, SIOPIA AND OTHES HALQA- II SKARDU."
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 28,
+   "fetched": 27,
    "relevant": 0,
    "sample_titles": [
+    "Procurement of Tire, Tube and Flap for Bacho Loader, Wheel Excavator, Wheel Loader (Machinery Mainte",
     "Lease of Government Tourism Infrastructure/ Properties on Rehabilitate, Operate and Transfer Basis",
     "Construction, Improvement, Reconditioning & Blacktopping of Roads Length 30 km LA-28 & LA-31",
-    "Supply & Delivery of Hydraulic Oil",
-    "Construction, Upgradation & Improvement of Education Facilities in AJK District Bagh (EEC)"
+    "Supply & Delivery of Hydraulic Oil"
    ]
   },
   "ted": {
@@ -149,7 +149,7 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2161,
+   "fetched": 2162,
    "relevant": 2,
    "sample_titles": [
     "Procurement of General Order Supplies for the National Faceless Centre",
@@ -164,9 +164,9 @@
    "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "HEC opens GRE training portal under US-Pakistan Knowledge Corridor",
     "At ECO moot, Dar calls for translating 'collective commitments into concrete action'",
-    "Financing for export sector raised to Rs1.5tr"
+    "Financing for export sector raised to Rs1.5tr",
+    "Govt commences electrification of Thar coal mining"
    ]
   },
   "moitt": {
