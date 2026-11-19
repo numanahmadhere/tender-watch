@@ -1,40 +1,40 @@
 {
- "run_at": "2026-11-18T16:46+05:00",
+ "run_at": "2026-11-19T16:43+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
    "message": "",
    "fetched": 300,
-   "relevant": 2,
+   "relevant": 1,
    "sample_titles": [
-    "Hiring of a Firm for Vulnerability Assessment & Penetration Testing (VAPT) and ISO 27001 Controls As",
-    "Hiring of Graphic Design Firm (SAMR Launching Event)",
-    "Procurement of IT Equipment / Gadgets for the Implementation of DHIS-2 Daily Reporting in remaining ",
-    "Establishment of community capacity building center for cyclone prone areas at DPIU Thatta/ Sujawal "
+    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
+    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
+    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
+    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I."
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1926,
+   "fetched": 2025,
    "relevant": 6,
    "sample_titles": [
-    "Tender Notice No. 03/2026",
-    "Gas Service Valves 3/4\" (Without Tail Piece)",
-    "Cold Applied Polymeric Tape (Inner & Outer Wrap) and Primer",
-    "Domestic Gas Meter Rotary Type"
+    "Invitation to E-Bid",
+    "INTERNATIONAL TENDER FOR PROCUREMENT OF VERY HIGH FREQUENCY (VHF) RADIO EQUIPMENT FOR THE OPERATION ",
+    "NIV DRESSING (05x Items)",
+    "PROCUREMENT OF PIPING STEEL GALVANIZED (SEAMLESS)"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 102,
+   "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "Collections & Recovery Services",
-    "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES",
+    "Consultancy Services for Design Vetting and Construction Supervision for “Construction o...",
     "CONSULTANCY SERVICES FOR ENGAGEMENT OF LEGAL CONSULTANT IN PAKISTAN AIRPORTS AUTHORITY",
-    "Consultancy Services for Design Vetting and Construction Supervision for “Construction o..."
+    "Individual Consultant - Strategic Advisory (003/HR/CONS/01/2026)",
+    "Audit of Financial Statement of PTA"
    ]
   },
   "epads_kp": {
@@ -49,13 +49,13 @@
   "epms_awards": {
    "status": "ok",
    "message": "",
-   "fetched": 499,
-   "relevant": 5,
+   "fetched": 500,
+   "relevant": 6,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
-    "Federal Board of Revenue (FBR) PRE QUALIFICATION FOR REPAIR OF OPERATIONAL VEHICLES M/S S.K OLD AUTO",
-    "Pakistan Security Printing Corporaion (PSPC) LP/T-2431/26/AA Procurement of Artificial Art Paper M/s",
-    "Pakistan Security Printing Corporaion (PSPC) T-4198/26/MK M/s. Khan Enterprises D6/4 Suit # 303 3rd "
+    "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
+    "Pakistan Security Printing Corporaion (PSPC) T-4197-B-FA-REQ-0826-1-00018-Hiring Services of Vendor ",
+    "Pakistan Security Printing Corporaion (PSPC) Supply of Misc. 06 X Pneumatic Cylinders Paradise Enter"
    ]
   },
   "punjab_eproc": {
@@ -101,7 +101,7 @@
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 27,
+   "fetched": 25,
    "relevant": 0,
    "sample_titles": [
     "Procurement of Tire, Tube and Flap for Bacho Loader, Wheel Excavator, Wheel Loader (Machinery Mainte",
@@ -149,7 +149,7 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2162,
+   "fetched": 2167,
    "relevant": 2,
    "sample_titles": [
     "Procurement of General Order Supplies for the National Faceless Centre",
@@ -161,12 +161,13 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 3,
+   "fetched": 6,
    "relevant": 0,
    "sample_titles": [
+    "Experts call for global regulation of autonomous weapons to protect regional stability",
+    "Two M-6 sections to be built under public-private partnership model",
     "At ECO moot, Dar calls for translating 'collective commitments into concrete action'",
-    "Financing for export sector raised to Rs1.5tr",
-    "Govt commences electrification of Thar coal mining"
+    "Financing for export sector raised to Rs1.5tr"
    ]
   },
   "moitt": {
