@@ -1,11 +1,11 @@
 {
- "run_at": "2026-11-19T16:43+05:00",
+ "run_at": "2026-11-20T16:44+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
    "message": "",
    "fetched": 300,
-   "relevant": 1,
+   "relevant": 0,
    "sample_titles": [
     "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
     "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
@@ -16,13 +16,13 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2025,
+   "fetched": 2106,
    "relevant": 6,
    "sample_titles": [
-    "Invitation to E-Bid",
-    "INTERNATIONAL TENDER FOR PROCUREMENT OF VERY HIGH FREQUENCY (VHF) RADIO EQUIPMENT FOR THE OPERATION ",
-    "NIV DRESSING (05x Items)",
-    "PROCUREMENT OF PIPING STEEL GALVANIZED (SEAMLESS)"
+    "TE No.0009-FP-57-Pur-MGFY",
+    "INTERNATIONAL TENDER FOR PROCUREMENT OF U BOLT & ZINC ALLOY ANODES FOR BALLAST WATER TANK FOR PNSC V",
+    "INVITATION TO TENDER- INDIGENOUS DEVELOPMENT OFMAINTENANCE SHELVES",
+    "2nd Re-Tender for Electro-Medical Equipment/s of Diabatic / Endocrine Department under PSDP project "
    ]
   },
   "epads_federal": {
@@ -31,26 +31,24 @@
    "fetched": 100,
    "relevant": 0,
    "sample_titles": [
-    "Consultancy Services for Design Vetting and Construction Supervision for “Construction o...",
-    "CONSULTANCY SERVICES FOR ENGAGEMENT OF LEGAL CONSULTANT IN PAKISTAN AIRPORTS AUTHORITY",
     "Individual Consultant - Strategic Advisory (003/HR/CONS/01/2026)",
-    "Audit of Financial Statement of PTA"
+    "Hiring of Human Resource Consulting Firm for Executive Search Head Hunting and Recruitment...",
+    "Audit of Financial Statement of PTA",
+    "ESTABLISHMENT OF 200 HOUSES AT SUI, DERA BUGTI"
    ]
   },
   "epads_kp": {
-   "status": "ok",
-   "message": "",
-   "fetched": 1,
+   "status": "error",
+   "message": "parser: 0 opportunities parsed from page 1; the table layout may have changed",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Testing of Goods SS1E"
-   ]
+   "sample_titles": []
   },
   "epms_awards": {
    "status": "ok",
    "message": "",
-   "fetched": 500,
-   "relevant": 6,
+   "fetched": 499,
+   "relevant": 7,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
@@ -92,10 +90,10 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "supply of Gass and etc. stuff",
-    "supply of Gass etc necessary stuff",
-    "Hiring of Contractor fcr the project \"Establishment of Pakistan Asan Khidmat Center Skardu\"",
-    "CONSTRUCTION AND METALLING OF LINK ROAD MANGER, SIOPIA AND OTHES HALQA- II SKARDU."
+    "Corrigendum \"Re-Routing of Transmission line at 2MW KFW Project Sumayar.\"",
+    "Printing of Question Papers and Answer Scripts for upcoming examination.,",
+    "Construction of House and Procurement of Vehicle for DIG Police HQs (M).",
+    "Procurement of Goods and Services"
    ]
   },
   "ajk_ppra": {
@@ -135,39 +133,31 @@
    ]
   },
   "pitb": {
-   "status": "ok",
-   "message": "",
-   "fetched": 30,
+   "status": "error",
+   "message": "network: SSLError",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Corrigendum - HIRING OF TRAINING PARTNERS FOR THE TRAINING PROGRAMME TITLED “ADVANCED BOOTCAMPS & FR",
-    "PROCUREMENT OF RENOVATION WORK AND R&M SERVICES FOR FURNITURE, CIVIL & ELECTRICAL ITEMS FOR PITB NDP",
-    "PROVISIONING OF CONSULTANCY SERVICES FOR PAYMENT CARD INDUSTRY (“PCI”) AND DATA SECURITY STANDARDS (",
-    "PROVISIONING OF SERVICES (CONTACT CENTER AGENTS - BASIC PROFICIENCY) FOR PROJECT TITLED “CM COMPLAIN"
-   ]
+   "sample_titles": []
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2167,
+   "fetched": 2170,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of General Order Supplies for the National Faceless Centre",
+    "Procurement of Janitorial and Cleaning Services for the National Faceless Centre",
     "Standard Bidding Document",
-    "Tender Notice for Procurement of Civil Works of RTO Multan",
-    "Invitation to Bid/Proposal from Eligible State-Owned Entity:Provision of End-to-End Unique Identific"
+    "Procurement of General Order Supplies for the National Faceless Centre",
+    "Standard Bidding Document"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 6,
+   "fetched": 1,
    "relevant": 0,
    "sample_titles": [
-    "Experts call for global regulation of autonomous weapons to protect regional stability",
-    "Two M-6 sections to be built under public-private partnership model",
-    "At ECO moot, Dar calls for translating 'collective commitments into concrete action'",
-    "Financing for export sector raised to Rs1.5tr"
+    "Two M-6 sections to be built under public-private partnership model"
    ]
   },
   "moitt": {
