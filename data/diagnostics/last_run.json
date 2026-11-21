@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T16:44+05:00",
+ "run_at": "2026-11-21T16:07+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,22 +7,22 @@
    "fetched": 300,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
-    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
-    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I.",
-    "Procurement of IT Equipment, Furniture and others items for PMU as per Revised PC-I."
+    "Procurement and installation of Trijunction Pillars Faisalabad Division",
+    "Services for Logistical & Facilitation: Four Consultative Workshops / Meeting: Logistical and Facili",
+    "Procurement and installation of Trijunction Pillars, DG Khan Division",
+    "Procurement of CCTV Surveillance System, Solarization, Illumination equipment, Audio Guiding Systems"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2106,
+   "fetched": 1986,
    "relevant": 6,
    "sample_titles": [
-    "TE No.0009-FP-57-Pur-MGFY",
-    "INTERNATIONAL TENDER FOR PROCUREMENT OF U BOLT & ZINC ALLOY ANODES FOR BALLAST WATER TANK FOR PNSC V",
-    "INVITATION TO TENDER- INDIGENOUS DEVELOPMENT OFMAINTENANCE SHELVES",
-    "2nd Re-Tender for Electro-Medical Equipment/s of Diabatic / Endocrine Department under PSDP project "
+    "Publication of Tender Notice FY 26-27",
+    "FEATURE COMPARISON OF IN-HOUSE DEVELOPED SOFTWARE’S WITH OFF THE SHELF SYSTEMS / SOFTWARE’S AVAILABL",
+    "Civil works under DG(FO) Field Operation Lahore",
+    "Special Repair/ Upgradation/ Modification to E/M Installations in Federal Lodges/ Hostels/ Family Su"
    ]
   },
   "epads_federal": {
@@ -32,8 +32,8 @@
    "relevant": 0,
    "sample_titles": [
     "Individual Consultant - Strategic Advisory (003/HR/CONS/01/2026)",
-    "Hiring of Human Resource Consulting Firm for Executive Search Head Hunting and Recruitment...",
     "Audit of Financial Statement of PTA",
+    "Hiring of Human Resource Consulting Firm for Executive Search Head Hunting and Recruitment...",
     "ESTABLISHMENT OF 200 HOUSES AT SUI, DERA BUGTI"
    ]
   },
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 7,
+   "relevant": 6,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
@@ -99,7 +99,7 @@
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 25,
+   "fetched": 24,
    "relevant": 0,
    "sample_titles": [
     "Procurement of Tire, Tube and Flap for Bacho Loader, Wheel Excavator, Wheel Loader (Machinery Mainte",
@@ -142,22 +142,23 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2170,
+   "fetched": 2172,
    "relevant": 2,
    "sample_titles": [
     "Procurement of Janitorial and Cleaning Services for the National Faceless Centre",
     "Standard Bidding Document",
-    "Procurement of General Order Supplies for the National Faceless Centre",
-    "Standard Bidding Document"
+    "Procurement Notice (Tender Notice No. 1/2026-27): Procurement of Goods, Hiring of Services and Repai",
+    "Tender Notice 02/2026-27: Repair & Renovation Work of Office Building (Regional Tax Office, Kutchery"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "Two M-6 sections to be built under public-private partnership model"
+    "Two M-6 sections to be built under public-private partnership model",
+    "CDWP approves Rs19.3b projects"
    ]
   },
   "moitt": {
