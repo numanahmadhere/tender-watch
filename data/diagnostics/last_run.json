@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T16:07+05:00",
+ "run_at": "2026-11-22T16:28+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,28 +7,28 @@
    "fetched": 300,
    "relevant": 0,
    "sample_titles": [
-    "Procurement and installation of Trijunction Pillars Faisalabad Division",
-    "Services for Logistical & Facilitation: Four Consultative Workshops / Meeting: Logistical and Facili",
-    "Procurement and installation of Trijunction Pillars, DG Khan Division",
-    "Procurement of CCTV Surveillance System, Solarization, Illumination equipment, Audio Guiding Systems"
+    "Construction/Rehabilitation of Retaining Wall at Government Girls High School, Hamlet, Tehsil Ghazi ",
+    "Procurement of Garbage Collection System for Left Bank Colony-TDP, under Social Development Plan T-5",
+    "Hiring of Consulting Firm for Early Grade Reading Assessment (EGRA) Endline Survey",
+    "Procurement of Laptops for Female Scholars under GRADES Balochistan"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1986,
+   "fetched": 1931,
    "relevant": 6,
    "sample_titles": [
-    "Publication of Tender Notice FY 26-27",
-    "FEATURE COMPARISON OF IN-HOUSE DEVELOPED SOFTWARE’S WITH OFF THE SHELF SYSTEMS / SOFTWARE’S AVAILABL",
-    "Civil works under DG(FO) Field Operation Lahore",
-    "Special Repair/ Upgradation/ Modification to E/M Installations in Federal Lodges/ Hostels/ Family Su"
+    "INTERNATIONAL TENDER FOR PROCUREMENT OF ANCHOR CHAIN AND SHACKLES FOR PNSC VESSEL SHALAMAR.",
+    "TENDER FOR LAUNCH CONTRACTOR FOR PROVIDING LAUNCH SERVICES FOR PNSC MANAGED, CHARTERED AND AGENCY VE",
+    "LP of Matches Box, Sal RR and Thread Ball",
+    "2nd Re-Tender for Electro-Medical Equipment/s of General Surgery Department under PSDP project tille"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 100,
+   "fetched": 101,
    "relevant": 0,
    "sample_titles": [
     "Individual Consultant - Strategic Advisory (003/HR/CONS/01/2026)",
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 6,
+   "relevant": 5,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
@@ -154,11 +154,10 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
+   "fetched": 1,
    "relevant": 0,
    "sample_titles": [
-    "Two M-6 sections to be built under public-private partnership model",
-    "CDWP approves Rs19.3b projects"
+    "EU proposes tax on Big Tech to boost budget"
    ]
   },
   "moitt": {
