@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-22T16:28+05:00",
+ "run_at": "2026-11-23T17:49+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -16,25 +16,25 @@
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1931,
-   "relevant": 6,
+   "fetched": 1884,
+   "relevant": 7,
    "sample_titles": [
-    "INTERNATIONAL TENDER FOR PROCUREMENT OF ANCHOR CHAIN AND SHACKLES FOR PNSC VESSEL SHALAMAR.",
-    "TENDER FOR LAUNCH CONTRACTOR FOR PROVIDING LAUNCH SERVICES FOR PNSC MANAGED, CHARTERED AND AGENCY VE",
-    "LP of Matches Box, Sal RR and Thread Ball",
-    "2nd Re-Tender for Electro-Medical Equipment/s of General Surgery Department under PSDP project tille"
+    "Procurement of 02 x 30TPH Water Tube Superheated Steam Boiler.",
+    "WAPDA TARBELA 4TH EXT. PRD NO.146",
+    "INVITATION TO TENDER- INDIGENOUS DEVELOPMENT OF DOCKING PLATFORMS",
+    "MT, GS&C, Med & Med Disposable Items"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 101,
-   "relevant": 0,
+   "fetched": 104,
+   "relevant": 1,
    "sample_titles": [
-    "Individual Consultant - Strategic Advisory (003/HR/CONS/01/2026)",
-    "Audit of Financial Statement of PTA",
-    "Hiring of Human Resource Consulting Firm for Executive Search Head Hunting and Recruitment...",
-    "ESTABLISHMENT OF 200 HOUSES AT SUI, DERA BUGTI"
+    "Hiring of New Consultant for NUML Rawalpindi & Lahore Campuses (New Sites Development Proj...",
+    "LAW FIRM/ ASSOCIATION OF PERSONS/ PARTERNSHIP ON RETAINER BASIS",
+    "Consultancy Services for Third Party Validation (TPV) of the Establishment of Daanish Scho...",
+    "Consultancy Services for Third Party Validation (TPV) of the Establishment of Daanish Scho..."
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 499,
-   "relevant": 5,
+   "relevant": 6,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
@@ -91,21 +91,21 @@
    "relevant": 0,
    "sample_titles": [
     "Corrigendum \"Re-Routing of Transmission line at 2MW KFW Project Sumayar.\"",
-    "Printing of Question Papers and Answer Scripts for upcoming examination.,",
-    "Construction of House and Procurement of Vehicle for DIG Police HQs (M).",
-    "Procurement of Goods and Services"
+    "Construction of civil and session courts//residential accommodation of Sub Division Gojal, Hunza (Co",
+    "Supply of Gas for Classrooms (Gas)/DDO Office",
+    "Const. of Road Khumit to Mashibar Nullah at Thoi Yasin (i. Const. of roa ii. Const. of RCC culverts,"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 24,
+   "fetched": 32,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Tire, Tube and Flap for Bacho Loader, Wheel Excavator, Wheel Loader (Machinery Mainte",
-    "Lease of Government Tourism Infrastructure/ Properties on Rehabilitate, Operate and Transfer Basis",
-    "Construction, Improvement, Reconditioning & Blacktopping of Roads Length 30 km LA-28 & LA-31",
-    "Supply & Delivery of Hydraulic Oil"
+    "Procurement of Feed for Animal & Birds, & Fish (Wildlife & Fisheries) (2)",
+    "Construction of OPD Block and Infrastructure at AIMS Muzaffarabad AJ&K",
+    "Consultancy Services for Development of an Implementation Framework for the Prime Minister's AJ&K Sc",
+    "Consultancy Services for Establishment of Nawaz Sharif School of Eminence (NSSE) in AJ&K (Planning C"
    ]
   },
   "ted": {
@@ -142,21 +142,22 @@
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2172,
+   "fetched": 2174,
    "relevant": 2,
    "sample_titles": [
-    "Procurement of Janitorial and Cleaning Services for the National Faceless Centre",
+    "Standard Bidding Document: Procurement of Protective Clothing and Tactical Gear for Collectorate of ",
+    "Invitation to Bid/Proposal from Eligible State-Owned Entity:Provision of End-to-End Unique Identific",
     "Standard Bidding Document",
-    "Procurement Notice (Tender Notice No. 1/2026-27): Procurement of Goods, Hiring of Services and Repai",
-    "Tender Notice 02/2026-27: Repair & Renovation Work of Office Building (Regional Tax Office, Kutchery"
+    "Minutes of the Pre-bid Meeting"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
-   "relevant": 0,
+   "fetched": 2,
+   "relevant": 1,
    "sample_titles": [
+    "AI Legal Tools Are Going Mainstream in Pakistan as Startups Target Overburdened Courts",
     "EU proposes tax on Big Tech to boost budget"
    ]
   },
