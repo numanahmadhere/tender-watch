@@ -1,40 +1,40 @@
 {
- "run_at": "2026-11-23T17:49+05:00",
+ "run_at": "2026-11-24T18:47+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
    "message": "",
    "fetched": 300,
-   "relevant": 0,
+   "relevant": 1,
    "sample_titles": [
-    "Construction/Rehabilitation of Retaining Wall at Government Girls High School, Hamlet, Tehsil Ghazi ",
-    "Procurement of Garbage Collection System for Left Bank Colony-TDP, under Social Development Plan T-5",
-    "Hiring of Consulting Firm for Early Grade Reading Assessment (EGRA) Endline Survey",
-    "Procurement of Laptops for Female Scholars under GRADES Balochistan"
+    "Updating of KWSB's Masterplan",
+    "HIRING OF CONSULTANCY FIRM FOR OWN SOURCE REVENUE (OSR) ASSESSMENT FOR PUNJAB INCLUSIVE CITIES PROGR",
+    "Hiring of Consultant Firm for Development of School Council Policy",
+    "Procurement of Bullet Proof Jackets, Helmets for Digital Enforcement Stations (DES)-Indus Sites"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1884,
+   "fetched": 1922,
    "relevant": 7,
    "sample_titles": [
-    "Procurement of 02 x 30TPH Water Tube Superheated Steam Boiler.",
-    "WAPDA TARBELA 4TH EXT. PRD NO.146",
-    "INVITATION TO TENDER- INDIGENOUS DEVELOPMENT OF DOCKING PLATFORMS",
-    "MT, GS&C, Med & Med Disposable Items"
+    "Semi Trailor",
+    "Welding Plant Twin Holder",
+    "0029/FP/SAA/57",
+    "Welding Fittings"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 104,
+   "fetched": 101,
    "relevant": 1,
    "sample_titles": [
-    "Hiring of New Consultant for NUML Rawalpindi & Lahore Campuses (New Sites Development Proj...",
-    "LAW FIRM/ ASSOCIATION OF PERSONS/ PARTERNSHIP ON RETAINER BASIS",
-    "Consultancy Services for Third Party Validation (TPV) of the Establishment of Daanish Scho...",
-    "Consultancy Services for Third Party Validation (TPV) of the Establishment of Daanish Scho..."
+    "HIRING OF CONSULTANCY SERVICES FOR THE PLANNING, DESIGN, AND ESTABLISHMENT OF ADVANCED S...",
+    "Procurement of Consultancy Services for Market Survey & Repot",
+    "INDEPENDENT THIRD-PARTY REVIEW OF THE HIGHER EDUCATION COMMISSION AND HEC-FUNDED HIGHER ED...",
+    "Hiring of Private Security Guards"
    ]
   },
   "epads_kp": {
@@ -51,9 +51,9 @@
    "relevant": 6,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
-    "Islamabad Electric Supply Company (IESCO) TENDER 4X3 DUCT LINE WITH MANHOLES, TRANSFORMERS/LBS PLINT",
-    "Pakistan Security Printing Corporaion (PSPC) T-4197-B-FA-REQ-0826-1-00018-Hiring Services of Vendor ",
-    "Pakistan Security Printing Corporaion (PSPC) Supply of Misc. 06 X Pneumatic Cylinders Paradise Enter"
+    "Islamabad Electric Supply Company (IESCO) TENDER FOR CONST. OF 2X2 & 2X3 DUCT LINE WITH MANHOLES IRO",
+    "Islamabad Electric Supply Company (IESCO) TENDER FOR CONST. OF 2X3 DUCT LINE WITH MANHOLES F-6 GRID ",
+    "Islamabad Electric Supply Company (IESCO) TENDER FOR RE-CONST. OF 4X3 DAMAGED DUCT LINE WITH MANHOLE"
    ]
   },
   "punjab_eproc": {
@@ -90,23 +90,18 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "Corrigendum \"Re-Routing of Transmission line at 2MW KFW Project Sumayar.\"",
-    "Construction of civil and session courts//residential accommodation of Sub Division Gojal, Hunza (Co",
-    "Supply of Gas for Classrooms (Gas)/DDO Office",
-    "Const. of Road Khumit to Mashibar Nullah at Thoi Yasin (i. Const. of roa ii. Const. of RCC culverts,"
+    "Water Supply Scheme at Sadpara Milpan and Other areas Halqa -II",
+    "Purchase of Plant & Machinery",
+    "CONSTRUCTION OF ALTERNATE 44FT WIDE ROAD FROM CADET COLLAGE TO HUSSAIN ABAD SKARDU VIA BANK OF INDUS",
+    "Repair/Maintenance of Govt. Vehicles"
    ]
   },
   "ajk_ppra": {
-   "status": "ok",
-   "message": "",
-   "fetched": 32,
+   "status": "error",
+   "message": "network: ConnectionError",
+   "fetched": 0,
    "relevant": 0,
-   "sample_titles": [
-    "Procurement of Feed for Animal & Birds, & Fish (Wildlife & Fisheries) (2)",
-    "Construction of OPD Block and Infrastructure at AIMS Muzaffarabad AJ&K",
-    "Consultancy Services for Development of an Implementation Framework for the Prime Minister's AJ&K Sc",
-    "Consultancy Services for Establishment of Nawaz Sharif School of Eminence (NSSE) in AJ&K (Planning C"
-   ]
+   "sample_titles": []
   },
   "ted": {
    "status": "experimental",
@@ -133,32 +128,36 @@
    ]
   },
   "pitb": {
-   "status": "error",
-   "message": "network: SSLError",
-   "fetched": 0,
+   "status": "ok",
+   "message": "",
+   "fetched": 29,
    "relevant": 0,
-   "sample_titles": []
+   "sample_titles": [
+    "Addendum - Establishment of Disaster Recovery Data Center at PITB Multan (DC-07)",
+    "Corrigendum- PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER ",
+    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP-07",
+    "PROCUREMENT OF IT HARDWARE, SERVER AND QMS FOR VARIOUS PROJECTS OF PITB (EGOV-24)"
+   ]
   },
   "fbr": {
    "status": "ok",
    "message": "",
-   "fetched": 2174,
+   "fetched": 2175,
    "relevant": 2,
    "sample_titles": [
-    "Standard Bidding Document: Procurement of Protective Clothing and Tactical Gear for Collectorate of ",
-    "Invitation to Bid/Proposal from Eligible State-Owned Entity:Provision of End-to-End Unique Identific",
-    "Standard Bidding Document",
-    "Minutes of the Pre-bid Meeting"
+    "Bidding Document for Second Round (2026): Authorization of Additional Vendors for Installation and M",
+    "Corrigendum No. 1",
+    "Minutes of the Pre-bid Meeting",
+    "Corrigendum No. 02"
    ]
   },
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
-   "relevant": 1,
+   "fetched": 1,
+   "relevant": 0,
    "sample_titles": [
-    "AI Legal Tools Are Going Mainstream in Pakistan as Startups Target Overburdened Courts",
-    "EU proposes tax on Big Tech to boost budget"
+    "Pakistan Awaits $1.2 Billion IMF Funding in December"
    ]
   },
   "moitt": {
