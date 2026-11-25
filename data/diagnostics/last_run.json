@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-24T18:47+05:00",
+ "run_at": "2026-11-25T17:59+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 1,
    "sample_titles": [
-    "Updating of KWSB's Masterplan",
-    "HIRING OF CONSULTANCY FIRM FOR OWN SOURCE REVENUE (OSR) ASSESSMENT FOR PUNJAB INCLUSIVE CITIES PROGR",
-    "Hiring of Consultant Firm for Development of School Council Policy",
-    "Procurement of Bullet Proof Jackets, Helmets for Digital Enforcement Stations (DES)-Indus Sites"
+    "Procurement of Office Furniture, Fixture and Equipment",
+    "Procurement of Office Furniture, Fixture and Equipment",
+    "Hiring of Social Mobilization Firm",
+    "PACKAGE 1: Construction/Rehab of Agri Research Building - Construction of Centre of Excellence for S"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 1922,
-   "relevant": 7,
+   "fetched": 1985,
+   "relevant": 8,
    "sample_titles": [
-    "Semi Trailor",
-    "Welding Plant Twin Holder",
-    "0029/FP/SAA/57",
-    "Welding Fittings"
+    "TE No. 3521-2-7-56-FP-Capt-Pur-AA, dt. 21-11-2026",
+    "PK-NGC-576148: SUPPLY, INTERFACING, TESTING & COMMISSIONING OF HARDWARE IN LOOP TRAINING SIMULATORS ",
+    "OUTSOURCING OF FREIGHT SERVICES THROUGH ZBTK/BTK WAGONS, ZBFC OR OTHER APPROVED WAGONS FOR TRANSPORT",
+    "WAPDA TARBELA DAM PRD NO. 141"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 101,
+   "fetched": 105,
    "relevant": 1,
    "sample_titles": [
-    "HIRING OF CONSULTANCY SERVICES FOR THE PLANNING, DESIGN, AND ESTABLISHMENT OF ADVANCED S...",
-    "Procurement of Consultancy Services for Market Survey & Repot",
-    "INDEPENDENT THIRD-PARTY REVIEW OF THE HIGHER EDUCATION COMMISSION AND HEC-FUNDED HIGHER ED...",
-    "Hiring of Private Security Guards"
+    "APPOINTMENT OF TAX ADVISOR FOR FY 2026-27 & 2027-28",
+    "Hiring of Private Security Guards",
+    "Expression of Interest (EOI) for Third Party Validation (TPV) Services for Solar Works of ...",
+    "Engagement of an Audit Firm to Conduct the Audit of Financial Statements of Climate Risk F..."
    ]
   },
   "epads_kp": {
@@ -90,18 +90,23 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
+    "civil works",
+    "\"Establishment of BPS Aliabad Sundo Tolti Broq\"",
     "Water Supply Scheme at Sadpara Milpan and Other areas Halqa -II",
-    "Purchase of Plant & Machinery",
-    "CONSTRUCTION OF ALTERNATE 44FT WIDE ROAD FROM CADET COLLAGE TO HUSSAIN ABAD SKARDU VIA BANK OF INDUS",
-    "Repair/Maintenance of Govt. Vehicles"
+    "Purchase of Plant & Machinery"
    ]
   },
   "ajk_ppra": {
-   "status": "error",
-   "message": "network: ConnectionError",
-   "fetched": 0,
+   "status": "ok",
+   "message": "",
+   "fetched": 41,
    "relevant": 0,
-   "sample_titles": []
+   "sample_titles": [
+    "Construction of Fruit/ Vegetable Market at Mohri Gojra Mzd, & Beautification of Municipal Office/ Su",
+    "Repair, Rehabilitation and Maintenance of Hydro Turbine runners",
+    "Rehabilitation/ Maintenance/ Protection Works of District Poonch Hydro Power Stations",
+    "Rehabilitation/ Maintenance/ Protection Works of Jehlum Valley Hydro Power Stations"
+   ]
   },
   "ted": {
    "status": "experimental",
@@ -130,13 +135,13 @@
   "pitb": {
    "status": "ok",
    "message": "",
-   "fetched": 29,
+   "fetched": 30,
    "relevant": 0,
    "sample_titles": [
+    "PROVISIONING OF SECURITY GUARDS SERVICES FOR ARFA SOFTWARE TECHNOLOGY PARK (ASTP) BUILDING & PITB OF",
+    "PROCUREMENT OF IT HARDWARE/IT EQUIPMENT FOR RAWALPINDI INSTITUTE OF CARDIOLOGY PROEJCT ON TURNKEY BA",
     "Addendum - Establishment of Disaster Recovery Data Center at PITB Multan (DC-07)",
-    "Corrigendum- PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER ",
-    "PROCUREMENT OF FOOD AND CATERING SERVICES FOR PITB VARIOUS PROJECTS UNDER FRAMEWORK CONTRACT (NDP-07",
-    "PROCUREMENT OF IT HARDWARE, SERVER AND QMS FOR VARIOUS PROJECTS OF PITB (EGOV-24)"
+    "Corrigendum- PROCUREMENT OF IT TRAINING SERVICES FOR SKILLS ENHANCEMENT IN GLOBAL IT PRODUCTS UNDER "
    ]
   },
   "fbr": {
@@ -154,10 +159,11 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "Pakistan Awaits $1.2 Billion IMF Funding in December"
+    "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during talks in Islamabad",
+    "Senegal reinstated as 2025 African champions, Morocco to contest decision"
    ]
   },
   "moitt": {
