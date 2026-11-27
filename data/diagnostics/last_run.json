@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-26T17:39+05:00",
+ "run_at": "2026-11-27T17:26+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 3,
    "sample_titles": [
+    "Procurement of Motor Bikes for ESEF 4 district offices under 400 Girls Community Schools",
+    "Consulting Firm for Comprehensive CPD Quality Assurance and Institutional Capacity Assessment for CP",
     "Full Stack Developer 2",
-    "UX/UI Designer with User Research Skills",
-    "Full Stack Developer 3",
-    "Hiring of Consultant for Environmental and Social Safeguard (ESS)"
+    "UX/UI Designer with User Research Skills"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2080,
-   "relevant": 7,
+   "fetched": 2026,
+   "relevant": 8,
    "sample_titles": [
-    "Cold Applied Polymeric Corrosion & Mechanical Protection Tape alongwith Primer",
-    "Calcined Petroleum Coke",
-    "METALLURGICAL COKES",
-    "FP/PT/EPADS-1/14562 Assorted Valves"
+    "Valve Lubricants / Grease",
+    "WAPDA GBHP PRD NO.151",
+    "WAPDA GBHP PRD NO. 153",
+    "SM/CIV/FO/MUL/2026-27/02 Civil Works"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 117,
+   "fetched": 107,
    "relevant": 1,
    "sample_titles": [
-    "Engagement of an Audit Firm to Conduct the Audit of Financial Statements of Women Inclusiv...",
-    "Consultancy Services for Design Vetting and Construction Supervision for “Construction o...",
-    "Engagement of an Audit Firm to Conduct the Audit of Financial Statements of Climate Risk F...",
-    "Engagement of an Audit Firm to Conduct the Audit of Employee's Contributory Provident Fund..."
+    "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua...",
+    "Procurement of Consultancy Services for Security and Risk Assessment, Security Protocols a...",
+    "Procurement of Tax Consultancy Services for the State Bank of Pakistan",
+    "Hiring of Transaction Advisor for Development of Islamabad Technopolis Project in PPP Mode"
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 498,
-   "relevant": 6,
+   "relevant": 5,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Cabinet Division Annual Tender for Procurement of Hardware and Machinery Equipment Oriel Enterprises",
@@ -90,22 +90,22 @@
    "fetched": 60,
    "relevant": 0,
    "sample_titles": [
-    "civil works",
-    "Construction of water supply scheme for upper Hunza (Const. of water supply at Gulmit (Chamangul + C",
-    "civil works",
-    "\"Establishment of BPS Aliabad Sundo Tolti Broq\""
+    "supply of printing items",
+    "Repair maintenance of Govt vehicles",
+    "\"Social Health Protection Phase-II (OPD Health Insurance Scheme)\",",
+    "civil works"
    ]
   },
   "ajk_ppra": {
    "status": "ok",
    "message": "",
-   "fetched": 41,
+   "fetched": 40,
    "relevant": 0,
    "sample_titles": [
-    "Procurement of Multiple Items (THQ Fatehpur Thakiala) (13)",
-    "Construction, Improvement, Reconditioning and Blacktopping of 30 km Link ROads LA-26 (4)",
-    "Remaining Work for Construction of 1.9km RCC Protection Wall at Leswa Mouth on Main Neelum Valley Ro",
-    "Procurement of Stationery Items"
+    "Procurement of I.T Equipment",
+    "Establishment of Vice Chancellor's Secretariat, Construction of Computer Lab for 80 Students in Bloc",
+    "Hiring of Services for Operation & Maintenance Works of Mangla Dam Housing Authority (P-I)",
+    "Resurfacing/ Reconditioning of Green Bus Route, Length 20.75 km District Bagh"
    ]
   },
   "ted": {
@@ -138,10 +138,10 @@
    "fetched": 28,
    "relevant": 0,
    "sample_titles": [
+    "Corrigendum - PROVISIONING OF CONSULTANCY SERVICES FOR PAYMENT CARD INDUSTRY (“PCI”) AND DATA SECURI",
     "PROCUREMENT OF IT HARDWARE/IT EQUIPMENT FOR PITB NDP UNDER FRAMEWORK CONTRACT (NDP – 10)",
     "PROCUREMENT OF IT EQUIPMENT / IT HARDWARE FOR A PROJECT IMPLEMENTED BY PITB (EGOV-26)",
-    "PROVISIONING OF SECURITY GUARDS SERVICES FOR ARFA SOFTWARE TECHNOLOGY PARK (ASTP) BUILDING & PITB OF",
-    "PROCUREMENT OF IT HARDWARE/IT EQUIPMENT FOR RAWALPINDI INSTITUTE OF CARDIOLOGY PROEJCT ON TURNKEY BA"
+    "PROVISIONING OF SECURITY GUARDS SERVICES FOR ARFA SOFTWARE TECHNOLOGY PARK (ASTP) BUILDING & PITB OF"
    ]
   },
   "fbr": {
@@ -159,10 +159,11 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 1,
+   "fetched": 2,
    "relevant": 0,
    "sample_titles": [
-    "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during talks in Islamabad"
+    "Court Awards Rs. 10 Million to Man Illegally Jailed for Nearly a Decade",
+    "FBR sets quota for solvent supplies"
    ]
   },
   "moitt": {
