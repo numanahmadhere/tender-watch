@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T17:26+05:00",
+ "run_at": "2026-11-28T16:50+05:00",
  "sources": {
   "worldbank": {
    "status": "ok",
@@ -7,34 +7,34 @@
    "fetched": 300,
    "relevant": 3,
    "sample_titles": [
-    "Procurement of Motor Bikes for ESEF 4 district offices under 400 Girls Community Schools",
-    "Consulting Firm for Comprehensive CPD Quality Assurance and Institutional Capacity Assessment for CP",
-    "Full Stack Developer 2",
-    "UX/UI Designer with User Research Skills"
+    "Procurement of electronic appliances for PCU, PIU and 03 field offices",
+    "Procurement of Communication & IEC material including Printing & publication",
+    "Procurement of electronic appliances for PCU, PIU and 03 field offices",
+    "Procurement of electronic appliances for PCU, PIU and 03 field offices"
    ]
   },
   "epms_tenders": {
    "status": "ok",
    "message": "",
-   "fetched": 2026,
+   "fetched": 2005,
    "relevant": 8,
    "sample_titles": [
-    "Valve Lubricants / Grease",
-    "WAPDA GBHP PRD NO.151",
-    "WAPDA GBHP PRD NO. 153",
-    "SM/CIV/FO/MUL/2026-27/02 Civil Works"
+    "SSGC/SC/NR/EPADS/14581Hiring of Third Party Contractor for Providing Physiotherapy Services for Sukk",
+    "SSGC/SC/NR/EPADS/14580Hiring of Third Party Contractor for Providing Physiotherapy Services for Rawa",
+    "SSGC/SC/NR/EPADS/14586Hiring of Third Party Contractor for Providing Physiotherapy Services for Qasi",
+    "SSGC/SC/NR/EPADS/14582Hiring of Third Party Contractor for Providing Physiotherapy Services for Lark"
    ]
   },
   "epads_federal": {
    "status": "ok",
    "message": "",
-   "fetched": 107,
+   "fetched": 108,
    "relevant": 1,
    "sample_titles": [
+    "Hiring of Transaction Advisor for Development of Islamabad Technopolis Project in PPP Mode",
     "Revamping / Renovation of Aiwan-e-Nawdrat-e-Quaid-i-Azam (Quaid’s Museum) at Mazar-e-Qua...",
     "Procurement of Consultancy Services for Security and Risk Assessment, Security Protocols a...",
-    "Procurement of Tax Consultancy Services for the State Bank of Pakistan",
-    "Hiring of Transaction Advisor for Development of Islamabad Technopolis Project in PPP Mode"
+    "Procurement of Tax Consultancy Services for the State Bank of Pakistan"
    ]
   },
   "epads_kp": {
@@ -48,7 +48,7 @@
    "status": "ok",
    "message": "",
    "fetched": 498,
-   "relevant": 5,
+   "relevant": 4,
    "sample_titles": [
     "Sui Northern Gas Pipelines Limited (SNGPL) Tea Material M/S. ORGANIZED SERVICES (PVT) LTD., ISLAMABA",
     "Cabinet Division Annual Tender for Procurement of Hardware and Machinery Equipment Oriel Enterprises",
@@ -159,11 +159,12 @@
   "news": {
    "status": "ok",
    "message": "",
-   "fetched": 2,
+   "fetched": 3,
    "relevant": 0,
    "sample_titles": [
-    "Court Awards Rs. 10 Million to Man Illegally Jailed for Nearly a Decade",
-    "FBR sets quota for solvent supplies"
+    "S&P revises Hungary outlook to stable as fiscal risks ease",
+    "Female education: Call for evidence-based reforms, greater investment",
+    "KMC City Council approves 34 resolutions"
    ]
   },
   "moitt": {
